@@ -1,0 +1,1 @@
+This repository contains replication codes and intermediate data for paper ["Low-skilled Occupations Face the Highest Upskilling Pressure"] (https://arxiv.org/abs/2101.11505) by Di Tong, Lingfei Wu, and James Evans.
