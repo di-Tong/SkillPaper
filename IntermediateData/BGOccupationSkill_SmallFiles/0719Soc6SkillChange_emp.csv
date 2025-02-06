@@ -1,0 +1,803 @@
+,SOC,SkillChange
+0,Postal Service Mail Carriers,27.12609970674498
+1,"Grounds Maintenance Workers, All Other",26.338709677419352
+2,"Entertainers and Performers, Sports and Related Workers, All Other",23.775193798449582
+3,"Sewers, Hand",20.613333333333326
+4,Command and Control Center Specialists,17.10544217687076
+5,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",16.949019607843145
+6,Chemical Plant and System Operators,14.45556178416277
+7,Infantry Officers,13.412964228753744
+8,Fish and Game Wardens,12.835784313725476
+9,Agricultural Inspectors,12.731638418079132
+10,"Coil Winders, Tapers, and Finishers",12.285879629629626
+11,Transit and Railroad Police,12.152700186219752
+12,Terrazzo Workers and Finishers,11.828141783028999
+13,Agricultural Engineers,11.263433806638028
+14,"Transportation Workers, All Other",11.223613595706622
+15,New Accounts Clerks,11.221403851273388
+16,Mathematicians,11.191359023656377
+17,Airfield Operations Specialists,11.094386711398462
+18,Textile Bleaching and Dyeing Machine Operators and Tenders,11.090156665681322
+19,Mechanical Door Repairers,10.932925962768211
+20,Environmental Engineering Technicians,10.87744235451846
+21,Artillery and Missile Crew Members,10.743524096385535
+22,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",10.604651162790674
+23,"Mathematical Science Occupations, All Other",10.589784263959382
+24,Forensic Science Technicians,10.44558823529415
+25,Chiropractors,10.396989651928477
+26,"Coin, Vending, and Amusement Machine Servicers and Repairers",10.346615939126927
+27,Commercial Pilots,10.184579646672438
+28,"Social Sciences Teachers, Postsecondary, All Other",9.999999999999998
+29,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",9.715668207395494
+30,"Agricultural Sciences Teachers, Postsecondary",9.578638497652605
+31,"Electronic Equipment Installers and Repairers, Motor Vehicles",9.555600498870811
+32,Agricultural Equipment Operators,9.293710021321957
+33,Manufactured Building and Mobile Home Installers,9.290816326530615
+34,"Career/Technical Education Teachers, Middle School",9.264742165076642
+35,Semiconductor Processors,9.081381604266344
+36,"Floor Layers, Except Carpet, Wood, and Hard Tiles",8.866993564204746
+37,"Therapists, All Other",8.82487623762377
+38,Radar and Sonar Technicians,8.712440981543336
+39,Gas Plant Operators,8.66538822493574
+40,"Library Science Teachers, Postsecondary",8.611111111111105
+41,"Construction and Related Workers, All Other",8.608173883740557
+42,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",8.490599424906009
+43,"Religious Workers, All Other",8.461977572629465
+44,Special Forces,8.41025641025641
+45,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",8.352090862157981
+46,"Rock Splitters, Quarry",8.160447761194023
+47,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",8.030303030303033
+48,Sociologists,7.991833956131188
+49,"Pourers and Casters, Metal",7.983333333333334
+50,Actors,7.975346870935116
+51,Nuclear Power Reactor Operators,7.864636063869971
+52,"Artists and Related Workers, All Other",7.837837837837839
+53,"Buyers and Purchasing Agents, Farm Products",7.770927696695177
+54,Solar Photovoltaic Installers,7.689441393273013
+55,Set and Exhibit Designers,7.6603618421052335
+56,Fallers,7.635621252044362
+57,Shoe Machine Operators and Tenders,7.599154369093019
+58,"Sawing Machine Setters, Operators, and Tenders, Wood",7.57811596582138
+59,Helpers--Production Workers,7.575460710209288
+60,Audio-Visual and Multimedia Collections Specialists,7.571250901225692
+61,"Wholesale and Retail Buyers, Except Farm Products",7.5259231974116
+62,Machine Feeders and Offbearers,7.5065789473684035
+63,Prepress Technicians and Workers,7.447339627439808
+64,Aerospace Engineering and Operations Technicians,7.446712328432422
+65,Athletes and Sports Competitors,7.422319474835918
+66,Choreographers,7.4050632911392515
+67,Hearing Aid Specialists,7.367891357521415
+68,"Roustabouts, Oil and Gas",7.312778551102929
+69,Riggers,7.2084038779022785
+70,Multimedia Artists and Animators,7.1923865568104794
+71,"Telecommunications Equipment Installers and Repairers, Except Line Installers",7.172322624486184
+72,Veterinarians,7.100749769571905
+73,Shoe and Leather Workers and Repairers,7.094017094017087
+74,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",7.078153963580834
+75,Web Developers,7.007636176062109
+76,Nurse Midwives,6.956068573635705
+77,"Woodworkers, All Other",6.9353667392883125
+78,"Rail Transportation Workers, All Other",6.91683062537024
+79,"Arbitrators, Mediators, and Conciliators",6.784429993732233
+80,Sailors and Marine Oilers,6.74444976788922
+81,"Administrative Law Judges, Adjudicators, and Hearing Officers",6.7412971255236265
+82,Mine Cutting and Channeling Machine Operators,6.665605095541407
+83,Bailiffs,6.633550870932916
+84,Radio Operators,6.590858636313171
+85,Desktop Publishers,6.537990301139363
+86,Statistical Assistants,6.4380999977224915
+87,Hazardous Materials Removal Workers,6.421330503751411
+88,Gas Compressor and Gas Pumping Station Operators,6.41406726042731
+89,"Helpers, Construction Trades, All Other",6.402819388498304
+90,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",6.401855456452387
+91,"Plant and System Operators, All Other",6.342654526815111
+92,"Special Education Teachers, Secondary School",6.336813945782461
+93,Petroleum Engineers,6.320274850727079
+94,Forest Fire Inspectors and Prevention Specialists,6.286387909954025
+95,Biomedical Engineers,6.255888241652339
+96,"Makeup Artists, Theatrical and Performance",6.253946687370587
+97,Orthotists and Prosthetists,6.249102708568103
+98,Postal Service Clerks,6.219316333264214
+99,"Mining and Geological Engineers, Including Mining Safety Engineers",6.207010550436251
+100,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",6.194190366626427
+101,Social Science Research Assistants,6.099583569809471
+102,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",6.091533295048804
+103,Ship Engineers,6.067695351890259
+104,Transportation Security Screeners,6.0471367056876
+105,"Assemblers and Fabricators, All Other",6.034884295959102
+106,"Textile, Apparel, and Furnishings Workers, All Other",6.020112770523308
+107,Animal Scientists,6.012547379427514
+108,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",5.996948561464693
+109,"First-Line Supervisors of Protective Service Workers, All Other",5.992584860321704
+110,"Mixing and Blending Machine Setters, Operators, and Tenders",5.98671832514223
+111,Database Administrators,5.953235069555192
+112,Models,5.925729405835233
+113,Conveyor Operators and Tenders,5.919105171411981
+114,Brokerage Clerks,5.876441833775786
+115,Court Reporters,5.874505503113862
+116,Aircraft Launch and Recovery Specialists,5.864781941705021
+117,Financial Examiners,5.861607063949772
+118,Museum Technicians and Conservators,5.847218876766989
+119,Subway and Streetcar Operators,5.827056090814768
+120,"Art, Drama, and Music Teachers, Postsecondary",5.819756814015046
+121,Computer Operators,5.785739298098258
+122,Materials Scientists,5.784354964541831
+123,Computer and Information Research Scientists,5.7651920082176895
+124,Continuous Mining Machine Operators,5.752776523702025
+125,Sales Engineers,5.733761221692893
+126,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",5.731428571428582
+127,Computer and Information Systems Managers,5.709269310483021
+128,Computer Programmers,5.677835149888802
+129,Wind Turbine Service Technicians,5.662153525048018
+130,Nuclear Engineers,5.661750218146271
+131,Nuclear Technicians,5.6531075460486955
+132,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",5.650779983626966
+133,"Sales Representatives, Services, All Other",5.6406191305451
+134,First-Line Supervisors of Correctional Officers,5.605576407506685
+135,Survey Researchers,5.604994516156224
+136,"Patternmakers, Wood",5.6000000000000005
+137,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",5.579394605414025
+138,Computer Network Architects,5.576586342891282
+139,Electromechanical Equipment Assemblers,5.575498575498577
+140,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",5.5467973912667885
+141,"Software Developers, Applications",5.50648101539786
+142,"Mining Machine Operators, All Other",5.504371584699451
+143,Cargo and Freight Agents,5.49947024063642
+144,Network and Computer Systems Administrators,5.499009992216288
+145,Chemical Technicians,5.486820535458763
+146,Transportation Inspectors,5.46179518433379
+147,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5.451956791040449
+148,"Meat, Poultry, and Fish Cutters and Trimmers",5.446138246461837
+149,Security and Fire Alarm Systems Installers,5.439684087789328
+150,Carpet Installers,5.435538461538468
+151,"Software Developers, Systems Software",5.430407243628242
+152,"Cooks, Short Order",5.425496224661874
+153,Historians,5.42532063492064
+154,"Social Scientists and Related Workers, All Other",5.420784272667245
+155,Tour Guides and Escorts,5.420130717960874
+156,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",5.418689016562007
+157,Advertising and Promotions Managers,5.417902484812635
+158,"Control and Valve Installers and Repairers, Except Mechanical Door",5.3644130969779535
+159,Electronic Home Entertainment Equipment Installers and Repairers,5.306898452770685
+160,Computer Network Support Specialists,5.286667703383425
+161,Information Security Analysts,5.283733340270757
+162,Forest and Conservation Workers,5.276222257282946
+163,"Environmental Science Teachers, Postsecondary",5.27607733912731
+164,Curators,5.263046157119246
+165,Commercial and Industrial Designers,5.261901455488998
+166,Telecommunications Line Installers and Repairers,5.2410210410917495
+167,Marine Engineers and Naval Architects,5.219571388283821
+168,Crane and Tower Operators,5.196073427512256
+169,"Graders and Sorters, Agricultural Products",5.1853531316237405
+170,"Tax Examiners and Collectors, and Revenue Agents",5.18425370174359
+171,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",5.140289037257041
+172,"Fine Artists, Including Painters, Sculptors, and Illustrators",5.131191112265297
+173,Photographic Process Workers and Processing Machine Operators,5.128534660740707
+174,Statisticians,5.120893313605112
+175,Conservation Scientists,5.115223967869022
+176,Agricultural and Food Science Technicians,5.114028039357623
+177,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",5.089073694221478
+178,"Information and Record Clerks, All Other",5.079078624813132
+179,Urban and Regional Planners,5.078219872211477
+180,Demonstrators and Product Promoters,5.078070135999307
+181,Traffic Technicians,5.062936412208117
+182,Purchasing Managers,5.045836761756584
+183,Medical Equipment Repairers,5.012817859519567
+184,"Opticians, Dispensing",5.011178414078973
+185,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",5.005837762409106
+186,First-Line Supervisors of Fire Fighting and Prevention Workers,5.005043236739274
+187,Instructional Coordinators,4.995910862614738
+188,Correspondence Clerks,4.9828405189419
+189,"Computer Occupations, All Other",4.982050245166453
+190,"Healthcare Practitioners and Technical Workers, All Other",4.962948531711563
+191,"Radio, Cellular, and Tower Equipment Installers and Repairs",4.960881882598445
+192,Computer Hardware Engineers,4.949886714385573
+193,Tax Preparers,4.941225084449017
+194,Archivists,4.929231452940302
+195,Market Research Analysts and Marketing Specialists,4.9094030456415
+196,"Airline Pilots, Copilots, and Flight Engineers",4.908390184859178
+197,Civil Engineering Technicians,4.905770886047417
+198,Cement Masons and Concrete Finishers,4.860363499746024
+199,Construction Laborers,4.85324896749778
+200,"Captains, Mates, and Pilots of Water Vessels",4.852164513445455
+201,Art Directors,4.8472384733469225
+202,"Morticians, Undertakers, and Funeral Directors",4.845932889411154
+203,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",4.843594675706365
+204,Cost Estimators,4.838717422569488
+205,Rail Car Repairers,4.836411859744992
+206,Power Distributors and Dispatchers,4.830744344728992
+207,Farm and Home Management Advisors,4.802444467966139
+208,Fashion Designers,4.793218107198728
+209,"Motor Vehicle Operators, All Other",4.7927271579855155
+210,Industrial Engineers,4.779252592135768
+211,Biological Technicians,4.7790507779862965
+212,Computer Systems Analysts,4.758687269507465
+213,"Military Officer Special and Tactical Operations Leaders, All Other",4.7530534868968575
+214,Log Graders and Scalers,4.752498478084418
+215,Couriers and Messengers,4.737538188115143
+216,Veterinary Technologists and Technicians,4.737095615768054
+217,Biochemists and Biophysicists,4.731720098975305
+218,"Vocational Education Teachers, Postsecondary",4.727844677197121
+219,"Community and Social Service Specialists, All Other",4.720804918092486
+220,Real Estate Brokers,4.71900475940561
+221,"Precision Instrument and Equipment Repairers, All Other",4.707549504950496
+222,Geological and Petroleum Technicians,4.70518712341512
+223,Motion Picture Projectionists,4.699131513647633
+224,"Office Machine Operators, Except Computer",4.6928671686133505
+225,"Designers, All Other",4.685567174748101
+226,Sound Engineering Technicians,4.679205451665599
+227,"Explosives Workers, Ordnance Handling Experts, and Blasters",4.661583427383164
+228,Marketing Managers,4.654765753961878
+229,Farm Labor Contractors,4.651079136690643
+230,"Layout Workers, Metal and Plastic",4.643079501915713
+231,"Business Operations Specialists, All Other",4.637700817754257
+232,Aircraft Cargo Handling Supervisors,4.62777900066037
+233,"Computer, Automated Teller, and Office Machine Repairers",4.625764854404723
+234,"Rail Yard Engineers, Dinkey Operators, and Hostlers",4.625
+235,"Insurance Appraisers, Auto Damage",4.624346918418167
+236,"Education Administrators, All Other",4.6207677589600955
+237,Food Scientists and Technologists,4.610892143345809
+238,Emergency Management Directors,4.603938506570591
+239,Actuaries,4.600727790224986
+240,Graphic Designers,4.599179481809586
+241,Architectural and Engineering Managers,4.589039472877942
+242,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",4.571177209072602
+243,Optometrists,4.565634097300109
+244,"Production, Planning, and Expediting Clerks",4.559351925293973
+245,Public Relations Specialists,4.536624387595814
+246,Soil and Plant Scientists,4.531393323954045
+247,Training and Development Managers,4.523409116999973
+248,"Biological Scientists, All Other",4.5217239174684805
+249,"Farmworkers, Farm, Ranch, and Aquacultural Animals",4.5199784590741325
+250,Geographers,4.51868621748943
+251,"Environmental Science and Protection Technicians, Including Health",4.5034923261472155
+252,Chemical Engineers,4.492241425759912
+253,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",4.487263712014627
+254,"Financial Specialists, All Other",4.484184817914921
+255,Logisticians,4.476996527618037
+256,Rehabilitation Counselors,4.468665623940636
+257,First-Line Supervisors of Non-Retail Sales Workers,4.464558509461397
+258,Funeral Attendants,4.4572680788897
+259,Forest and Conservation Technicians,4.455370413956288
+260,Etchers and Engravers,4.453141091658079
+261,Dental Assistants,4.448780042867135
+262,Industrial-Organizational Psychologists,4.428239308394515
+263,Funeral Service Managers,4.424441655210885
+264,"Health Diagnosing and Treating Practitioners, All Other",4.42308394213644
+265,Electrical Engineers,4.416938294624833
+266,Floral Designers,4.410793104377115
+267,Tree Trimmers and Pruners,4.407248752798505
+268,Prosthodontists,4.402193784277884
+269,Public Address System and Other Announcers,4.39427634497876
+270,Pharmacy Aides,4.386931127129845
+271,Detectives and Criminal Investigators,4.376966222553156
+272,Producers and Directors,4.375236848248903
+273,Watch Repairers,4.3748268593796995
+274,"Court, Municipal, and License Clerks",4.364481173067965
+275,Materials Engineers,4.362711246398295
+276,Refuse and Recyclable Material Collectors,4.356076101248095
+277,Epidemiologists,4.351856700175217
+278,"Engineers, All Other",4.349405944845132
+279,Hoist and Winch Operators,4.340146782032837
+280,Nuclear Medicine Technologists,4.338722604184271
+281,"Eligibility Interviewers, Government Programs",4.337565389328186
+282,Financial Managers,4.335573593866047
+283,"Model Makers, Metal and Plastic",4.33521052631578
+284,Administrative Services Managers,4.333937618132712
+285,Hydrologists,4.32877270403005
+286,Industrial Production Managers,4.317771709565945
+287,Management Analysts,4.3170439370952645
+288,Occupational Health and Safety Technicians,4.314987012904862
+289,"First-Line Supervisors of Mechanics, Installers, and Repairers",4.3143821141152365
+290,Labor Relations Specialists,4.307121917761339
+291,"Metal Workers and Plastic Workers, All Other",4.289141753637447
+292,Electrical Power-Line Installers and Repairers,4.271951920997232
+293,Computer User Support Specialists,4.27123098174703
+294,Financial Analysts,4.269137042078017
+295,Personal Financial Advisors,4.262437123723272
+296,Jewelers and Precious Stone and Metal Workers,4.258301312064742
+297,Film and Video Editors,4.256381762221692
+298,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",4.239578918673998
+299,"Legal Support Workers, All Other",4.238361483428282
+300,"Architects, Except Landscape and Naval",4.237661704343982
+301,Mechanical Engineering Technicians,4.216390730342703
+302,"Special Education Teachers, Preschool",4.215470247904893
+303,Human Resources Managers,4.214334803295744
+304,Locksmiths and Safe Repairers,4.211028740672228
+305,"Environmental Scientists and Specialists, Including Health",4.209760888244059
+306,Executive Secretaries and Executive Administrative Assistants,4.207846597320601
+307,Electro-Mechanical Technicians,4.206388358773231
+308,Environmental Engineers,4.206068409933444
+309,Advertising Sales Agents,4.20495785836143
+310,"Engineering Technicians, Except Drafters, All Other",4.202246218320883
+311,Engine and Other Machine Assemblers,4.198722190155187
+312,"Life, Physical, and Social Science Technicians, All Other",4.194557915416549
+313,Gaming Surveillance Officers and Gaming Investigators,4.186921452931315
+314,Technical Writers,4.1801027325121325
+315,Counter and Rental Clerks,4.175572804520678
+316,"Computer Science Teachers, Postsecondary",4.175119564939273
+317,Compensation and Benefits Managers,4.165913305099124
+318,Insurance Sales Agents,4.158469959814341
+319,Aerospace Engineers,4.158095077300036
+320,Gaming Dealers,4.154931184385647
+321,Cartographers and Photogrammetrists,4.1486826459273205
+322,Animal Control Workers,4.138204522431346
+323,Public Relations and Fundraising Managers,4.13538800247384
+324,"Physical Scientists, All Other",4.135181809101677
+325,Pipelayers,4.133221128948727
+326,Tire Repairers and Changers,4.129784915866462
+327,Private Detectives and Investigators,4.129166008716041
+328,"Maintenance and Repair Workers, General",4.1254504928135765
+329,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4.121940330871553
+330,"Credit Authorizers, Checkers, and Clerks",4.119999607565446
+331,Flight Attendants,4.113177172541746
+332,Natural Sciences Managers,4.111235218190495
+333,Gaming Supervisors,4.106768870084572
+334,Construction Managers,4.1061470432045875
+335,"Office and Administrative Support Workers, All Other",4.098717155122919
+336,Proofreaders and Copy Markers,4.097281896835332
+337,Dental Laboratory Technicians,4.094163427434574
+338,"Electronics Engineers, Except Computer",4.094016078963451
+339,Costume Attendants,4.088161512592149
+340,"Education Administrators, Preschool and Childcare Center/Program",4.0863095487646275
+341,Mechanical Engineers,4.080702216094807
+342,"Earth Drillers, Except Oil and Gas",4.077321644963361
+343,Ophthalmic Laboratory Technicians,4.0754760978820475
+344,Credit Analysts,4.073906115355994
+345,Political Scientists,4.034743782401175
+346,"Healthcare Support Workers, All Other",4.031311331256583
+347,Nonfarm Animal Caretakers,4.02584617701483
+348,Electrical and Electronics Engineering Technicians,4.02444347483855
+349,"Pump Operators, Except Wellhead Pumpers",4.019860011391422
+350,Motorcycle Mechanics,4.019426147147482
+351,Order Clerks,4.015476432794727
+352,"Maintenance Workers, Machinery",4.013741228300182
+353,Millwrights,4.000157352735389
+354,"Property, Real Estate, and Community Association Managers",3.9999383986369197
+355,Fundraisers,3.974599252212113
+356,Cashiers,3.9743703470319773
+357,Electrical and Electronics Drafters,3.9648949066720576
+358,"Ushers, Lobby Attendants, and Ticket Takers",3.9640564216777867
+359,Compliance Officers,3.9623934813469663
+360,Railroad Conductors and Yardmasters,3.9621803288373614
+361,Sales Managers,3.9464096733022727
+362,Medical Assistants,3.944606416907308
+363,"Securities, Commodities, and Financial Services Sales Agents",3.9442461830470474
+364,Judicial Law Clerks,3.9432437640886904
+365,"Communications Equipment Operators, All Other",3.9321061206623926
+366,Metal-Refining Furnace Operators and Tenders,3.923901378219601
+367,General and Operations Managers,3.9038050009892955
+368,Pest Control Workers,3.8958527364199966
+369,"Transportation, Storage, and Distribution Managers",3.8803453603703852
+370,Tile and Marble Setters,3.8792341678939675
+371,Interior Designers,3.87879444508247
+372,"Education, Training, and Library Workers, All Other",3.8578551642263523
+373,Training and Development Specialists,3.847450028591451
+374,Accountants and Auditors,3.830204107905755
+375,Social and Human Service Assistants,3.824908271740899
+376,"Medical Scientists, Except Epidemiologists",3.8245839613541843
+377,Zoologists and Wildlife Biologists,3.8235171435135
+378,Loan Officers,3.8229554342762966
+379,Occupational Health and Safety Specialists,3.822355406971399
+380,Genetic Counselors,3.8212275672933202
+381,Adhesive Bonding Machine Operators and Tenders,3.810277777777778
+382,Printing Press Operators,3.8093017881115596
+383,First-Line Supervisors of Office and Administrative Support Workers,3.8090524820007126
+384,"Counselors, All Other",3.794913973742266
+385,"Managers, All Other",3.7937487067094526
+386,Probation Officers and Correctional Treatment Specialists,3.7931092793729544
+387,Medical Records and Health Information Technicians,3.7778325320318
+388,First-Line Supervisors of Retail Sales Workers,3.777549840478784
+389,Foresters,3.7731569135369796
+390,Credit Counselors,3.7717648126435726
+391,Gaming Cage Workers,3.770811608641446
+392,"Police, Fire, and Ambulance Dispatchers",3.7663551405507483
+393,Dental Hygienists,3.765154844816652
+394,Civil Engineers,3.7597079685006167
+395,Locomotive Engineers,3.7573736833456595
+396,First-Line Supervisors of Construction Trades and Extraction Workers,3.7565538443429283
+397,"Compensation, Benefits, and Job Analysis Specialists",3.7454126475682386
+398,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",3.7276187876306395
+399,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",3.720003145648667
+400,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",3.717240295659074
+401,Interpreters and Translators,3.7161698852727536
+402,Budget Analysts,3.714086831992913
+403,First-Line Supervisors of Production and Operating Workers,3.7127025400091473
+404,Tool and Die Makers,3.7100794634201524
+405,"Meeting, Convention, and Event Planners",3.709891670872833
+406,Chief Executives,3.7076635824600337
+407,"Camera Operators, Television, Video, and Motion Picture",3.7048050537858304
+408,"Sales and Related Workers, All Other",3.6805433538762506
+409,"Personal Care and Service Workers, All Other",3.674091627172197
+410,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",3.6731757619606973
+411,Legal Secretaries,3.6670129819189676
+412,Librarians,3.666811142932159
+413,"Cutters and Trimmers, Hand",3.6655402579587544
+414,Human Resources Specialists,3.664970731866817
+415,"Electrical and Electronics Installers and Repairers, Transportation Equipment",3.662390670553935
+416,Boilermakers,3.6552214938657848
+417,File Clerks,3.6466272278694825
+418,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,3.6419516676715804
+419,Radio and Television Announcers,3.6353918699000802
+420,"Educational, Guidance, School, and Vocational Counselors",3.6291377221664
+421,"Material Moving Workers, All Other",3.6204943943706773
+422,Library Technicians,3.620325627520226
+423,Automotive Service Technicians and Mechanics,3.6169783298327096
+424,"Judges, Magistrate Judges, and Magistrates",3.6167845161290346
+425,Anthropologists and Archeologists,3.6112993957820696
+426,Fishers and Related Fishing Workers,3.5960301280564355
+427,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",3.591857303513969
+428,"Life Scientists, All Other",3.590141874929356
+429,Highway Maintenance Workers,3.586212743817036
+430,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",3.5835209158458903
+431,Power Plant Operators,3.5773408360032697
+432,Community Health Workers,3.573138689286471
+433,Chemists,3.56518954953187
+434,Landscape Architects,3.5624155400758313
+435,"Farmers, Ranchers, and Other Agricultural Managers",3.5612891375818956
+436,Helpers--Electricians,3.558611943170521
+437,Signal and Track Switch Repairers,3.5559854897218877
+438,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",3.540893726302804
+439,Operations Research Analysts,3.5384495971772383
+440,Procurement Clerks,3.5372020998674185
+441,Astronomers,3.529078967378974
+442,Recreational Therapists,3.528009036758815
+443,Animal Breeders,3.522633744855969
+444,"Paper Goods Machine Setters, Operators, and Tenders",3.522439420733169
+445,Chemical Equipment Operators and Tenders,3.51473042210886
+446,Stationary Engineers and Boiler Operators,3.514284061771605
+447,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",3.5134282018111245
+448,"Umpires, Referees, and Other Sports Officials",3.50897976833978
+449,Social and Community Service Managers,3.506508239275336
+450,Insurance Underwriters,3.504350852424003
+451,Medical and Health Services Managers,3.499991392142329
+452,Automotive Body and Related Repairers,3.499067878967372
+453,Slot Supervisors,3.4922680136521262
+454,Payroll and Timekeeping Clerks,3.492185053160821
+455,Food Service Managers,3.4899308412238685
+456,Light Truck or Delivery Services Drivers,3.482471288316792
+457,Microbiologists,3.479828001150293
+458,"Title Examiners, Abstractors, and Searchers",3.476360668275309
+459,"Bookkeeping, Accounting, and Auditing Clerks",3.4755591110969872
+460,Industrial Engineering Technicians,3.4719825488533167
+461,Medical Transcriptionists,3.471503481364787
+462,Bridge and Lock Tenders,3.465064977194215
+463,Health Educators ,3.4629250478050553
+464,"Extraction Workers, All Other",3.4617026586801067
+465,Air Traffic Controllers,3.4611513970476584
+466,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",3.454305118182527
+467,First-Line Supervisors of Food Preparation and Serving Workers,3.453462662315191
+468,Radiation Therapists,3.446868087524422
+469,Coaches and Scouts,3.443814496072886
+470,"Dispatchers, Except Police, Fire, and Ambulance",3.4416124667175176
+471,Tire Builders,3.4244459103562224
+472,Surveying and Mapping Technicians,3.420737982882876
+473,Security Guards,3.4052943539315685
+474,Parking Enforcement Workers,3.4049022061138423
+475,Pharmacy Technicians,3.3997178185047594
+476,"Child, Family, and School Social Workers",3.3968827301227456
+477,"Human Resources Assistants, Except Payroll and Timekeeping",3.394113993831378
+478,"Drafters, All Other",3.378207859339751
+479,Medical and Clinical Laboratory Technicians,3.377865426102403
+480,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",3.376596689481354
+481,Loan Interviewers and Clerks,3.3669602099398435
+482,"Agents and Business Managers of Artists, Performers, and Athletes",3.365297097715939
+483,Nursing Assistants,3.3524071851529267
+484,Medical Appliance Technicians,3.3454927833290653
+485,"Helpers--Installation, Maintenance, and Repair Workers",3.3454366664520867
+486,"Food Servers, Nonrestaurant",3.3436040777293616
+487,Medical Secretaries,3.3435218665910513
+488,Team Assemblers,3.342701388547201
+489,Appraisers and Assessors of Real Estate,3.342685487370599
+490,Economists,3.33865169555481
+491,Lawyers,3.3377771915203778
+492,Billing and Posting Clerks,3.3367674424706717
+493,Travel Agents,3.3357701104792215
+494,Paralegals and Legal Assistants,3.333282651687563
+495,"Interviewers, Except Eligibility and Loan",3.3312085629084396
+496,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",3.3305687559253054
+497,Fabric and Apparel Patternmakers,3.3265154639175254
+498,"Office Clerks, General",3.32620627339014
+499,Broadcast News Analysts,3.325170068027211
+500,Broadcast Technicians,3.324427955516407
+501,Audiologists,3.3229972850921734
+502,"Political Science Teachers, Postsecondary",3.311826027125138
+503,Orderlies,3.311301567659165
+504,Lodging Managers,3.307407476546944
+505,Writers and Authors,3.280977911389525
+506,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",3.2789366740698886
+507,"Installation, Maintenance, and Repair Workers, All Other",3.2687311609953102
+508,Parts Salespersons,3.2610238079353513
+509,Logging Equipment Operators,3.2580174927113674
+510,"Shipping, Receiving, and Traffic Clerks",3.2536641219681264
+511,Butchers and Meat Cutters,3.245325186900955
+512,Veterinary Assistants and Laboratory Animal Caretakers,3.240763332150656
+513,Real Estate Sales Agents,3.235601909775635
+514,Word Processors and Typists,3.2353965094473502
+515,Operating Engineers and Other Construction Equipment Operators,3.22273832715706
+516,Mechanical Drafters,3.220035922339196
+517,Emergency Medical Technicians and Paramedics,3.21501248193893
+518,Atmospheric and Space Scientists,3.204102463985474
+519,Packaging and Filling Machine Operators and Tenders,3.196701081378846
+520,Retail Salespersons,3.19201010592727
+521,Architectural and Civil Drafters,3.190598318682124
+522,Tellers,3.1882008407892433
+523,Electricians,3.1881138141405785
+524,Dishwashers,3.1855932673019125
+525,Plasterers and Stucco Masons,3.1827111984282896
+526,Respiratory Therapy Technicians,3.1773331342377036
+527,"Psychologists, All Other",3.173144480438785
+528,Water and Wastewater Treatment Plant and System Operators,3.171694882092799
+529,"Geoscientists, Except Hydrologists and Geographers",3.1683884825918445
+530,Oral and Maxillofacial Surgeons,3.1631882712179125
+531,Gaming and Sports Book Writers and Runners,3.160800552104894
+532,Phlebotomists,3.154570939681665
+533,Surveyors,3.154271610971283
+534,Healthcare Social Workers,3.1528205962319915
+535,Stock Clerks and Order Fillers,3.151639478362609
+536,"Inspectors, Testers, Sorters, Samplers, and Weighers",3.1509898856325913
+537,Helpers--Carpenters,3.146449515325944
+538,Audio and Video Equipment Technicians,3.144871490326886
+539,Ophthalmic Medical Technicians,3.143531808194247
+540,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",3.143398392466977
+541,Mental Health and Substance Abuse Social Workers,3.139112542134475
+542,Licensed Practical and Licensed Vocational Nurses,3.136897486098978
+543,Registered Nurses,3.1360770840422507
+544,Editors,3.1302202866463067
+545,Pharmacists,3.121539930184866
+546,"Logging Workers, All Other",3.102061528774465
+547,Craft Artists,3.0984708313463556
+548,Nurse Practitioners,3.0924217853590146
+549,Floor Sanders and Finishers,3.0904838522401197
+550,Bill and Account Collectors,3.086048632869121
+551,"Education Administrators, Elementary and Secondary School",3.086002473963366
+552,Athletic Trainers,3.0827365666861706
+553,First-Line Supervisors of Police and Detectives,3.0750990989381304
+554,Skincare Specialists,3.0737810867841313
+555,Exercise Physiologists,3.071974238269751
+556,"Education Administrators, Postsecondary",3.0584157514901777
+557,Correctional Officers and Jailers,3.0513021612482807
+558,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",3.0441688909794586
+559,Fire Inspectors and Investigators,3.026947985010935
+560,Merchandise Displayers and Window Trimmers,3.0260096390649758
+561,Physicists,3.0204688265557356
+562,Occupational Therapy Aides,3.0173362797434216
+563,Residential Advisors,3.0164323834052813
+564,Insurance Claims and Policy Processing Clerks,3.0132220886349743
+565,"Grinding and Polishing Workers, Hand",3.0068114091102562
+566,Dietitians and Nutritionists,3.006198553000282
+567,Food Cooking Machine Operators and Tenders,3.003993789708056
+568,"Protective Service Workers, All Other",2.991825952481335
+569,"Health Technologists and Technicians, All Other",2.9842725272967274
+570,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",2.9806166565533987
+571,Travel Guides,2.9731837805043253
+572,Structural Metal Fabricators and Fitters,2.9719864176570514
+573,Medical and Clinical Laboratory Technologists,2.967809441010306
+574,Cleaners of Vehicles and Equipment,2.9590904280983557
+575,Automotive and Watercraft Service Attendants,2.955016828466973
+576,First-Line Supervisors of Housekeeping and Janitorial Workers,2.9545911197277333
+577,"Mail Clerks and Mail Machine Operators, Except Postal Service",2.9433151009373706
+578,Customer Service Representatives,2.943079305077466
+579,"Library Assistants, Clerical",2.92508029332295
+580,"Combined Food Preparation and Serving Workers, Including Fast Food",2.9196441357496483
+581,Firefighters,2.916818099406261
+582,Helpers--Extraction Workers,2.9125287414816436
+583,"Home Economics Teachers, Postsecondary",2.8961571010593867
+584,"Gaming Service Workers, All Other",2.882536136187546
+585,"Tank Car, Truck, and Ship Loaders",2.8812253543975146
+586,"Loading Machine Operators, Underground Mining",2.868667137859829
+587,"Social Workers, All Other",2.860587852824086
+588,Reporters and Correspondents,2.860308060772862
+589,"Transportation Attendants, Except Flight Attendants ",2.848607520091999
+590,"Production Workers, All Other",2.8454837860489786
+591,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2.8444054033543544
+592,Cabinetmakers and Bench Carpenters,2.8364642051307443
+593,Concierges,2.8261380648299914
+594,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",2.8229771993171004
+595,"Claims Adjusters, Examiners, and Investigators",2.81972692552006
+596,Marriage and Family Therapists,2.8162561465836657
+597,Telemarketers,2.816113156820258
+598,"Service Unit Operators, Oil, Gas, and Mining",2.8052600685827205
+599,First-Line Supervisors of Personal Service Workers,2.803012680167859
+600,"Textile Cutting Machine Setters, Operators, and Tenders",2.8026456405865665
+601,Print Binding and Finishing Workers,2.790439868070411
+602,Slaughterers and Meat Packers,2.784542655513468
+603,Personal Care Aides,2.7828276603100455
+604,Magnetic Resonance Imaging Technologists,2.774085324833495
+605,Substance Abuse and Behavioral Disorder Counselors,2.7685787407370253
+606,Respiratory Therapists,2.7666199447826676
+607,Receptionists and Information Clerks,2.7655290591041837
+608,"Tailors, Dressmakers, and Custom Sewers",2.7628762541806076
+609,Avionics Technicians,2.7593519827516353
+610,"Painting, Coating, and Decorating Workers",2.7559701092396027
+611,Heavy and Tractor-Trailer Truck Drivers,2.7401322571916387
+612,"Cooks, Institution and Cafeteria",2.7398695902689454
+613,Police and Sheriff's Patrol Officers,2.7280494537382056
+614,Construction and Building Inspectors,2.727207174387062
+615,"Career/Technical Education Teachers, Secondary School",2.722026942557219
+616,Surgical Technologists,2.7217220804291067
+617,Reservation and Transportation Ticket Agents and Travel Clerks,2.7214642972130423
+618,Automotive Glass Installers and Repairers,2.714953135428455
+619,"Clinical, Counseling, and School Psychologists",2.7112238842017997
+620,Home Appliance Repairers,2.706104524076372
+621,Cardiovascular Technologists and Technicians,2.7053133250781904
+622,"Rotary Drill Operators, Oil and Gas",2.7008044428110582
+623,Home Health Aides,2.694588336678723
+624,Electrical and Electronic Equipment Assemblers,2.689070086385852
+625,Physician Assistants,2.686270019198498
+626,"Recreation and Fitness Studies Teachers, Postsecondary",2.6712948675678594
+627,Fence Erectors,2.6578016465140197
+628,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2.655399176860753
+629,"Patternmakers, Metal and Plastic",2.6552369544059173
+630,First-Line Supervisors of Weapons Specialists/Crew Members,2.6464646464646444
+631,Nurse Anesthetists,2.645879045322757
+632,Industrial Machinery Mechanics,2.640152072939357
+633,Food Batchmakers,2.6377871521009513
+634,Glaziers,2.6329016864067247
+635,Outdoor Power Equipment and Other Small Engine Mechanics,2.6302224776085894
+636,Radiologic Technologists ,2.6283563629213913
+637,"Education Teachers, Postsecondary",2.626293412114454
+638,"Mobile Heavy Equipment Mechanics, Except Engines",2.61453600569246
+639,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2.6135967198177745
+640,"Tool Grinders, Filers, and Sharpeners",2.6116342224816638
+641,Rail-Track Laying and Maintenance Equipment Operators,2.606234703635989
+642,Physical Therapist Aides,2.603207433581413
+643,Data Entry Keyers,2.5994228915306836
+644,"Computer-Controlled Machine Tool Operators, Metal and Plastic",2.599405375330629
+645,"Derrick Operators, Oil and Gas",2.588235294117647
+646,Waiters and Waitresses,2.581385740250638
+647,Parking Lot Attendants,2.581136793653994
+648,"Molders, Shapers, and Casters, Except Metal and Plastic",2.5799994210379706
+649,Bus and Truck Mechanics and Diesel Engine Specialists,2.579084663297211
+650,Farm Equipment Mechanics and Service Technicians,2.5624319187590787
+651,Medical Equipment Preparers,2.559533286072818
+652,Mental Health Counselors,2.5578482515028256
+653,Structural Iron and Steel Workers,2.5494603560963314
+654,"Nursing Instructors and Teachers, Postsecondary",2.5433448623141635
+655,Commercial Divers,2.5306115702479306
+656,"Cutting and Slicing Machine Setters, Operators, and Tenders",2.5171263016245646
+657,Dietetic Technicians,2.516833498838459
+658,"Locker Room, Coatroom, and Dressing Room Attendants",2.515273209758162
+659,"Railroad Brake, Signal, and Switch Operators",2.5119667013527542
+660,"Directors, Religious Activities and Education",2.5049806848764655
+661,Psychiatric Technicians,2.5019945432439235
+662,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2.4869158594711984
+663,Elevator Installers and Repairers,2.4839938604357266
+664,Telephone Operators,2.4788564385054768
+665,"Engineering Teachers, Postsecondary",2.4758502476118274
+666,Driver/Sales Workers,2.4733808393017207
+667,Psychiatric Aides,2.4609871224999136
+668,Recreation Workers,2.45396353663998
+669,"Architecture Teachers, Postsecondary",2.4518372415808227
+670,"Meter Readers, Utilities",2.450487658446013
+671,Chefs and Head Cooks,2.4251744175627024
+672,"Switchboard Operators, Including Answering Service",2.4249017877146795
+673,"Social Work Teachers, Postsecondary",2.422463035618943
+674,Excavating and Loading Machine and Dragline Operators,2.41560221289076
+675,Animal Trainers,2.4099290528200012
+676,Aircraft Mechanics and Service Technicians,2.4089013729147686
+677,Graduate Teaching Assistants,2.4039486644330985
+678,"Food Preparation and Serving Related Workers, All Other",2.3903818953323923
+679,Baggage Porters and Bellhops,2.3849705193246784
+680,Furniture Finishers,2.374715229585406
+681,"Packers and Packagers, Hand",2.3743905782306873
+682,Camera and Photographic Equipment Repairers,2.370614605929136
+683,Occupational Therapists,2.3667736428710717
+684,"Mathematical Science Teachers, Postsecondary",2.366199688558457
+685,Occupational Therapy Assistants,2.363943209618226
+686,Locomotive Firers,2.3508771929824563
+687,Physical Therapists,2.34760619176661
+688,Clergy,2.340035940688245
+689,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2.3195717365224255
+690,Physical Therapist Assistants,2.3178580647199225
+691,Brickmasons and Blockmasons,2.317397309967624
+692,"Teachers and Instructors, All Other",2.3101960221287148
+693,"Business Teachers, Postsecondary",2.3072068988793317
+694,"Communications Teachers, Postsecondary",2.302247164446207
+695,Adult Basic and Secondary Education and Literacy Teachers and Instructors ,2.288821579421963
+696,"Law Teachers, Postsecondary",2.2875283446712102
+697,Machinists,2.283710010466736
+698,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2.2783692452522954
+699,"English Language and Literature Teachers, Postsecondary",2.2745398853502836
+700,Sewing Machine Operators,2.273343765773144
+701,Dining Room and Cafeteria Attendants and Bartender Helpers,2.2679825614292826
+702,Taxi Drivers and Chauffeurs,2.265695865611234
+703,Amusement and Recreation Attendants,2.264101536981765
+704,Photographers,2.2619185259653607
+705,Diagnostic Medical Sonographers,2.247927876638803
+706,Speech-Language Pathologists,2.24604813367377
+707,Sheet Metal Workers,2.243352782626492
+708,"Laborers and Freight, Stock, and Material Movers, Hand",2.241884156659587
+709,Musical Instrument Repairers and Tuners,2.2389339208103323
+710,Food Preparation Workers,2.2225551824671244
+711,"Cooks, Fast Food",2.2220201646776188
+712,"Hotel, Motel, and Resort Desk Clerks",2.2176109292792456
+713,Fitness Trainers and Aerobics Instructors,2.1890658945329418
+714,"Health Specialties Teachers, Postsecondary",2.181493605561289
+715,"Electric Motor, Power Tool, and Related Repairers",2.180914793849777
+716,"Special Education Teachers, Middle School",2.163136040506352
+717,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2.155654024085843
+718,Segmental Pavers,2.133392679988664
+719,"Postsecondary Teachers, All Other",2.124236235741313
+720,"Refractory Materials Repairers, Except Brickmasons",2.123076923076923
+721,"Forestry and Conservation Science Teachers, Postsecondary",2.1198113648036543
+722,Family and General Practitioners,2.1148562357551715
+723,Podiatrists,2.082376054212159
+724,Motorboat Mechanics and Service Technicians,2.065657460589024
+725,Cooling and Freezing Equipment Operators and Tenders,2.057657657657659
+726,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2.0204930064081346
+727,Landscaping and Groundskeeping Workers,2.0174398632494195
+728,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2.0020612838862673
+729,Massage Therapists,1.9932721863990783
+730,Carpenters,1.988905912711249
+731,Teacher Assistants,1.9866328266916626
+732,"Anthropology and Archeology Teachers, Postsecondary",1.9861619257533139
+733,Command and Control Center Officers,1.9828280773143483
+734,"Physicians and Surgeons, All Other",1.9803477404040277
+735,Manicurists and Pedicurists,1.9774784500211748
+736,"Biological Science Teachers, Postsecondary",1.9760324629260517
+737,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.9668153926183893
+738,"History Teachers, Postsecondary",1.9659598124429405
+739,"Chemistry Teachers, Postsecondary",1.9093326998650175
+740,Mine Shuttle Car Operators,1.887052341597798
+741,"Plumbers, Pipefitters, and Steamfitters",1.8809602155542275
+742,Dancers,1.8485148514851475
+743,"Foreign Language and Literature Teachers, Postsecondary",1.848237526406094
+744,"Preschool Teachers, Except Special Education",1.8464539802518571
+745,"Special Education Teachers, Kindergarten and Elementary School",1.8356445183442083
+746,Music Directors and Composers,1.8321426988604448
+747,Maids and Housekeeping Cleaners,1.819313657472351
+748,Recreational Vehicle Service Technicians,1.7653587494006588
+749,Self-Enrichment Education Teachers,1.7642057371403284
+750,Bakers,1.7635808005668405
+751,"Paving, Surfacing, and Tamping Equipment Operators",1.7328472985639518
+752,Industrial Truck and Tractor Operators,1.731190639092707
+753,"Cooks, Restaurant",1.7108957302876227
+754,Laundry and Dry-Cleaning Workers,1.7053708316557883
+755,Childcare Workers,1.7035700232439517
+756,"Special Education Teachers, All Other",1.694185085910016
+757,Psychiatrists,1.6930537763930815
+758,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1.692961165048542
+759,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1.6916764980738086
+760,Anesthesiologists,1.6906756462618797
+761,Bicycle Repairers,1.684233329485045
+762,"Hairdressers, Hairstylists, and Cosmetologists",1.6840131755562984
+763,"Dentists, General",1.6649041400104232
+764,"Painters, Transportation Equipment",1.652403736275813
+765,"Internists, General",1.6464573366865114
+766,Upholsterers,1.6442673715810299
+767,"Welders, Cutters, Solderers, and Brazers",1.6240450383359593
+768,Surgeons,1.598039070743389
+769,Roofers,1.5698729083123164
+770,"Elementary School Teachers, Except Special Education",1.563971361205651
+771,Crossing Guards,1.5549565384847726
+772,Obstetricians and Gynecologists,1.5465712455003306
+773,"Secondary School Teachers, Except Special and Career/Technical Education",1.5287496332769606
+774,"Economics Teachers, Postsecondary",1.528221347991504
+775,"Psychology Teachers, Postsecondary",1.5133627340129887
+776,Bartenders,1.500472937148836
+777,"Sociology Teachers, Postsecondary",1.4841947514608356
+778,Fiberglass Laminators and Fabricators,1.4841261620529802
+779,"Middle School Teachers, Except Special and Career/Technical Education",1.4737581459367217
+780,"Physics Teachers, Postsecondary",1.4100224388073423
+781,"Insulation Workers, Floor, Ceiling, and Wall",1.3786062755895416
+782,Musicians and Singers,1.3315375406426135
+783,Shampooers,1.3207547169811327
+784,"Bus Drivers, School or Special Client ",1.3155489228817336
+785,"Painters, Construction and Maintenance",1.3001465618876635
+786,"Kindergarten Teachers, Except Special Education",1.2930187581699306
+787,"Philosophy and Religion Teachers, Postsecondary",1.2792888449497422
+788,"Pediatricians, General",1.2144415807330493
+789,Septic Tank Servicers and Sewer Pipe Cleaners,1.1893333333333318
+790,Orthodontists,1.1762944288776673
+791,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1.1456410256410272
+792,Wellhead Pumpers,1.1250000000000004
+793,Drywall and Ceiling Tile Installers,1.1076379972036732
+794,Hunters and Trappers,1.1067538126361656
+795,"Dentists, All Other Specialists",1.055190058479533
+796,Infantry,1.0547180346175316
+797,"Bus Drivers, Transit and Intercity ",1.0312955942585287
+798,Paperhangers,0.9868995633187777
+799,"Pressers, Textile, Garment, and Related Materials",0.8918619299571695
+800,"Insulation Workers, Mechanical",0.8883895131086152
+801,Stonemasons,0.8105872622001656

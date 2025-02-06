@@ -1,0 +1,3284 @@
+Computer Programmers	2007	18555
+Computer Programmers	2019	18291
+Computer Programmers	2010	26695
+Computer Programmers	2018	47018
+Insurance Sales Agents	2007	16110
+Insurance Sales Agents	2019	62872
+Insurance Sales Agents	2010	24720
+Insurance Sales Agents	2018	86391
+Computer Network Architects	2007	17950
+Computer Network Architects	2019	25120
+Computer Network Architects	2010	31931
+Computer Network Architects	2018	58176
+Occupational Therapists	2007	17977
+Occupational Therapists	2019	19145
+Occupational Therapists	2010	40274
+Occupational Therapists	2018	39450
+Registered Nurses	2007	148981
+Registered Nurses	2019	353198
+Registered Nurses	2010	249990
+Registered Nurses	2018	791916
+Engineering Technicians, Except Drafters, All Other	2007	10878
+Engineering Technicians, Except Drafters, All Other	2019	25711
+Engineering Technicians, Except Drafters, All Other	2010	15995
+Engineering Technicians, Except Drafters, All Other	2018	56187
+Office Clerks, General	2007	13311
+Office Clerks, General	2019	47717
+Office Clerks, General	2010	21553
+Office Clerks, General	2018	96009
+Physical Therapists	2007	30434
+Physical Therapists	2019	35200
+Physical Therapists	2010	53620
+Physical Therapists	2018	63841
+Residential Advisors	2007	1315
+Residential Advisors	2019	6831
+Residential Advisors	2010	3084
+Residential Advisors	2018	13588
+Security Guards	2007	8895
+Security Guards	2019	73164
+Security Guards	2010	23002
+Security Guards	2018	160614
+Light Truck or Delivery Services Drivers	2007	3997
+Light Truck or Delivery Services Drivers	2019	39316
+Light Truck or Delivery Services Drivers	2010	11728
+Light Truck or Delivery Services Drivers	2018	95273
+Real Estate Sales Agents	2007	8037
+Real Estate Sales Agents	2019	36293
+Real Estate Sales Agents	2010	13790
+Real Estate Sales Agents	2018	70372
+Securities, Commodities, and Financial Services Sales Agents	2007	28444
+Securities, Commodities, and Financial Services Sales Agents	2019	35586
+Securities, Commodities, and Financial Services Sales Agents	2010	39643
+Securities, Commodities, and Financial Services Sales Agents	2018	87321
+Food Service Managers	2007	34374
+Food Service Managers	2019	77684
+Food Service Managers	2010	104553
+Food Service Managers	2018	196753
+Pharmacists	2007	18587
+Pharmacists	2019	18765
+Pharmacists	2010	25018
+Pharmacists	2018	37965
+First-Line Supervisors of Retail Sales Workers	2007	92121
+First-Line Supervisors of Retail Sales Workers	2019	209382
+First-Line Supervisors of Retail Sales Workers	2010	233391
+First-Line Supervisors of Retail Sales Workers	2018	480105
+Postsecondary Teachers, All Other	2007	21485
+Postsecondary Teachers, All Other	2019	33040
+Postsecondary Teachers, All Other	2010	36051
+Postsecondary Teachers, All Other	2018	72688
+Computer Occupations, All Other	2007	133923
+Computer Occupations, All Other	2019	260567
+Computer Occupations, All Other	2010	239618
+Computer Occupations, All Other	2018	586106
+Life Scientists, All Other	2007	812
+Life Scientists, All Other	2019	1363
+Life Scientists, All Other	2010	1445
+Life Scientists, All Other	2018	2785
+Mechanical Engineers	2007	20983
+Mechanical Engineers	2019	26879
+Mechanical Engineers	2010	26701
+Mechanical Engineers	2018	58410
+Transportation Security Screeners	2007	1933
+Transportation Security Screeners	2019	1293
+Transportation Security Screeners	2010	1059
+Transportation Security Screeners	2018	2975
+Police and Sheriff's Patrol Officers	2007	2457
+Police and Sheriff's Patrol Officers	2019	7307
+Police and Sheriff's Patrol Officers	2010	4019
+Police and Sheriff's Patrol Officers	2018	13609
+First-Line Supervisors of Mechanics, Installers, and Repairers	2007	10247
+First-Line Supervisors of Mechanics, Installers, and Repairers	2019	35902
+First-Line Supervisors of Mechanics, Installers, and Repairers	2010	18755
+First-Line Supervisors of Mechanics, Installers, and Repairers	2018	73666
+Merchandise Displayers and Window Trimmers	2007	26716
+Merchandise Displayers and Window Trimmers	2019	61313
+Merchandise Displayers and Window Trimmers	2010	47212
+Merchandise Displayers and Window Trimmers	2018	133062
+Health Technologists and Technicians, All Other	2007	17236
+Health Technologists and Technicians, All Other	2019	41179
+Health Technologists and Technicians, All Other	2010	24913
+Health Technologists and Technicians, All Other	2018	82298
+Physical Scientists, All Other	2007	222
+Physical Scientists, All Other	2019	840
+Physical Scientists, All Other	2010	533
+Physical Scientists, All Other	2018	1301
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	2007	215996
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	2019	345572
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	2010	257805
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	2018	742882
+First-Line Supervisors of Production and Operating Workers	2007	9616
+First-Line Supervisors of Production and Operating Workers	2019	23447
+First-Line Supervisors of Production and Operating Workers	2010	15359
+First-Line Supervisors of Production and Operating Workers	2018	53400
+Pharmacy Technicians	2007	5993
+Pharmacy Technicians	2019	34677
+Pharmacy Technicians	2010	11981
+Pharmacy Technicians	2018	69336
+First-Line Supervisors of Construction Trades and Extraction Workers	2007	1432
+First-Line Supervisors of Construction Trades and Extraction Workers	2019	10402
+First-Line Supervisors of Construction Trades and Extraction Workers	2010	2319
+First-Line Supervisors of Construction Trades and Extraction Workers	2018	19398
+Health Educators 	2007	5336
+Health Educators 	2019	11547
+Health Educators 	2010	9147
+Health Educators 	2018	24981
+Cooks, Restaurant	2007	4212
+Cooks, Restaurant	2019	64429
+Cooks, Restaurant	2010	22131
+Cooks, Restaurant	2018	151040
+Managers, All Other	2007	124622
+Managers, All Other	2019	250313
+Managers, All Other	2010	183434
+Managers, All Other	2018	529668
+Financial Managers	2007	54674
+Financial Managers	2019	68355
+Financial Managers	2010	64665
+Financial Managers	2018	155447
+Nursing Assistants	2007	18527
+Nursing Assistants	2019	73901
+Nursing Assistants	2010	39353
+Nursing Assistants	2018	162635
+Installation, Maintenance, and Repair Workers, All Other	2007	2119
+Installation, Maintenance, and Repair Workers, All Other	2019	5961
+Installation, Maintenance, and Repair Workers, All Other	2010	3176
+Installation, Maintenance, and Repair Workers, All Other	2018	12443
+Surgical Technologists	2007	5835
+Surgical Technologists	2019	12454
+Surgical Technologists	2010	8725
+Surgical Technologists	2018	24473
+Architectural and Engineering Managers	2007	15645
+Architectural and Engineering Managers	2019	23668
+Architectural and Engineering Managers	2010	20468
+Architectural and Engineering Managers	2018	53073
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	2007	6299
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	2019	71991
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	2010	17128
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	2018	137274
+Inspectors, Testers, Sorters, Samplers, and Weighers	2007	7472
+Inspectors, Testers, Sorters, Samplers, and Weighers	2019	22511
+Inspectors, Testers, Sorters, Samplers, and Weighers	2010	10531
+Inspectors, Testers, Sorters, Samplers, and Weighers	2018	51097
+Laborers and Freight, Stock, and Material Movers, Hand	2007	10277
+Laborers and Freight, Stock, and Material Movers, Hand	2019	94578
+Laborers and Freight, Stock, and Material Movers, Hand	2010	24965
+Laborers and Freight, Stock, and Material Movers, Hand	2018	213241
+Personal Financial Advisors	2007	17616
+Personal Financial Advisors	2019	22748
+Personal Financial Advisors	2010	20421
+Personal Financial Advisors	2018	54097
+Medical and Health Services Managers	2007	53305
+Medical and Health Services Managers	2019	123941
+Medical and Health Services Managers	2010	106377
+Medical and Health Services Managers	2018	248166
+Bookkeeping, Accounting, and Auditing Clerks	2007	24720
+Bookkeeping, Accounting, and Auditing Clerks	2019	58570
+Bookkeeping, Accounting, and Auditing Clerks	2010	27491
+Bookkeeping, Accounting, and Auditing Clerks	2018	122266
+Maintenance and Repair Workers, General	2007	25035
+Maintenance and Repair Workers, General	2019	110327
+Maintenance and Repair Workers, General	2010	40847
+Maintenance and Repair Workers, General	2018	230511
+Medical and Clinical Laboratory Technologists	2007	8263
+Medical and Clinical Laboratory Technologists	2019	11426
+Medical and Clinical Laboratory Technologists	2010	11894
+Medical and Clinical Laboratory Technologists	2018	22915
+Electro-Mechanical Technicians	2007	2079
+Electro-Mechanical Technicians	2019	5460
+Electro-Mechanical Technicians	2010	3584
+Electro-Mechanical Technicians	2018	12177
+Telecommunications Line Installers and Repairers	2007	1015
+Telecommunications Line Installers and Repairers	2019	4450
+Telecommunications Line Installers and Repairers	2010	1986
+Telecommunications Line Installers and Repairers	2018	10237
+Customer Service Representatives	2007	115039
+Customer Service Representatives	2019	255149
+Customer Service Representatives	2010	136980
+Customer Service Representatives	2018	568446
+Production Workers, All Other	2007	7453
+Production Workers, All Other	2019	39378
+Production Workers, All Other	2010	9910
+Production Workers, All Other	2018	82118
+Electrical Engineers	2007	15822
+Electrical Engineers	2019	24303
+Electrical Engineers	2010	20777
+Electrical Engineers	2018	51323
+Industrial Engineering Technicians	2007	6451
+Industrial Engineering Technicians	2019	25156
+Industrial Engineering Technicians	2010	10288
+Industrial Engineering Technicians	2018	51992
+Counter and Rental Clerks	2007	1105
+Counter and Rental Clerks	2019	8894
+Counter and Rental Clerks	2010	2377
+Counter and Rental Clerks	2018	19804
+Human Resources Specialists	2007	38179
+Human Resources Specialists	2019	102126
+Human Resources Specialists	2010	49947
+Human Resources Specialists	2018	217765
+Retail Salespersons	2007	90183
+Retail Salespersons	2019	319865
+Retail Salespersons	2010	236927
+Retail Salespersons	2018	760774
+Network and Computer Systems Administrators	2007	29141
+Network and Computer Systems Administrators	2019	37665
+Network and Computer Systems Administrators	2010	49625
+Network and Computer Systems Administrators	2018	90138
+Environmental Science and Protection Technicians, Including Health	2007	888
+Environmental Science and Protection Technicians, Including Health	2019	3036
+Environmental Science and Protection Technicians, Including Health	2010	1335
+Environmental Science and Protection Technicians, Including Health	2018	6179
+Business Teachers, Postsecondary	2007	1724
+Business Teachers, Postsecondary	2019	2758
+Business Teachers, Postsecondary	2010	3002
+Business Teachers, Postsecondary	2018	6410
+Combined Food Preparation and Serving Workers, Including Fast Food	2007	15665
+Combined Food Preparation and Serving Workers, Including Fast Food	2019	100744
+Combined Food Preparation and Serving Workers, Including Fast Food	2010	28798
+Combined Food Preparation and Serving Workers, Including Fast Food	2018	213603
+Waiters and Waitresses	2007	4370
+Waiters and Waitresses	2019	66059
+Waiters and Waitresses	2010	19607
+Waiters and Waitresses	2018	123586
+Psychiatric Technicians	2007	1861
+Psychiatric Technicians	2019	4925
+Psychiatric Technicians	2010	2509
+Psychiatric Technicians	2018	10210
+Electrical and Electronics Engineering Technicians	2007	4403
+Electrical and Electronics Engineering Technicians	2019	11180
+Electrical and Electronics Engineering Technicians	2010	6511
+Electrical and Electronics Engineering Technicians	2018	24959
+Physicians and Surgeons, All Other	2007	11092
+Physicians and Surgeons, All Other	2019	30822
+Physicians and Surgeons, All Other	2010	29476
+Physicians and Surgeons, All Other	2018	58994
+Public Relations and Fundraising Managers	2007	14981
+Public Relations and Fundraising Managers	2019	26678
+Public Relations and Fundraising Managers	2010	26350
+Public Relations and Fundraising Managers	2018	56965
+Petroleum Engineers	2007	781
+Petroleum Engineers	2019	634
+Petroleum Engineers	2010	1200
+Petroleum Engineers	2018	1650
+Phlebotomists	2007	8792
+Phlebotomists	2019	12188
+Phlebotomists	2010	12485
+Phlebotomists	2018	24428
+Physician Assistants	2007	7385
+Physician Assistants	2019	11975
+Physician Assistants	2010	12235
+Physician Assistants	2018	25958
+Physical Therapist Assistants	2007	9508
+Physical Therapist Assistants	2019	11000
+Physical Therapist Assistants	2010	15792
+Physical Therapist Assistants	2018	20372
+Radiologic Technologists 	2007	10768
+Radiologic Technologists 	2019	13762
+Radiologic Technologists 	2010	8220
+Radiologic Technologists 	2018	27115
+General and Operations Managers	2007	37937
+General and Operations Managers	2019	101600
+General and Operations Managers	2010	59411
+General and Operations Managers	2018	221921
+Dining Room and Cafeteria Attendants and Bartender Helpers	2007	1548
+Dining Room and Cafeteria Attendants and Bartender Helpers	2019	21926
+Dining Room and Cafeteria Attendants and Bartender Helpers	2010	4339
+Dining Room and Cafeteria Attendants and Bartender Helpers	2018	44511
+Construction and Building Inspectors	2007	1289
+Construction and Building Inspectors	2019	5549
+Construction and Building Inspectors	2010	2605
+Construction and Building Inspectors	2018	11132
+Occupational Therapy Aides	2007	772
+Occupational Therapy Aides	2019	3981
+Occupational Therapy Aides	2010	1845
+Occupational Therapy Aides	2018	7039
+Reservation and Transportation Ticket Agents and Travel Clerks	2007	772
+Reservation and Transportation Ticket Agents and Travel Clerks	2019	2574
+Reservation and Transportation Ticket Agents and Travel Clerks	2010	1013
+Reservation and Transportation Ticket Agents and Travel Clerks	2018	5480
+Mining and Geological Engineers, Including Mining Safety Engineers	2007	243
+Mining and Geological Engineers, Including Mining Safety Engineers	2019	252
+Mining and Geological Engineers, Including Mining Safety Engineers	2010	529
+Mining and Geological Engineers, Including Mining Safety Engineers	2018	408
+First-Line Supervisors of Office and Administrative Support Workers	2007	28380
+First-Line Supervisors of Office and Administrative Support Workers	2019	60742
+First-Line Supervisors of Office and Administrative Support Workers	2010	34258
+First-Line Supervisors of Office and Administrative Support Workers	2018	129168
+Computer Network Support Specialists	2007	5078
+Computer Network Support Specialists	2019	7743
+Computer Network Support Specialists	2010	7813
+Computer Network Support Specialists	2018	15495
+Loan Officers	2007	17335
+Loan Officers	2019	19707
+Loan Officers	2010	21812
+Loan Officers	2018	46593
+Social Workers, All Other	2007	9227
+Social Workers, All Other	2019	15893
+Social Workers, All Other	2010	13513
+Social Workers, All Other	2018	30895
+Civil Engineers	2007	20416
+Civil Engineers	2019	28943
+Civil Engineers	2010	14971
+Civil Engineers	2018	59761
+Heavy and Tractor-Trailer Truck Drivers	2007	6794
+Heavy and Tractor-Trailer Truck Drivers	2019	204743
+Heavy and Tractor-Trailer Truck Drivers	2010	55374
+Heavy and Tractor-Trailer Truck Drivers	2018	486787
+Sales Managers	2007	74617
+Sales Managers	2019	116905
+Sales Managers	2010	100322
+Sales Managers	2018	248758
+Maids and Housekeeping Cleaners	2007	14440
+Maids and Housekeeping Cleaners	2019	62656
+Maids and Housekeeping Cleaners	2010	19399
+Maids and Housekeeping Cleaners	2018	129458
+Pediatricians, General	2007	782
+Pediatricians, General	2019	1915
+Pediatricians, General	2010	1555
+Pediatricians, General	2018	4280
+Computer User Support Specialists	2007	39834
+Computer User Support Specialists	2019	74944
+Computer User Support Specialists	2010	59750
+Computer User Support Specialists	2018	176192
+Heating, Air Conditioning, and Refrigeration Mechanics and Installers	2007	5907
+Heating, Air Conditioning, and Refrigeration Mechanics and Installers	2019	21120
+Heating, Air Conditioning, and Refrigeration Mechanics and Installers	2010	10368
+Heating, Air Conditioning, and Refrigeration Mechanics and Installers	2018	46307
+Electricians	2007	4966
+Electricians	2019	12489
+Electricians	2010	5318
+Electricians	2018	30739
+Emergency Medical Technicians and Paramedics	2007	1518
+Emergency Medical Technicians and Paramedics	2019	9150
+Emergency Medical Technicians and Paramedics	2010	4579
+Emergency Medical Technicians and Paramedics	2018	16466
+Licensed Practical and Licensed Vocational Nurses	2007	16656
+Licensed Practical and Licensed Vocational Nurses	2019	69917
+Licensed Practical and Licensed Vocational Nurses	2010	37744
+Licensed Practical and Licensed Vocational Nurses	2018	130167
+Medical Records and Health Information Technicians	2007	20323
+Medical Records and Health Information Technicians	2019	40207
+Medical Records and Health Information Technicians	2010	33747
+Medical Records and Health Information Technicians	2018	79822
+Obstetricians and Gynecologists	2007	2836
+Obstetricians and Gynecologists	2019	3854
+Obstetricians and Gynecologists	2010	2964
+Obstetricians and Gynecologists	2018	7990
+Industrial Machinery Mechanics	2007	7519
+Industrial Machinery Mechanics	2019	10235
+Industrial Machinery Mechanics	2010	8271
+Industrial Machinery Mechanics	2018	24420
+Traffic Technicians	2007	97
+Traffic Technicians	2019	662
+Traffic Technicians	2010	148
+Traffic Technicians	2018	1522
+Computer and Information Systems Managers	2007	4144
+Computer and Information Systems Managers	2019	8160
+Computer and Information Systems Managers	2010	8126
+Computer and Information Systems Managers	2018	17746
+Middle School Teachers, Except Special and Career/Technical Education	2007	6551
+Middle School Teachers, Except Special and Career/Technical Education	2019	44874
+Middle School Teachers, Except Special and Career/Technical Education	2010	11876
+Middle School Teachers, Except Special and Career/Technical Education	2018	83231
+Medical Secretaries	2007	14363
+Medical Secretaries	2019	49547
+Medical Secretaries	2010	18189
+Medical Secretaries	2018	92767
+Physical Therapist Aides	2007	672
+Physical Therapist Aides	2019	1753
+Physical Therapist Aides	2010	627
+Physical Therapist Aides	2018	3078
+Stock Clerks and Order Fillers	2007	16975
+Stock Clerks and Order Fillers	2019	74556
+Stock Clerks and Order Fillers	2010	37038
+Stock Clerks and Order Fillers	2018	181851
+Secondary School Teachers, Except Special and Career/Technical Education	2007	1965
+Secondary School Teachers, Except Special and Career/Technical Education	2019	14186
+Secondary School Teachers, Except Special and Career/Technical Education	2010	4400
+Secondary School Teachers, Except Special and Career/Technical Education	2018	31548
+Massage Therapists	2007	1325
+Massage Therapists	2019	6968
+Massage Therapists	2010	2204
+Massage Therapists	2018	15529
+Financial Analysts	2007	37016
+Financial Analysts	2019	42324
+Financial Analysts	2010	36794
+Financial Analysts	2018	93393
+Database Administrators	2007	24429
+Database Administrators	2019	35980
+Database Administrators	2010	45975
+Database Administrators	2018	83576
+Computer Systems Analysts	2007	45794
+Computer Systems Analysts	2019	63496
+Computer Systems Analysts	2010	65620
+Computer Systems Analysts	2018	146412
+Nurse Practitioners	2007	9056
+Nurse Practitioners	2019	27736
+Nurse Practitioners	2010	22066
+Nurse Practitioners	2018	67287
+Compliance Officers	2007	7061
+Compliance Officers	2019	16722
+Compliance Officers	2010	10404
+Compliance Officers	2018	35968
+Data Entry Keyers	2007	5947
+Data Entry Keyers	2019	11710
+Data Entry Keyers	2010	6487
+Data Entry Keyers	2018	27269
+Management Analysts	2007	50309
+Management Analysts	2019	83372
+Management Analysts	2010	72576
+Management Analysts	2018	190903
+Industrial Engineers	2007	7083
+Industrial Engineers	2019	9321
+Industrial Engineers	2010	8823
+Industrial Engineers	2018	21849
+Internists, General	2007	9834
+Internists, General	2019	15103
+Internists, General	2010	15301
+Internists, General	2018	25156
+Speech-Language Pathologists	2007	11682
+Speech-Language Pathologists	2019	21405
+Speech-Language Pathologists	2010	19695
+Speech-Language Pathologists	2018	38749
+Property, Real Estate, and Community Association Managers	2007	5795
+Property, Real Estate, and Community Association Managers	2019	26675
+Property, Real Estate, and Community Association Managers	2010	10711
+Property, Real Estate, and Community Association Managers	2018	51995
+Graphic Designers	2007	6885
+Graphic Designers	2019	16899
+Graphic Designers	2010	10557
+Graphic Designers	2018	33483
+Procurement Clerks	2007	2390
+Procurement Clerks	2019	3964
+Procurement Clerks	2010	2325
+Procurement Clerks	2018	8499
+Special Education Teachers, All Other	2007	1426
+Special Education Teachers, All Other	2019	8140
+Special Education Teachers, All Other	2010	2884
+Special Education Teachers, All Other	2018	20233
+Operations Research Analysts	2007	35188
+Operations Research Analysts	2019	41732
+Operations Research Analysts	2010	36582
+Operations Research Analysts	2018	88171
+Psychology Teachers, Postsecondary	2007	1544
+Psychology Teachers, Postsecondary	2019	1306
+Psychology Teachers, Postsecondary	2010	1956
+Psychology Teachers, Postsecondary	2018	3090
+Engineers, All Other	2007	22676
+Engineers, All Other	2019	34701
+Engineers, All Other	2010	33173
+Engineers, All Other	2018	79778
+Medical and Clinical Laboratory Technicians	2007	14051
+Medical and Clinical Laboratory Technicians	2019	28804
+Medical and Clinical Laboratory Technicians	2010	24961
+Medical and Clinical Laboratory Technicians	2018	63574
+Life, Physical, and Social Science Technicians, All Other	2007	7162
+Life, Physical, and Social Science Technicians, All Other	2019	13821
+Life, Physical, and Social Science Technicians, All Other	2010	8787
+Life, Physical, and Social Science Technicians, All Other	2018	29182
+Home Health Aides	2007	6049
+Home Health Aides	2019	28885
+Home Health Aides	2010	12424
+Home Health Aides	2018	57481
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	2007	21139
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	2019	29821
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	2010	27724
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	2018	62913
+Audio and Video Equipment Technicians	2007	1405
+Audio and Video Equipment Technicians	2019	4331
+Audio and Video Equipment Technicians	2010	2339
+Audio and Video Equipment Technicians	2018	8638
+Transportation, Storage, and Distribution Managers	2007	9971
+Transportation, Storage, and Distribution Managers	2019	20806
+Transportation, Storage, and Distribution Managers	2010	11410
+Transportation, Storage, and Distribution Managers	2018	46288
+Tellers	2007	22779
+Tellers	2019	24414
+Tellers	2010	47111
+Tellers	2018	67891
+Couriers and Messengers	2007	891
+Couriers and Messengers	2019	5057
+Couriers and Messengers	2010	1863
+Couriers and Messengers	2018	10259
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	2007	72146
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	2019	121624
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	2010	68655
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	2018	262680
+Marketing Managers	2007	54882
+Marketing Managers	2019	89808
+Marketing Managers	2010	67668
+Marketing Managers	2018	197235
+Purchasing Managers	2007	6531
+Purchasing Managers	2019	11037
+Purchasing Managers	2010	7874
+Purchasing Managers	2018	21677
+Architects, Except Landscape and Naval	2007	3691
+Architects, Except Landscape and Naval	2019	7840
+Architects, Except Landscape and Naval	2010	4799
+Architects, Except Landscape and Naval	2018	18469
+Recreation Workers	2007	2288
+Recreation Workers	2019	21440
+Recreation Workers	2010	5894
+Recreation Workers	2018	31731
+Executive Secretaries and Executive Administrative Assistants	2007	12927
+Executive Secretaries and Executive Administrative Assistants	2019	21402
+Executive Secretaries and Executive Administrative Assistants	2010	12779
+Executive Secretaries and Executive Administrative Assistants	2018	45532
+Health Diagnosing and Treating Practitioners, All Other	2007	2050
+Health Diagnosing and Treating Practitioners, All Other	2019	5646
+Health Diagnosing and Treating Practitioners, All Other	2010	3574
+Health Diagnosing and Treating Practitioners, All Other	2018	11165
+Drafters, All Other	2007	3951
+Drafters, All Other	2019	8244
+Drafters, All Other	2010	3315
+Drafters, All Other	2018	18188
+Information Security Analysts	2007	13507
+Information Security Analysts	2019	45700
+Information Security Analysts	2010	27078
+Information Security Analysts	2018	105200
+Cost Estimators	2007	3014
+Cost Estimators	2019	15271
+Cost Estimators	2010	5290
+Cost Estimators	2018	29760
+Proofreaders and Copy Markers	2007	362
+Proofreaders and Copy Markers	2019	532
+Proofreaders and Copy Markers	2010	341
+Proofreaders and Copy Markers	2018	1098
+Cardiovascular Technologists and Technicians	2007	6012
+Cardiovascular Technologists and Technicians	2019	11461
+Cardiovascular Technologists and Technicians	2010	8024
+Cardiovascular Technologists and Technicians	2018	22368
+Education Administrators, Postsecondary	2007	11913
+Education Administrators, Postsecondary	2019	29739
+Education Administrators, Postsecondary	2010	28629
+Education Administrators, Postsecondary	2018	63686
+Landscaping and Groundskeeping Workers	2007	1929
+Landscaping and Groundskeeping Workers	2019	21661
+Landscaping and Groundskeeping Workers	2010	3783
+Landscaping and Groundskeeping Workers	2018	32922
+Medical Assistants	2007	8552
+Medical Assistants	2019	51583
+Medical Assistants	2010	23032
+Medical Assistants	2018	101867
+Chemists	2007	7557
+Chemists	2019	6167
+Chemists	2010	7866
+Chemists	2018	13752
+Magnetic Resonance Imaging Technologists	2007	2902
+Magnetic Resonance Imaging Technologists	2019	7315
+Magnetic Resonance Imaging Technologists	2010	3720
+Magnetic Resonance Imaging Technologists	2018	14831
+Software Developers, Applications	2007	119150
+Software Developers, Applications	2019	260229
+Software Developers, Applications	2010	260052
+Software Developers, Applications	2018	596542
+Production, Planning, and Expediting Clerks	2007	10150
+Production, Planning, and Expediting Clerks	2019	29704
+Production, Planning, and Expediting Clerks	2010	15077
+Production, Planning, and Expediting Clerks	2018	62514
+Lawyers	2007	9516
+Lawyers	2019	27152
+Lawyers	2010	15645
+Lawyers	2018	51303
+Bill and Account Collectors	2007	4287
+Bill and Account Collectors	2019	10130
+Bill and Account Collectors	2010	7781
+Bill and Account Collectors	2018	21610
+Industrial Truck and Tractor Operators	2007	1935
+Industrial Truck and Tractor Operators	2019	12942
+Industrial Truck and Tractor Operators	2010	2616
+Industrial Truck and Tractor Operators	2018	26970
+Chemical Engineers	2007	8511
+Chemical Engineers	2019	7634
+Chemical Engineers	2010	10057
+Chemical Engineers	2018	17947
+Telemarketers	2007	2267
+Telemarketers	2019	4649
+Telemarketers	2010	3941
+Telemarketers	2018	8420
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	2007	2684
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	2019	9114
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	2010	4859
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	2018	21276
+Police, Fire, and Ambulance Dispatchers	2007	1166
+Police, Fire, and Ambulance Dispatchers	2019	4349
+Police, Fire, and Ambulance Dispatchers	2010	2357
+Police, Fire, and Ambulance Dispatchers	2018	9037
+Adhesive Bonding Machine Operators and Tenders	2007	30
+Adhesive Bonding Machine Operators and Tenders	2019	67
+Adhesive Bonding Machine Operators and Tenders	2010	28
+Adhesive Bonding Machine Operators and Tenders	2018	184
+Fitness Trainers and Aerobics Instructors	2007	3637
+Fitness Trainers and Aerobics Instructors	2019	20115
+Fitness Trainers and Aerobics Instructors	2010	5942
+Fitness Trainers and Aerobics Instructors	2018	37367
+First-Line Supervisors of Housekeeping and Janitorial Workers	2007	4870
+First-Line Supervisors of Housekeeping and Janitorial Workers	2019	12786
+First-Line Supervisors of Housekeeping and Janitorial Workers	2010	6553
+First-Line Supervisors of Housekeeping and Janitorial Workers	2018	27398
+Shipping, Receiving, and Traffic Clerks	2007	6518
+Shipping, Receiving, and Traffic Clerks	2019	23399
+Shipping, Receiving, and Traffic Clerks	2010	8332
+Shipping, Receiving, and Traffic Clerks	2018	51409
+Medical Equipment Repairers	2007	1776
+Medical Equipment Repairers	2019	5253
+Medical Equipment Repairers	2010	3094
+Medical Equipment Repairers	2018	11221
+Automotive Service Technicians and Mechanics	2007	8941
+Automotive Service Technicians and Mechanics	2019	61434
+Automotive Service Technicians and Mechanics	2010	51447
+Automotive Service Technicians and Mechanics	2018	129002
+Cashiers	2007	6419
+Cashiers	2019	58122
+Cashiers	2010	39191
+Cashiers	2018	138026
+Instructional Coordinators	2007	3152
+Instructional Coordinators	2019	8877
+Instructional Coordinators	2010	5767
+Instructional Coordinators	2018	18082
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	2007	15387
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	2019	31204
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	2010	21528
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	2018	66853
+Electronics Engineers, Except Computer	2007	4665
+Electronics Engineers, Except Computer	2019	5914
+Electronics Engineers, Except Computer	2010	7626
+Electronics Engineers, Except Computer	2018	13676
+Logisticians	2007	11530
+Logisticians	2019	17501
+Logisticians	2010	11229
+Logisticians	2018	37659
+Receptionists and Information Clerks	2007	13282
+Receptionists and Information Clerks	2019	40156
+Receptionists and Information Clerks	2010	13703
+Receptionists and Information Clerks	2018	80336
+Insurance Claims and Policy Processing Clerks	2007	8560
+Insurance Claims and Policy Processing Clerks	2019	8589
+Insurance Claims and Policy Processing Clerks	2010	8022
+Insurance Claims and Policy Processing Clerks	2018	17341
+Lodging Managers	2007	4808
+Lodging Managers	2019	12018
+Lodging Managers	2010	6028
+Lodging Managers	2018	27977
+First-Line Supervisors of Food Preparation and Serving Workers	2007	12099
+First-Line Supervisors of Food Preparation and Serving Workers	2019	60696
+First-Line Supervisors of Food Preparation and Serving Workers	2010	30909
+First-Line Supervisors of Food Preparation and Serving Workers	2018	125631
+Urban and Regional Planners	2007	882
+Urban and Regional Planners	2019	1914
+Urban and Regional Planners	2010	1020
+Urban and Regional Planners	2018	4071
+Compensation, Benefits, and Job Analysis Specialists	2007	7312
+Compensation, Benefits, and Job Analysis Specialists	2019	15772
+Compensation, Benefits, and Job Analysis Specialists	2010	8524
+Compensation, Benefits, and Job Analysis Specialists	2018	29670
+Painters, Construction and Maintenance	2007	2172
+Painters, Construction and Maintenance	2019	7811
+Painters, Construction and Maintenance	2010	1932
+Painters, Construction and Maintenance	2018	18385
+Teacher Assistants	2007	3625
+Teacher Assistants	2019	26039
+Teacher Assistants	2010	7978
+Teacher Assistants	2018	54640
+Credit Counselors	2007	2171
+Credit Counselors	2019	4156
+Credit Counselors	2010	3144
+Credit Counselors	2018	9111
+Insurance Underwriters	2007	5325
+Insurance Underwriters	2019	5892
+Insurance Underwriters	2010	5722
+Insurance Underwriters	2018	12935
+Geological and Petroleum Technicians	2007	493
+Geological and Petroleum Technicians	2019	2099
+Geological and Petroleum Technicians	2010	692
+Geological and Petroleum Technicians	2018	4336
+Training and Development Specialists	2007	10584
+Training and Development Specialists	2019	20691
+Training and Development Specialists	2010	15938
+Training and Development Specialists	2018	45087
+Public Relations Specialists	2007	11104
+Public Relations Specialists	2019	26577
+Public Relations Specialists	2010	16959
+Public Relations Specialists	2018	56871
+Accountants and Auditors	2007	56906
+Accountants and Auditors	2019	67873
+Accountants and Auditors	2010	51232
+Accountants and Auditors	2018	148443
+Geoscientists, Except Hydrologists and Geographers	2007	2137
+Geoscientists, Except Hydrologists and Geographers	2019	1270
+Geoscientists, Except Hydrologists and Geographers	2010	1831
+Geoscientists, Except Hydrologists and Geographers	2018	2562
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	2007	109
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	2019	501
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	2010	155
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	2018	1084
+Occupational Health and Safety Technicians	2007	1025
+Occupational Health and Safety Technicians	2019	3126
+Occupational Health and Safety Technicians	2010	1494
+Occupational Health and Safety Technicians	2018	6093
+Medical Scientists, Except Epidemiologists	2007	8470
+Medical Scientists, Except Epidemiologists	2019	14665
+Medical Scientists, Except Epidemiologists	2010	10293
+Medical Scientists, Except Epidemiologists	2018	29461
+Dietitians and Nutritionists	2007	9234
+Dietitians and Nutritionists	2019	14264
+Dietitians and Nutritionists	2010	11003
+Dietitians and Nutritionists	2018	29415
+Bus Drivers, Transit and Intercity 	2007	983
+Bus Drivers, Transit and Intercity 	2019	5189
+Bus Drivers, Transit and Intercity 	2010	2025
+Bus Drivers, Transit and Intercity 	2018	9965
+Health Specialties Teachers, Postsecondary	2007	1705
+Health Specialties Teachers, Postsecondary	2019	3835
+Health Specialties Teachers, Postsecondary	2010	2767
+Health Specialties Teachers, Postsecondary	2018	7441
+Human Resources Managers	2007	16053
+Human Resources Managers	2019	25899
+Human Resources Managers	2010	20083
+Human Resources Managers	2018	55987
+Mechanical Drafters	2007	2614
+Mechanical Drafters	2019	3301
+Mechanical Drafters	2010	1811
+Mechanical Drafters	2018	7517
+Construction Laborers	2007	2757
+Construction Laborers	2019	21978
+Construction Laborers	2010	4184
+Construction Laborers	2018	39389
+Switchboard Operators, Including Answering Service	2007	1728
+Switchboard Operators, Including Answering Service	2019	2028
+Switchboard Operators, Including Answering Service	2010	1900
+Switchboard Operators, Including Answering Service	2018	4332
+Commercial and Industrial Designers	2007	3700
+Commercial and Industrial Designers	2019	7506
+Commercial and Industrial Designers	2010	5206
+Commercial and Industrial Designers	2018	16716
+Appraisers and Assessors of Real Estate	2007	1290
+Appraisers and Assessors of Real Estate	2019	2639
+Appraisers and Assessors of Real Estate	2010	1442
+Appraisers and Assessors of Real Estate	2018	4858
+Nuclear Engineers	2007	508
+Nuclear Engineers	2019	969
+Nuclear Engineers	2010	879
+Nuclear Engineers	2018	1568
+Art, Drama, and Music Teachers, Postsecondary	2007	463
+Art, Drama, and Music Teachers, Postsecondary	2019	1524
+Art, Drama, and Music Teachers, Postsecondary	2010	689
+Art, Drama, and Music Teachers, Postsecondary	2018	3127
+Mechanical Engineering Technicians	2007	908
+Mechanical Engineering Technicians	2019	3050
+Mechanical Engineering Technicians	2010	1672
+Mechanical Engineering Technicians	2018	7247
+Human Resources Assistants, Except Payroll and Timekeeping	2007	4046
+Human Resources Assistants, Except Payroll and Timekeeping	2019	8873
+Human Resources Assistants, Except Payroll and Timekeeping	2010	5043
+Human Resources Assistants, Except Payroll and Timekeeping	2018	19728
+Payroll and Timekeeping Clerks	2007	4847
+Payroll and Timekeeping Clerks	2019	9825
+Payroll and Timekeeping Clerks	2010	4571
+Payroll and Timekeeping Clerks	2018	21185
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	2007	200
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	2019	1114
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	2010	294
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	2018	2455
+Correctional Officers and Jailers	2007	484
+Correctional Officers and Jailers	2019	2970
+Correctional Officers and Jailers	2010	1427
+Correctional Officers and Jailers	2018	6349
+Sound Engineering Technicians	2007	523
+Sound Engineering Technicians	2019	1393
+Sound Engineering Technicians	2010	956
+Sound Engineering Technicians	2018	3005
+Web Developers	2007	20704
+Web Developers	2019	44328
+Web Developers	2010	56872
+Web Developers	2018	110529
+Claims Adjusters, Examiners, and Investigators	2007	12853
+Claims Adjusters, Examiners, and Investigators	2019	16897
+Claims Adjusters, Examiners, and Investigators	2010	12124
+Claims Adjusters, Examiners, and Investigators	2018	35625
+Sales Representatives, Services, All Other	2007	18490
+Sales Representatives, Services, All Other	2019	35411
+Sales Representatives, Services, All Other	2010	20817
+Sales Representatives, Services, All Other	2018	79190
+Gaming Dealers	2007	170
+Gaming Dealers	2019	1217
+Gaming Dealers	2010	574
+Gaming Dealers	2018	2388
+Designers, All Other	2007	3861
+Designers, All Other	2019	8859
+Designers, All Other	2010	5977
+Designers, All Other	2018	17391
+Respiratory Therapists	2007	9467
+Respiratory Therapists	2019	10305
+Respiratory Therapists	2010	10169
+Respiratory Therapists	2018	19666
+Mail Clerks and Mail Machine Operators, Except Postal Service	2007	1974
+Mail Clerks and Mail Machine Operators, Except Postal Service	2019	3902
+Mail Clerks and Mail Machine Operators, Except Postal Service	2010	2779
+Mail Clerks and Mail Machine Operators, Except Postal Service	2018	9390
+Recreational Therapists	2007	1071
+Recreational Therapists	2019	2400
+Recreational Therapists	2010	1682
+Recreational Therapists	2018	5412
+Diagnostic Medical Sonographers	2007	6838
+Diagnostic Medical Sonographers	2019	8428
+Diagnostic Medical Sonographers	2010	7061
+Diagnostic Medical Sonographers	2018	17676
+Computer Hardware Engineers	2007	2916
+Computer Hardware Engineers	2019	3333
+Computer Hardware Engineers	2010	3912
+Computer Hardware Engineers	2018	7946
+Avionics Technicians	2007	714
+Avionics Technicians	2019	1544
+Avionics Technicians	2010	1454
+Avionics Technicians	2018	3448
+Family and General Practitioners	2007	3624
+Family and General Practitioners	2019	8912
+Family and General Practitioners	2010	7802
+Family and General Practitioners	2018	18948
+Mental Health Counselors	2007	5849
+Mental Health Counselors	2019	19641
+Mental Health Counselors	2010	10755
+Mental Health Counselors	2018	39601
+Software Developers, Systems Software	2007	3488
+Software Developers, Systems Software	2019	3686
+Software Developers, Systems Software	2010	8262
+Software Developers, Systems Software	2018	10291
+Business Operations Specialists, All Other	2007	5851
+Business Operations Specialists, All Other	2019	20733
+Business Operations Specialists, All Other	2010	10954
+Business Operations Specialists, All Other	2018	44234
+Travel Agents	2007	807
+Travel Agents	2019	2445
+Travel Agents	2010	1453
+Travel Agents	2018	5716
+Aircraft Mechanics and Service Technicians	2007	2487
+Aircraft Mechanics and Service Technicians	2019	4885
+Aircraft Mechanics and Service Technicians	2010	4917
+Aircraft Mechanics and Service Technicians	2018	10667
+First-Line Supervisors of Non-Retail Sales Workers	2007	5256
+First-Line Supervisors of Non-Retail Sales Workers	2019	19252
+First-Line Supervisors of Non-Retail Sales Workers	2010	11123
+First-Line Supervisors of Non-Retail Sales Workers	2018	42016
+Aircraft Launch and Recovery Specialists	2007	13
+Aircraft Launch and Recovery Specialists	2019	53
+Aircraft Launch and Recovery Specialists	2010	10
+Aircraft Launch and Recovery Specialists	2018	148
+Dental Hygienists	2007	580
+Dental Hygienists	2019	4503
+Dental Hygienists	2010	1516
+Dental Hygienists	2018	8713
+Hydrologists	2007	764
+Hydrologists	2019	430
+Hydrologists	2010	411
+Hydrologists	2018	884
+Vocational Education Teachers, Postsecondary	2007	3204
+Vocational Education Teachers, Postsecondary	2019	12123
+Vocational Education Teachers, Postsecondary	2010	9487
+Vocational Education Teachers, Postsecondary	2018	22998
+Personal Care Aides	2007	2671
+Personal Care Aides	2019	45513
+Personal Care Aides	2010	8692
+Personal Care Aides	2018	104741
+Office Machine Operators, Except Computer	2007	1213
+Office Machine Operators, Except Computer	2019	817
+Office Machine Operators, Except Computer	2010	3015
+Office Machine Operators, Except Computer	2018	1833
+Parking Lot Attendants	2007	849
+Parking Lot Attendants	2019	13577
+Parking Lot Attendants	2010	2489
+Parking Lot Attendants	2018	27046
+Educational, Guidance, School, and Vocational Counselors	2007	6415
+Educational, Guidance, School, and Vocational Counselors	2019	32768
+Educational, Guidance, School, and Vocational Counselors	2010	13645
+Educational, Guidance, School, and Vocational Counselors	2018	46925
+Plumbers, Pipefitters, and Steamfitters	2007	1878
+Plumbers, Pipefitters, and Steamfitters	2019	8185
+Plumbers, Pipefitters, and Steamfitters	2010	2319
+Plumbers, Pipefitters, and Steamfitters	2018	20419
+Respiratory Therapy Technicians	2007	295
+Respiratory Therapy Technicians	2019	129
+Respiratory Therapy Technicians	2010	151
+Respiratory Therapy Technicians	2018	337
+Industrial Production Managers	2007	14548
+Industrial Production Managers	2019	24043
+Industrial Production Managers	2010	21043
+Industrial Production Managers	2018	52474
+First-Line Supervisors of Fire Fighting and Prevention Workers	2007	159
+First-Line Supervisors of Fire Fighting and Prevention Workers	2019	997
+First-Line Supervisors of Fire Fighting and Prevention Workers	2010	682
+First-Line Supervisors of Fire Fighting and Prevention Workers	2018	2263
+Captains, Mates, and Pilots of Water Vessels	2007	86
+Captains, Mates, and Pilots of Water Vessels	2019	1995
+Captains, Mates, and Pilots of Water Vessels	2010	188
+Captains, Mates, and Pilots of Water Vessels	2018	1839
+Bakers	2007	2136
+Bakers	2019	14702
+Bakers	2010	4211
+Bakers	2018	30789
+Surgeons	2007	3610
+Surgeons	2019	5454
+Surgeons	2010	5552
+Surgeons	2018	11658
+Administrative Services Managers	2007	10333
+Administrative Services Managers	2019	26833
+Administrative Services Managers	2010	17243
+Administrative Services Managers	2018	52994
+Financial Specialists, All Other	2007	7410
+Financial Specialists, All Other	2019	13885
+Financial Specialists, All Other	2010	9874
+Financial Specialists, All Other	2018	33060
+Physicists	2007	1266
+Physicists	2019	1225
+Physicists	2010	1255
+Physicists	2018	2455
+Market Research Analysts and Marketing Specialists	2007	24385
+Market Research Analysts and Marketing Specialists	2019	63550
+Market Research Analysts and Marketing Specialists	2010	33410
+Market Research Analysts and Marketing Specialists	2018	136456
+Elementary School Teachers, Except Special Education	2007	2688
+Elementary School Teachers, Except Special Education	2019	25243
+Elementary School Teachers, Except Special Education	2010	4799
+Elementary School Teachers, Except Special Education	2018	46028
+Environmental Engineers	2007	5619
+Environmental Engineers	2019	5225
+Environmental Engineers	2010	4968
+Environmental Engineers	2018	9952
+Office and Administrative Support Workers, All Other	2007	1559
+Office and Administrative Support Workers, All Other	2019	9060
+Office and Administrative Support Workers, All Other	2010	3577
+Office and Administrative Support Workers, All Other	2018	17072
+Interpreters and Translators	2007	1935
+Interpreters and Translators	2019	8627
+Interpreters and Translators	2010	4499
+Interpreters and Translators	2018	17666
+Billing and Posting Clerks	2007	6548
+Billing and Posting Clerks	2019	10874
+Billing and Posting Clerks	2010	6191
+Billing and Posting Clerks	2018	22407
+Adult Basic and Secondary Education and Literacy Teachers and Instructors 	2007	278
+Adult Basic and Secondary Education and Literacy Teachers and Instructors 	2019	1045
+Adult Basic and Secondary Education and Literacy Teachers and Instructors 	2010	678
+Adult Basic and Secondary Education and Literacy Teachers and Instructors 	2018	2619
+Social and Human Service Assistants	2007	3180
+Social and Human Service Assistants	2019	12815
+Social and Human Service Assistants	2010	6112
+Social and Human Service Assistants	2018	25828
+Actuaries	2007	2802
+Actuaries	2019	4856
+Actuaries	2010	2859
+Actuaries	2018	7612
+Sheet Metal Workers	2007	753
+Sheet Metal Workers	2019	3004
+Sheet Metal Workers	2010	1505
+Sheet Metal Workers	2018	6105
+Order Clerks	2007	945
+Order Clerks	2019	2785
+Order Clerks	2010	907
+Order Clerks	2018	7200
+Paralegals and Legal Assistants	2007	4209
+Paralegals and Legal Assistants	2019	21289
+Paralegals and Legal Assistants	2010	8551
+Paralegals and Legal Assistants	2018	40290
+Interviewers, Except Eligibility and Loan	2007	1552
+Interviewers, Except Eligibility and Loan	2019	4523
+Interviewers, Except Eligibility and Loan	2010	2995
+Interviewers, Except Eligibility and Loan	2018	9246
+Education Administrators, All Other	2007	576
+Education Administrators, All Other	2019	3318
+Education Administrators, All Other	2010	1380
+Education Administrators, All Other	2018	5867
+Team Assemblers	2007	873
+Team Assemblers	2019	8204
+Team Assemblers	2010	2476
+Team Assemblers	2018	18892
+Orderlies	2007	2108
+Orderlies	2019	4863
+Orderlies	2010	2454
+Orderlies	2018	10493
+Nurse Anesthetists	2007	1500
+Nurse Anesthetists	2019	2348
+Nurse Anesthetists	2010	1703
+Nurse Anesthetists	2018	6001
+Chief Executives	2007	2514
+Chief Executives	2019	7201
+Chief Executives	2010	6872
+Chief Executives	2018	15377
+Budget Analysts	2007	1929
+Budget Analysts	2019	2745
+Budget Analysts	2010	2208
+Budget Analysts	2018	6167
+Butchers and Meat Cutters	2007	1914
+Butchers and Meat Cutters	2019	6857
+Butchers and Meat Cutters	2010	2601
+Butchers and Meat Cutters	2018	14109
+Automotive Body and Related Repairers	2007	856
+Automotive Body and Related Repairers	2019	8425
+Automotive Body and Related Repairers	2010	2327
+Automotive Body and Related Repairers	2018	15909
+Psychiatrists	2007	3709
+Psychiatrists	2019	7201
+Psychiatrists	2010	5206
+Psychiatrists	2018	12698
+File Clerks	2007	1556
+File Clerks	2019	3155
+File Clerks	2010	2058
+File Clerks	2018	6869
+Protective Service Workers, All Other	2007	6349
+Protective Service Workers, All Other	2019	15382
+Protective Service Workers, All Other	2010	18390
+Protective Service Workers, All Other	2018	37089
+Mobile Heavy Equipment Mechanics, Except Engines	2007	1764
+Mobile Heavy Equipment Mechanics, Except Engines	2019	5342
+Mobile Heavy Equipment Mechanics, Except Engines	2010	2961
+Mobile Heavy Equipment Mechanics, Except Engines	2018	13318
+Occupational Health and Safety Specialists	2007	3722
+Occupational Health and Safety Specialists	2019	10671
+Occupational Health and Safety Specialists	2010	6523
+Occupational Health and Safety Specialists	2018	23201
+Chemical Technicians	2007	1220
+Chemical Technicians	2019	1722
+Chemical Technicians	2010	1425
+Chemical Technicians	2018	3764
+Social Scientists and Related Workers, All Other	2007	1637
+Social Scientists and Related Workers, All Other	2019	3091
+Social Scientists and Related Workers, All Other	2010	2113
+Social Scientists and Related Workers, All Other	2018	6439
+Substance Abuse and Behavioral Disorder Counselors	2007	840
+Substance Abuse and Behavioral Disorder Counselors	2019	3847
+Substance Abuse and Behavioral Disorder Counselors	2010	2163
+Substance Abuse and Behavioral Disorder Counselors	2018	7515
+Architectural and Civil Drafters	2007	1251
+Architectural and Civil Drafters	2019	2209
+Architectural and Civil Drafters	2010	653
+Architectural and Civil Drafters	2018	4263
+Chefs and Head Cooks	2007	6323
+Chefs and Head Cooks	2019	21413
+Chefs and Head Cooks	2010	8836
+Chefs and Head Cooks	2018	42350
+Locker Room, Coatroom, and Dressing Room Attendants	2007	1305
+Locker Room, Coatroom, and Dressing Room Attendants	2019	10161
+Locker Room, Coatroom, and Dressing Room Attendants	2010	2354
+Locker Room, Coatroom, and Dressing Room Attendants	2018	21260
+Baggage Porters and Bellhops	2007	707
+Baggage Porters and Bellhops	2019	3680
+Baggage Porters and Bellhops	2010	1559
+Baggage Porters and Bellhops	2018	7843
+Advertising Sales Agents	2007	2867
+Advertising Sales Agents	2019	2963
+Advertising Sales Agents	2010	5777
+Advertising Sales Agents	2018	10021
+Dietetic Technicians	2007	619
+Dietetic Technicians	2019	1791
+Dietetic Technicians	2010	1138
+Dietetic Technicians	2018	4146
+Sales and Related Workers, All Other	2007	9584
+Sales and Related Workers, All Other	2019	16374
+Sales and Related Workers, All Other	2010	7501
+Sales and Related Workers, All Other	2018	36787
+Dishwashers	2007	983
+Dishwashers	2019	30103
+Dishwashers	2010	4218
+Dishwashers	2018	60226
+Technical Writers	2007	7347
+Technical Writers	2019	9383
+Technical Writers	2010	9567
+Technical Writers	2018	21392
+Writers and Authors	2007	3503
+Writers and Authors	2019	10070
+Writers and Authors	2010	5407
+Writers and Authors	2018	18523
+Construction Managers	2007	10030
+Construction Managers	2019	35784
+Construction Managers	2010	10010
+Construction Managers	2018	69035
+Marriage and Family Therapists	2007	1071
+Marriage and Family Therapists	2019	6198
+Marriage and Family Therapists	2010	3533
+Marriage and Family Therapists	2018	13579
+Environmental Scientists and Specialists, Including Health	2007	2666
+Environmental Scientists and Specialists, Including Health	2019	3378
+Environmental Scientists and Specialists, Including Health	2010	3431
+Environmental Scientists and Specialists, Including Health	2018	6922
+Desktop Publishers	2007	842
+Desktop Publishers	2019	144
+Desktop Publishers	2010	232
+Desktop Publishers	2018	320
+Biological Technicians	2007	1497
+Biological Technicians	2019	3296
+Biological Technicians	2010	2751
+Biological Technicians	2018	7599
+Legal Secretaries	2007	2275
+Legal Secretaries	2019	3078
+Legal Secretaries	2010	2509
+Legal Secretaries	2018	6383
+Social and Community Service Managers	2007	3073
+Social and Community Service Managers	2019	10068
+Social and Community Service Managers	2010	6759
+Social and Community Service Managers	2018	21440
+Meeting, Convention, and Event Planners	2007	3605
+Meeting, Convention, and Event Planners	2019	16291
+Meeting, Convention, and Event Planners	2010	6081
+Meeting, Convention, and Event Planners	2018	33943
+Preschool Teachers, Except Special Education	2007	3415
+Preschool Teachers, Except Special Education	2019	41829
+Preschool Teachers, Except Special Education	2010	10049
+Preschool Teachers, Except Special Education	2018	77348
+Teachers and Instructors, All Other	2007	5728
+Teachers and Instructors, All Other	2019	39547
+Teachers and Instructors, All Other	2010	11254
+Teachers and Instructors, All Other	2018	104295
+Loan Interviewers and Clerks	2007	4863
+Loan Interviewers and Clerks	2019	6389
+Loan Interviewers and Clerks	2010	5730
+Loan Interviewers and Clerks	2018	13491
+Occupational Therapy Assistants	2007	4930
+Occupational Therapy Assistants	2019	6473
+Occupational Therapy Assistants	2010	11026
+Occupational Therapy Assistants	2018	12612
+Childcare Workers	2007	2795
+Childcare Workers	2019	18381
+Childcare Workers	2010	7521
+Childcare Workers	2018	77514
+Private Detectives and Investigators	2007	1366
+Private Detectives and Investigators	2019	5643
+Private Detectives and Investigators	2010	2510
+Private Detectives and Investigators	2018	11438
+Security and Fire Alarm Systems Installers	2007	536
+Security and Fire Alarm Systems Installers	2019	3737
+Security and Fire Alarm Systems Installers	2010	837
+Security and Fire Alarm Systems Installers	2018	6947
+Automotive and Watercraft Service Attendants	2007	303
+Automotive and Watercraft Service Attendants	2019	2546
+Automotive and Watercraft Service Attendants	2010	1174
+Automotive and Watercraft Service Attendants	2018	5087
+Surveyors	2007	866
+Surveyors	2019	3315
+Surveyors	2010	795
+Surveyors	2018	6149
+Home Economics Teachers, Postsecondary	2007	46
+Home Economics Teachers, Postsecondary	2019	153
+Home Economics Teachers, Postsecondary	2010	108
+Home Economics Teachers, Postsecondary	2018	300
+Computer-Controlled Machine Tool Operators, Metal and Plastic	2007	1385
+Computer-Controlled Machine Tool Operators, Metal and Plastic	2019	5075
+Computer-Controlled Machine Tool Operators, Metal and Plastic	2010	2030
+Computer-Controlled Machine Tool Operators, Metal and Plastic	2018	11159
+Multimedia Artists and Animators	2007	1198
+Multimedia Artists and Animators	2019	2547
+Multimedia Artists and Animators	2010	2957
+Multimedia Artists and Animators	2018	5178
+Clinical, Counseling, and School Psychologists	2007	3122
+Clinical, Counseling, and School Psychologists	2019	9953
+Clinical, Counseling, and School Psychologists	2010	5675
+Clinical, Counseling, and School Psychologists	2018	22845
+Hotel, Motel, and Resort Desk Clerks	2007	6932
+Hotel, Motel, and Resort Desk Clerks	2019	50516
+Hotel, Motel, and Resort Desk Clerks	2010	13474
+Hotel, Motel, and Resort Desk Clerks	2018	107826
+Credit Analysts	2007	3583
+Credit Analysts	2019	4233
+Credit Analysts	2010	4172
+Credit Analysts	2018	10118
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2007	52
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2019	318
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2010	102
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	2018	782
+Optometrists	2007	368
+Optometrists	2019	4562
+Optometrists	2010	1549
+Optometrists	2018	8960
+Landscape Architects	2007	798
+Landscape Architects	2019	863
+Landscape Architects	2010	309
+Landscape Architects	2018	1485
+Court, Municipal, and License Clerks	2007	338
+Court, Municipal, and License Clerks	2019	1352
+Court, Municipal, and License Clerks	2010	809
+Court, Municipal, and License Clerks	2018	2859
+Criminal Justice and Law Enforcement Teachers, Postsecondary	2007	569
+Criminal Justice and Law Enforcement Teachers, Postsecondary	2019	442
+Criminal Justice and Law Enforcement Teachers, Postsecondary	2010	1188
+Criminal Justice and Law Enforcement Teachers, Postsecondary	2018	1115
+Interior Designers	2007	1174
+Interior Designers	2019	5005
+Interior Designers	2010	3198
+Interior Designers	2018	10911
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	2007	1194
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	2019	25300
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	2010	5937
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	2018	52764
+Detectives and Criminal Investigators	2007	1881
+Detectives and Criminal Investigators	2019	7186
+Detectives and Criminal Investigators	2010	6306
+Detectives and Criminal Investigators	2018	15491
+Nuclear Medicine Technologists	2007	1253
+Nuclear Medicine Technologists	2019	1073
+Nuclear Medicine Technologists	2010	530
+Nuclear Medicine Technologists	2018	2170
+Laundry and Dry-Cleaning Workers	2007	1805
+Laundry and Dry-Cleaning Workers	2019	9504
+Laundry and Dry-Cleaning Workers	2010	1944
+Laundry and Dry-Cleaning Workers	2018	18268
+Medical Transcriptionists	2007	2481
+Medical Transcriptionists	2019	1056
+Medical Transcriptionists	2010	1670
+Medical Transcriptionists	2018	1599
+Eligibility Interviewers, Government Programs	2007	515
+Eligibility Interviewers, Government Programs	2019	2392
+Eligibility Interviewers, Government Programs	2010	988
+Eligibility Interviewers, Government Programs	2018	4698
+Audiologists	2007	1138
+Audiologists	2019	1466
+Audiologists	2010	1141
+Audiologists	2018	3468
+Nonfarm Animal Caretakers	2007	1762
+Nonfarm Animal Caretakers	2019	11239
+Nonfarm Animal Caretakers	2010	7145
+Nonfarm Animal Caretakers	2018	22092
+Dispatchers, Except Police, Fire, and Ambulance	2007	885
+Dispatchers, Except Police, Fire, and Ambulance	2019	6461
+Dispatchers, Except Police, Fire, and Ambulance	2010	2527
+Dispatchers, Except Police, Fire, and Ambulance	2018	13486
+Editors	2007	8773
+Editors	2019	10015
+Editors	2010	11115
+Editors	2018	22191
+Farm and Home Management Advisors	2007	418
+Farm and Home Management Advisors	2019	1988
+Farm and Home Management Advisors	2010	813
+Farm and Home Management Advisors	2018	4042
+Bus and Truck Mechanics and Diesel Engine Specialists	2007	3847
+Bus and Truck Mechanics and Diesel Engine Specialists	2019	17991
+Bus and Truck Mechanics and Diesel Engine Specialists	2010	23896
+Bus and Truck Mechanics and Diesel Engine Specialists	2018	44905
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	2007	2420
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	2019	6704
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	2010	3803
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	2018	15348
+Taxi Drivers and Chauffeurs	2007	596
+Taxi Drivers and Chauffeurs	2019	7704
+Taxi Drivers and Chauffeurs	2010	1789
+Taxi Drivers and Chauffeurs	2018	15149
+Power Plant Operators	2007	863
+Power Plant Operators	2019	2602
+Power Plant Operators	2010	1651
+Power Plant Operators	2018	5496
+Bartenders	2007	2730
+Bartenders	2019	26198
+Bartenders	2010	5560
+Bartenders	2018	50775
+Dental Assistants	2007	996
+Dental Assistants	2019	11478
+Dental Assistants	2010	4726
+Dental Assistants	2018	23422
+Ophthalmic Medical Technicians	2007	737
+Ophthalmic Medical Technicians	2019	2037
+Ophthalmic Medical Technicians	2010	1089
+Ophthalmic Medical Technicians	2018	4777
+Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	2007	1725
+Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	2019	5563
+Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	2010	3051
+Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	2018	11972
+Library Technicians	2007	375
+Library Technicians	2019	1280
+Library Technicians	2010	784
+Library Technicians	2018	3014
+Religious Workers, All Other	2007	43
+Religious Workers, All Other	2019	160
+Religious Workers, All Other	2010	93
+Religious Workers, All Other	2018	494
+Electrical and Electronics Drafters	2007	2271
+Electrical and Electronics Drafters	2019	2707
+Electrical and Electronics Drafters	2010	2308
+Electrical and Electronics Drafters	2018	5905
+Exercise Physiologists	2007	580
+Exercise Physiologists	2019	896
+Exercise Physiologists	2010	496
+Exercise Physiologists	2018	1438
+Machinists	2007	3481
+Machinists	2019	7398
+Machinists	2010	4881
+Machinists	2018	17454
+Economists	2007	945
+Economists	2019	964
+Economists	2010	1198
+Economists	2018	2142
+Home Appliance Repairers	2007	1012
+Home Appliance Repairers	2019	2660
+Home Appliance Repairers	2010	2496
+Home Appliance Repairers	2018	5620
+Flight Attendants	2007	175
+Flight Attendants	2019	579
+Flight Attendants	2010	326
+Flight Attendants	2018	817
+Forest and Conservation Technicians	2007	301
+Forest and Conservation Technicians	2019	1151
+Forest and Conservation Technicians	2010	599
+Forest and Conservation Technicians	2018	3550
+Surveying and Mapping Technicians	2007	1053
+Surveying and Mapping Technicians	2019	2600
+Surveying and Mapping Technicians	2010	688
+Surveying and Mapping Technicians	2018	5066
+Natural Sciences Managers	2007	12057
+Natural Sciences Managers	2019	14838
+Natural Sciences Managers	2010	14413
+Natural Sciences Managers	2018	31476
+Producers and Directors	2007	2277
+Producers and Directors	2019	7271
+Producers and Directors	2010	4228
+Producers and Directors	2018	15077
+Biomedical Engineers	2007	416
+Biomedical Engineers	2019	883
+Biomedical Engineers	2010	685
+Biomedical Engineers	2018	1642
+Commercial Pilots	2007	235
+Commercial Pilots	2019	1438
+Commercial Pilots	2010	456
+Commercial Pilots	2018	2353
+Broadcast Technicians	2007	1087
+Broadcast Technicians	2019	2222
+Broadcast Technicians	2010	1675
+Broadcast Technicians	2018	5180
+Advertising and Promotions Managers	2007	1523
+Advertising and Promotions Managers	2019	1824
+Advertising and Promotions Managers	2010	1957
+Advertising and Promotions Managers	2018	4178
+Statisticians	2007	5660
+Statisticians	2019	7216
+Statisticians	2010	7582
+Statisticians	2018	15366
+Education Teachers, Postsecondary	2007	1435
+Education Teachers, Postsecondary	2019	1841
+Education Teachers, Postsecondary	2010	2166
+Education Teachers, Postsecondary	2018	4396
+Operating Engineers and Other Construction Equipment Operators	2007	888
+Operating Engineers and Other Construction Equipment Operators	2019	5194
+Operating Engineers and Other Construction Equipment Operators	2010	2057
+Operating Engineers and Other Construction Equipment Operators	2018	9566
+Librarians	2007	2003
+Librarians	2019	4743
+Librarians	2010	3655
+Librarians	2018	10112
+Healthcare Practitioners and Technical Workers, All Other	2007	375
+Healthcare Practitioners and Technical Workers, All Other	2019	474
+Healthcare Practitioners and Technical Workers, All Other	2010	431
+Healthcare Practitioners and Technical Workers, All Other	2018	913
+Chemistry Teachers, Postsecondary	2007	826
+Chemistry Teachers, Postsecondary	2019	705
+Chemistry Teachers, Postsecondary	2010	887
+Chemistry Teachers, Postsecondary	2018	1529
+Kindergarten Teachers, Except Special Education	2007	225
+Kindergarten Teachers, Except Special Education	2019	1917
+Kindergarten Teachers, Except Special Education	2010	373
+Kindergarten Teachers, Except Special Education	2018	4550
+Control and Valve Installers and Repairers, Except Mechanical Door	2007	666
+Control and Valve Installers and Repairers, Except Mechanical Door	2019	2461
+Control and Valve Installers and Repairers, Except Mechanical Door	2010	1278
+Control and Valve Installers and Repairers, Except Mechanical Door	2018	5780
+Photographers	2007	2475
+Photographers	2019	7257
+Photographers	2010	3687
+Photographers	2018	13631
+Self-Enrichment Education Teachers	2007	1249
+Self-Enrichment Education Teachers	2019	10288
+Self-Enrichment Education Teachers	2010	2688
+Self-Enrichment Education Teachers	2018	20126
+Painters, Transportation Equipment	2007	243
+Painters, Transportation Equipment	2019	747
+Painters, Transportation Equipment	2010	939
+Painters, Transportation Equipment	2018	1762
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	2007	1721
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	2019	6361
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	2010	1444
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	2018	13692
+Healthcare Social Workers	2007	3319
+Healthcare Social Workers	2019	8103
+Healthcare Social Workers	2010	5378
+Healthcare Social Workers	2018	16804
+Counselors, All Other	2007	1983
+Counselors, All Other	2019	5960
+Counselors, All Other	2010	3169
+Counselors, All Other	2018	11893
+Water and Wastewater Treatment Plant and System Operators	2007	510
+Water and Wastewater Treatment Plant and System Operators	2019	2379
+Water and Wastewater Treatment Plant and System Operators	2010	1331
+Water and Wastewater Treatment Plant and System Operators	2018	4169
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	2007	16
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	2019	159
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	2010	32
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	2018	323
+Career/Technical Education Teachers, Middle School	2007	33
+Career/Technical Education Teachers, Middle School	2019	255
+Career/Technical Education Teachers, Middle School	2010	63
+Career/Technical Education Teachers, Middle School	2018	694
+Helpers--Production Workers	2007	1726
+Helpers--Production Workers	2019	8153
+Helpers--Production Workers	2010	2415
+Helpers--Production Workers	2018	18166
+Fire Inspectors and Investigators	2007	236
+Fire Inspectors and Investigators	2019	1017
+Fire Inspectors and Investigators	2010	299
+Fire Inspectors and Investigators	2018	2221
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2007	124
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2019	328
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2010	227
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2018	778
+Emergency Management Directors	2007	951
+Emergency Management Directors	2019	3499
+Emergency Management Directors	2010	1800
+Emergency Management Directors	2018	6303
+Helpers--Installation, Maintenance, and Repair Workers	2007	832
+Helpers--Installation, Maintenance, and Repair Workers	2019	4357
+Helpers--Installation, Maintenance, and Repair Workers	2010	1299
+Helpers--Installation, Maintenance, and Repair Workers	2018	9269
+Roustabouts, Oil and Gas	2007	783
+Roustabouts, Oil and Gas	2019	2781
+Roustabouts, Oil and Gas	2010	1505
+Roustabouts, Oil and Gas	2018	7178
+Medical Equipment Preparers	2007	2589
+Medical Equipment Preparers	2019	7275
+Medical Equipment Preparers	2010	3407
+Medical Equipment Preparers	2018	15109
+Concierges	2007	951
+Concierges	2019	9030
+Concierges	2010	3024
+Concierges	2018	17328
+Sales Engineers	2007	4522
+Sales Engineers	2019	5262
+Sales Engineers	2010	5098
+Sales Engineers	2018	11043
+Mathematical Science Teachers, Postsecondary	2007	813
+Mathematical Science Teachers, Postsecondary	2019	1640
+Mathematical Science Teachers, Postsecondary	2010	1907
+Mathematical Science Teachers, Postsecondary	2018	3768
+Education Administrators, Elementary and Secondary School	2007	1845
+Education Administrators, Elementary and Secondary School	2019	14159
+Education Administrators, Elementary and Secondary School	2010	5495
+Education Administrators, Elementary and Secondary School	2018	29558
+English Language and Literature Teachers, Postsecondary	2007	508
+English Language and Literature Teachers, Postsecondary	2019	2539
+English Language and Literature Teachers, Postsecondary	2010	1605
+English Language and Literature Teachers, Postsecondary	2018	7017
+Wind Turbine Service Technicians	2007	119
+Wind Turbine Service Technicians	2019	1116
+Wind Turbine Service Technicians	2010	433
+Wind Turbine Service Technicians	2018	1904
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	2007	351
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	2019	6509
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	2010	1899
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	2018	9201
+Athletic Trainers	2007	752
+Athletic Trainers	2019	2352
+Athletic Trainers	2010	1201
+Athletic Trainers	2018	4938
+Ophthalmic Laboratory Technicians	2007	77
+Ophthalmic Laboratory Technicians	2019	257
+Ophthalmic Laboratory Technicians	2010	150
+Ophthalmic Laboratory Technicians	2018	584
+Education Administrators, Preschool and Childcare Center/Program	2007	669
+Education Administrators, Preschool and Childcare Center/Program	2019	3345
+Education Administrators, Preschool and Childcare Center/Program	2010	1612
+Education Administrators, Preschool and Childcare Center/Program	2018	6944
+Tax Examiners and Collectors, and Revenue Agents	2007	3776
+Tax Examiners and Collectors, and Revenue Agents	2019	7052
+Tax Examiners and Collectors, and Revenue Agents	2010	2938
+Tax Examiners and Collectors, and Revenue Agents	2018	13579
+Firefighters	2007	285
+Firefighters	2019	1335
+Firefighters	2010	718
+Firefighters	2018	2759
+Financial Examiners	2007	680
+Financial Examiners	2019	984
+Financial Examiners	2010	557
+Financial Examiners	2018	2258
+Legal Support Workers, All Other	2007	845
+Legal Support Workers, All Other	2019	2632
+Legal Support Workers, All Other	2010	1515
+Legal Support Workers, All Other	2018	5714
+Nurse Midwives	2007	268
+Nurse Midwives	2019	479
+Nurse Midwives	2010	462
+Nurse Midwives	2018	1797
+Drywall and Ceiling Tile Installers	2007	72
+Drywall and Ceiling Tile Installers	2019	834
+Drywall and Ceiling Tile Installers	2010	71
+Drywall and Ceiling Tile Installers	2018	1810
+Civil Engineering Technicians	2007	1304
+Civil Engineering Technicians	2019	3823
+Civil Engineering Technicians	2010	1214
+Civil Engineering Technicians	2018	7533
+Food Preparation Workers	2007	1539
+Food Preparation Workers	2019	14798
+Food Preparation Workers	2010	3740
+Food Preparation Workers	2018	31686
+Farmworkers, Farm, Ranch, and Aquacultural Animals	2007	57
+Farmworkers, Farm, Ranch, and Aquacultural Animals	2019	1008
+Farmworkers, Farm, Ranch, and Aquacultural Animals	2010	181
+Farmworkers, Farm, Ranch, and Aquacultural Animals	2018	2000
+Telecommunications Equipment Installers and Repairers, Except Line Installers	2007	3209
+Telecommunications Equipment Installers and Repairers, Except Line Installers	2019	8504
+Telecommunications Equipment Installers and Repairers, Except Line Installers	2010	5739
+Telecommunications Equipment Installers and Repairers, Except Line Installers	2018	17350
+Demonstrators and Product Promoters	2007	1362
+Demonstrators and Product Promoters	2019	22449
+Demonstrators and Product Promoters	2010	9189
+Demonstrators and Product Promoters	2018	51198
+Title Examiners, Abstractors, and Searchers	2007	619
+Title Examiners, Abstractors, and Searchers	2019	2904
+Title Examiners, Abstractors, and Searchers	2010	896
+Title Examiners, Abstractors, and Searchers	2018	5653
+Curators	2007	226
+Curators	2019	681
+Curators	2010	618
+Curators	2018	1528
+Rail Car Repairers	2007	148
+Rail Car Repairers	2019	150
+Rail Car Repairers	2010	266
+Rail Car Repairers	2018	433
+Labor Relations Specialists	2007	136
+Labor Relations Specialists	2019	465
+Labor Relations Specialists	2010	219
+Labor Relations Specialists	2018	764
+Materials Engineers	2007	1360
+Materials Engineers	2019	1607
+Materials Engineers	2010	2152
+Materials Engineers	2018	3612
+Training and Development Managers	2007	2909
+Training and Development Managers	2019	5544
+Training and Development Managers	2010	4735
+Training and Development Managers	2018	10908
+Transportation Inspectors	2007	357
+Transportation Inspectors	2019	1140
+Transportation Inspectors	2010	646
+Transportation Inspectors	2018	2454
+Packers and Packagers, Hand	2007	419
+Packers and Packagers, Hand	2019	4964
+Packers and Packagers, Hand	2010	923
+Packers and Packagers, Hand	2018	10866
+Hairdressers, Hairstylists, and Cosmetologists	2007	1043
+Hairdressers, Hairstylists, and Cosmetologists	2019	17400
+Hairdressers, Hairstylists, and Cosmetologists	2010	6855
+Hairdressers, Hairstylists, and Cosmetologists	2018	41633
+Special Education Teachers, Kindergarten and Elementary School	2007	501
+Special Education Teachers, Kindergarten and Elementary School	2019	2242
+Special Education Teachers, Kindergarten and Elementary School	2010	1103
+Special Education Teachers, Kindergarten and Elementary School	2018	5457
+Survey Researchers	2007	261
+Survey Researchers	2019	1357
+Survey Researchers	2010	1228
+Survey Researchers	2018	2666
+Coaches and Scouts	2007	4157
+Coaches and Scouts	2019	29438
+Coaches and Scouts	2010	7758
+Coaches and Scouts	2018	58817
+Credit Authorizers, Checkers, and Clerks	2007	733
+Credit Authorizers, Checkers, and Clerks	2019	937
+Credit Authorizers, Checkers, and Clerks	2010	967
+Credit Authorizers, Checkers, and Clerks	2018	2364
+Food Servers, Nonrestaurant	2007	619
+Food Servers, Nonrestaurant	2019	4615
+Food Servers, Nonrestaurant	2010	1029
+Food Servers, Nonrestaurant	2018	8556
+Social Science Research Assistants	2007	1019
+Social Science Research Assistants	2019	2600
+Social Science Research Assistants	2010	2378
+Social Science Research Assistants	2018	5786
+Gaming Service Workers, All Other	2007	238
+Gaming Service Workers, All Other	2019	1351
+Gaming Service Workers, All Other	2010	656
+Gaming Service Workers, All Other	2018	2556
+Semiconductor Processors	2007	36
+Semiconductor Processors	2019	424
+Semiconductor Processors	2010	180
+Semiconductor Processors	2018	1544
+Dentists, General	2007	853
+Dentists, General	2019	8359
+Dentists, General	2010	4629
+Dentists, General	2018	14799
+First-Line Supervisors of Personal Service Workers	2007	522
+First-Line Supervisors of Personal Service Workers	2019	3884
+First-Line Supervisors of Personal Service Workers	2010	1641
+First-Line Supervisors of Personal Service Workers	2018	7383
+Computer, Automated Teller, and Office Machine Repairers	2007	363
+Computer, Automated Teller, and Office Machine Repairers	2019	1053
+Computer, Automated Teller, and Office Machine Repairers	2010	477
+Computer, Automated Teller, and Office Machine Repairers	2018	2124
+Political Scientists	2007	895
+Political Scientists	2019	2031
+Political Scientists	2010	1721
+Political Scientists	2018	4084
+Driver/Sales Workers	2007	5396
+Driver/Sales Workers	2019	49031
+Driver/Sales Workers	2010	27000
+Driver/Sales Workers	2018	116506
+Healthcare Support Workers, All Other	2007	1104
+Healthcare Support Workers, All Other	2019	3693
+Healthcare Support Workers, All Other	2010	2053
+Healthcare Support Workers, All Other	2018	6436
+Tire Repairers and Changers	2007	297
+Tire Repairers and Changers	2019	6845
+Tire Repairers and Changers	2010	1905
+Tire Repairers and Changers	2018	12557
+Earth Drillers, Except Oil and Gas	2007	14
+Earth Drillers, Except Oil and Gas	2019	311
+Earth Drillers, Except Oil and Gas	2010	92
+Earth Drillers, Except Oil and Gas	2018	565
+Judicial Law Clerks	2007	139
+Judicial Law Clerks	2019	1067
+Judicial Law Clerks	2010	402
+Judicial Law Clerks	2018	2125
+Microbiologists	2007	1154
+Microbiologists	2019	1203
+Microbiologists	2010	1208
+Microbiologists	2018	2677
+Tour Guides and Escorts	2007	125
+Tour Guides and Escorts	2019	1745
+Tour Guides and Escorts	2010	454
+Tour Guides and Escorts	2018	3003
+Foreign Language and Literature Teachers, Postsecondary	2007	313
+Foreign Language and Literature Teachers, Postsecondary	2019	866
+Foreign Language and Literature Teachers, Postsecondary	2010	639
+Foreign Language and Literature Teachers, Postsecondary	2018	1576
+Air Traffic Controllers	2007	860
+Air Traffic Controllers	2019	1518
+Air Traffic Controllers	2010	1163
+Air Traffic Controllers	2018	3166
+Aerospace Engineering and Operations Technicians	2007	133
+Aerospace Engineering and Operations Technicians	2019	266
+Aerospace Engineering and Operations Technicians	2010	320
+Aerospace Engineering and Operations Technicians	2018	572
+Oral and Maxillofacial Surgeons	2007	68
+Oral and Maxillofacial Surgeons	2019	740
+Oral and Maxillofacial Surgeons	2010	487
+Oral and Maxillofacial Surgeons	2018	1743
+Machine Feeders and Offbearers	2007	152
+Machine Feeders and Offbearers	2019	762
+Machine Feeders and Offbearers	2010	153
+Machine Feeders and Offbearers	2018	1981
+Painting, Coating, and Decorating Workers	2007	68
+Painting, Coating, and Decorating Workers	2019	454
+Painting, Coating, and Decorating Workers	2010	80
+Painting, Coating, and Decorating Workers	2018	735
+Art Directors	2007	2074
+Art Directors	2019	3612
+Art Directors	2010	3744
+Art Directors	2018	6798
+Social Work Teachers, Postsecondary	2007	344
+Social Work Teachers, Postsecondary	2019	681
+Social Work Teachers, Postsecondary	2010	405
+Social Work Teachers, Postsecondary	2018	1656
+Telephone Operators	2007	795
+Telephone Operators	2019	1727
+Telephone Operators	2010	866
+Telephone Operators	2018	4122
+Judges, Magistrate Judges, and Magistrates	2007	25
+Judges, Magistrate Judges, and Magistrates	2019	220
+Judges, Magistrate Judges, and Magistrates	2010	151
+Judges, Magistrate Judges, and Magistrates	2018	485
+Clergy	2007	989
+Clergy	2019	3522
+Clergy	2010	3708
+Clergy	2018	6950
+Amusement and Recreation Attendants	2007	982
+Amusement and Recreation Attendants	2019	10686
+Amusement and Recreation Attendants	2010	2597
+Amusement and Recreation Attendants	2018	19456
+Radiation Therapists	2007	1364
+Radiation Therapists	2019	1459
+Radiation Therapists	2010	1070
+Radiation Therapists	2018	2893
+Fine Artists, Including Painters, Sculptors, and Illustrators	2007	500
+Fine Artists, Including Painters, Sculptors, and Illustrators	2019	3145
+Fine Artists, Including Painters, Sculptors, and Illustrators	2010	1435
+Fine Artists, Including Painters, Sculptors, and Illustrators	2018	6566
+Aerospace Engineers	2007	1610
+Aerospace Engineers	2019	3633
+Aerospace Engineers	2010	1857
+Aerospace Engineers	2018	7730
+Electrical and Electronic Equipment Assemblers	2007	1073
+Electrical and Electronic Equipment Assemblers	2019	2809
+Electrical and Electronic Equipment Assemblers	2010	1050
+Electrical and Electronic Equipment Assemblers	2018	6218
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	2007	40
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	2019	142
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	2010	65
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	2018	201
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	2007	704
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	2019	2003
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	2010	1821
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	2018	2417
+Cleaners of Vehicles and Equipment	2007	241
+Cleaners of Vehicles and Equipment	2019	10208
+Cleaners of Vehicles and Equipment	2010	1075
+Cleaners of Vehicles and Equipment	2018	16691
+Zoologists and Wildlife Biologists	2007	744
+Zoologists and Wildlife Biologists	2019	875
+Zoologists and Wildlife Biologists	2010	1343
+Zoologists and Wildlife Biologists	2018	1919
+Soil and Plant Scientists	2007	201
+Soil and Plant Scientists	2019	625
+Soil and Plant Scientists	2010	486
+Soil and Plant Scientists	2018	1516
+Agricultural Engineers	2007	101
+Agricultural Engineers	2019	125
+Agricultural Engineers	2010	259
+Agricultural Engineers	2018	219
+Pharmacy Aides	2007	414
+Pharmacy Aides	2019	1858
+Pharmacy Aides	2010	575
+Pharmacy Aides	2018	3037
+Tire Builders	2007	115
+Tire Builders	2019	321
+Tire Builders	2010	179
+Tire Builders	2018	828
+Library Assistants, Clerical	2007	555
+Library Assistants, Clerical	2019	1631
+Library Assistants, Clerical	2010	1028
+Library Assistants, Clerical	2018	3786
+Special Education Teachers, Middle School	2007	2152
+Special Education Teachers, Middle School	2019	11412
+Special Education Teachers, Middle School	2010	3948
+Special Education Teachers, Middle School	2018	26986
+Veterinarians	2007	281
+Veterinarians	2019	5166
+Veterinarians	2010	1523
+Veterinarians	2018	10066
+Transportation Workers, All Other	2007	13
+Transportation Workers, All Other	2019	43
+Transportation Workers, All Other	2010	50
+Transportation Workers, All Other	2018	88
+Continuous Mining Machine Operators	2007	10
+Continuous Mining Machine Operators	2019	63
+Continuous Mining Machine Operators	2010	20
+Continuous Mining Machine Operators	2018	150
+Medical Appliance Technicians	2007	48
+Medical Appliance Technicians	2019	325
+Medical Appliance Technicians	2010	46
+Medical Appliance Technicians	2018	735
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	2007	44
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	2019	312
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	2010	64
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	2018	759
+Computer Operators	2007	1766
+Computer Operators	2019	1100
+Computer Operators	2010	1652
+Computer Operators	2018	2542
+Fundraisers	2007	1413
+Fundraisers	2019	3909
+Fundraisers	2010	3123
+Fundraisers	2018	8400
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	2007	289
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	2019	23948
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	2010	3127
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	2018	48153
+Word Processors and Typists	2007	1407
+Word Processors and Typists	2019	2072
+Word Processors and Typists	2010	1100
+Word Processors and Typists	2018	4766
+Military Officer Special and Tactical Operations Leaders, All Other	2007	353
+Military Officer Special and Tactical Operations Leaders, All Other	2019	2798
+Military Officer Special and Tactical Operations Leaders, All Other	2010	978
+Military Officer Special and Tactical Operations Leaders, All Other	2018	5358
+Graders and Sorters, Agricultural Products	2007	180
+Graders and Sorters, Agricultural Products	2019	835
+Graders and Sorters, Agricultural Products	2010	181
+Graders and Sorters, Agricultural Products	2018	1493
+Electrical Power-Line Installers and Repairers	2007	134
+Electrical Power-Line Installers and Repairers	2019	3132
+Electrical Power-Line Installers and Repairers	2010	506
+Electrical Power-Line Installers and Repairers	2018	5793
+Arbitrators, Mediators, and Conciliators	2007	140
+Arbitrators, Mediators, and Conciliators	2019	295
+Arbitrators, Mediators, and Conciliators	2010	228
+Arbitrators, Mediators, and Conciliators	2018	828
+Dental Laboratory Technicians	2007	251
+Dental Laboratory Technicians	2019	1644
+Dental Laboratory Technicians	2010	284
+Dental Laboratory Technicians	2018	2441
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	2007	1420
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	2019	6078
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	2010	2754
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	2018	16896
+Animal Control Workers	2007	245
+Animal Control Workers	2019	688
+Animal Control Workers	2010	362
+Animal Control Workers	2018	1313
+First-Line Supervisors of Police and Detectives	2007	202
+First-Line Supervisors of Police and Detectives	2019	939
+First-Line Supervisors of Police and Detectives	2010	589
+First-Line Supervisors of Police and Detectives	2018	1918
+Wholesale and Retail Buyers, Except Farm Products	2007	762
+Wholesale and Retail Buyers, Except Farm Products	2019	1728
+Wholesale and Retail Buyers, Except Farm Products	2010	1113
+Wholesale and Retail Buyers, Except Farm Products	2018	3756
+Packaging and Filling Machine Operators and Tenders	2007	684
+Packaging and Filling Machine Operators and Tenders	2019	3055
+Packaging and Filling Machine Operators and Tenders	2010	837
+Packaging and Filling Machine Operators and Tenders	2018	6242
+Helpers, Construction Trades, All Other	2007	35
+Helpers, Construction Trades, All Other	2019	386
+Helpers, Construction Trades, All Other	2010	39
+Helpers, Construction Trades, All Other	2018	582
+Welders, Cutters, Solderers, and Brazers	2007	3919
+Welders, Cutters, Solderers, and Brazers	2019	7190
+Welders, Cutters, Solderers, and Brazers	2010	3909
+Welders, Cutters, Solderers, and Brazers	2018	17654
+Directors, Religious Activities and Education	2007	419
+Directors, Religious Activities and Education	2019	1093
+Directors, Religious Activities and Education	2010	2751
+Directors, Religious Activities and Education	2018	2466
+Transportation Attendants, Except Flight Attendants 	2007	47
+Transportation Attendants, Except Flight Attendants 	2019	617
+Transportation Attendants, Except Flight Attendants 	2010	139
+Transportation Attendants, Except Flight Attendants 	2018	1276
+Agricultural and Food Science Technicians	2007	289
+Agricultural and Food Science Technicians	2019	1159
+Agricultural and Food Science Technicians	2010	725
+Agricultural and Food Science Technicians	2018	2494
+Skincare Specialists	2007	282
+Skincare Specialists	2019	2354
+Skincare Specialists	2010	934
+Skincare Specialists	2018	6676
+Slot Supervisors	2007	129
+Slot Supervisors	2019	398
+Slot Supervisors	2010	258
+Slot Supervisors	2018	942
+Special Education Teachers, Secondary School	2007	135
+Special Education Teachers, Secondary School	2019	953
+Special Education Teachers, Secondary School	2010	380
+Special Education Teachers, Secondary School	2018	2313
+Epidemiologists	2007	777
+Epidemiologists	2019	612
+Epidemiologists	2010	814
+Epidemiologists	2018	1668
+Gaming Supervisors	2007	134
+Gaming Supervisors	2019	922
+Gaming Supervisors	2010	492
+Gaming Supervisors	2018	1465
+Biological Scientists, All Other	2007	3481
+Biological Scientists, All Other	2019	4657
+Biological Scientists, All Other	2010	4372
+Biological Scientists, All Other	2018	9265
+Psychologists, All Other	2007	382
+Psychologists, All Other	2019	545
+Psychologists, All Other	2010	617
+Psychologists, All Other	2018	1170
+Locomotive Engineers	2007	69
+Locomotive Engineers	2019	344
+Locomotive Engineers	2010	87
+Locomotive Engineers	2018	605
+Chiropractors	2007	11
+Chiropractors	2019	1063
+Chiropractors	2010	75
+Chiropractors	2018	1651
+Upholsterers	2007	74
+Upholsterers	2019	494
+Upholsterers	2010	164
+Upholsterers	2018	880
+Gaming Surveillance Officers and Gaming Investigators	2007	266
+Gaming Surveillance Officers and Gaming Investigators	2019	437
+Gaming Surveillance Officers and Gaming Investigators	2010	295
+Gaming Surveillance Officers and Gaming Investigators	2018	884
+Stationary Engineers and Boiler Operators	2007	766
+Stationary Engineers and Boiler Operators	2019	1139
+Stationary Engineers and Boiler Operators	2010	750
+Stationary Engineers and Boiler Operators	2018	2315
+Anesthesiologists	2007	863
+Anesthesiologists	2019	2069
+Anesthesiologists	2010	993
+Anesthesiologists	2018	4684
+Nursing Instructors and Teachers, Postsecondary	2007	831
+Nursing Instructors and Teachers, Postsecondary	2019	2912
+Nursing Instructors and Teachers, Postsecondary	2010	2151
+Nursing Instructors and Teachers, Postsecondary	2018	6382
+Carpet Installers	2007	125
+Carpet Installers	2019	312
+Carpet Installers	2010	147
+Carpet Installers	2018	574
+Community Health Workers	2007	196
+Community Health Workers	2019	1158
+Community Health Workers	2010	438
+Community Health Workers	2018	2125
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	2007	69
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	2019	148
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	2010	57
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	2018	347
+Outdoor Power Equipment and Other Small Engine Mechanics	2007	170
+Outdoor Power Equipment and Other Small Engine Mechanics	2019	656
+Outdoor Power Equipment and Other Small Engine Mechanics	2010	406
+Outdoor Power Equipment and Other Small Engine Mechanics	2018	1827
+Electronic Home Entertainment Equipment Installers and Repairers	2007	485
+Electronic Home Entertainment Equipment Installers and Repairers	2019	2639
+Electronic Home Entertainment Equipment Installers and Repairers	2010	2970
+Electronic Home Entertainment Equipment Installers and Repairers	2018	7315
+Veterinary Technologists and Technicians	2007	747
+Veterinary Technologists and Technicians	2019	3357
+Veterinary Technologists and Technicians	2010	2864
+Veterinary Technologists and Technicians	2018	8076
+Compensation and Benefits Managers	2007	2674
+Compensation and Benefits Managers	2019	3971
+Compensation and Benefits Managers	2010	2977
+Compensation and Benefits Managers	2018	8333
+Crane and Tower Operators	2007	161
+Crane and Tower Operators	2019	2031
+Crane and Tower Operators	2010	384
+Crane and Tower Operators	2018	3969
+Veterinary Assistants and Laboratory Animal Caretakers	2007	139
+Veterinary Assistants and Laboratory Animal Caretakers	2019	3859
+Veterinary Assistants and Laboratory Animal Caretakers	2010	327
+Veterinary Assistants and Laboratory Animal Caretakers	2018	6854
+Models	2007	56
+Models	2019	412
+Models	2010	259
+Models	2018	776
+Computer and Information Research Scientists	2007	1603
+Computer and Information Research Scientists	2019	13936
+Computer and Information Research Scientists	2010	2318
+Computer and Information Research Scientists	2018	27750
+Biological Science Teachers, Postsecondary	2007	1051
+Biological Science Teachers, Postsecondary	2019	1077
+Biological Science Teachers, Postsecondary	2010	1365
+Biological Science Teachers, Postsecondary	2018	2431
+Economics Teachers, Postsecondary	2007	626
+Economics Teachers, Postsecondary	2019	506
+Economics Teachers, Postsecondary	2010	813
+Economics Teachers, Postsecondary	2018	1266
+Motor Vehicle Operators, All Other	2007	227
+Motor Vehicle Operators, All Other	2019	2513
+Motor Vehicle Operators, All Other	2010	1029
+Motor Vehicle Operators, All Other	2018	4032
+Gaming Cage Workers	2007	121
+Gaming Cage Workers	2019	713
+Gaming Cage Workers	2010	344
+Gaming Cage Workers	2018	1419
+Etchers and Engravers	2007	12
+Etchers and Engravers	2019	156
+Etchers and Engravers	2010	33
+Etchers and Engravers	2018	371
+Manicurists and Pedicurists	2007	322
+Manicurists and Pedicurists	2019	1597
+Manicurists and Pedicurists	2010	901
+Manicurists and Pedicurists	2018	3210
+Career/Technical Education Teachers, Secondary School	2007	285
+Career/Technical Education Teachers, Secondary School	2019	1673
+Career/Technical Education Teachers, Secondary School	2010	483
+Career/Technical Education Teachers, Secondary School	2018	3381
+Community and Social Service Specialists, All Other	2007	858
+Community and Social Service Specialists, All Other	2019	2361
+Community and Social Service Specialists, All Other	2010	1028
+Community and Social Service Specialists, All Other	2018	4741
+Marine Engineers and Naval Architects	2007	149
+Marine Engineers and Naval Architects	2019	242
+Marine Engineers and Naval Architects	2010	247
+Marine Engineers and Naval Architects	2018	444
+Camera Operators, Television, Video, and Motion Picture	2007	754
+Camera Operators, Television, Video, and Motion Picture	2019	2228
+Camera Operators, Television, Video, and Motion Picture	2010	909
+Camera Operators, Television, Video, and Motion Picture	2018	3676
+Anthropologists and Archeologists	2007	438
+Anthropologists and Archeologists	2019	844
+Anthropologists and Archeologists	2010	630
+Anthropologists and Archeologists	2018	1814
+Parts Salespersons	2007	727
+Parts Salespersons	2019	5913
+Parts Salespersons	2010	14366
+Parts Salespersons	2018	9861
+Library Science Teachers, Postsecondary	2007	8
+Library Science Teachers, Postsecondary	2019	10
+Library Science Teachers, Postsecondary	2010	11
+Library Science Teachers, Postsecondary	2018	13
+Agricultural Equipment Operators	2007	28
+Agricultural Equipment Operators	2019	268
+Agricultural Equipment Operators	2010	104
+Agricultural Equipment Operators	2018	409
+Pest Control Workers	2007	196
+Pest Control Workers	2019	6226
+Pest Control Workers	2010	2178
+Pest Control Workers	2018	15301
+Print Binding and Finishing Workers	2007	301
+Print Binding and Finishing Workers	2019	1050
+Print Binding and Finishing Workers	2010	390
+Print Binding and Finishing Workers	2018	2297
+Communications Teachers, Postsecondary	2007	480
+Communications Teachers, Postsecondary	2019	747
+Communications Teachers, Postsecondary	2010	1001
+Communications Teachers, Postsecondary	2018	1846
+Music Directors and Composers	2007	290
+Music Directors and Composers	2019	703
+Music Directors and Composers	2010	738
+Music Directors and Composers	2018	1424
+Conservation Scientists	2007	436
+Conservation Scientists	2019	1696
+Conservation Scientists	2010	1200
+Conservation Scientists	2018	3922
+Materials Scientists	2007	121
+Materials Scientists	2019	304
+Materials Scientists	2010	329
+Materials Scientists	2018	671
+Coin, Vending, and Amusement Machine Servicers and Repairers	2007	55
+Coin, Vending, and Amusement Machine Servicers and Repairers	2019	454
+Coin, Vending, and Amusement Machine Servicers and Repairers	2010	59
+Coin, Vending, and Amusement Machine Servicers and Repairers	2018	1132
+Printing Press Operators	2007	429
+Printing Press Operators	2019	3356
+Printing Press Operators	2010	758
+Printing Press Operators	2018	6444
+Engineering Teachers, Postsecondary	2007	299
+Engineering Teachers, Postsecondary	2019	709
+Engineering Teachers, Postsecondary	2010	599
+Engineering Teachers, Postsecondary	2018	1363
+Cargo and Freight Agents	2007	716
+Cargo and Freight Agents	2019	5771
+Cargo and Freight Agents	2010	4323
+Cargo and Freight Agents	2018	12069
+Actors	2007	185
+Actors	2019	1496
+Actors	2010	1988
+Actors	2018	2672
+Radio, Cellular, and Tower Equipment Installers and Repairs	2007	215
+Radio, Cellular, and Tower Equipment Installers and Repairs	2019	657
+Radio, Cellular, and Tower Equipment Installers and Repairs	2010	488
+Radio, Cellular, and Tower Equipment Installers and Repairs	2018	1237
+Biochemists and Biophysicists	2007	818
+Biochemists and Biophysicists	2019	578
+Biochemists and Biophysicists	2010	853
+Biochemists and Biophysicists	2018	1180
+Computer Science Teachers, Postsecondary	2007	479
+Computer Science Teachers, Postsecondary	2019	1869
+Computer Science Teachers, Postsecondary	2010	1408
+Computer Science Teachers, Postsecondary	2018	3595
+Child, Family, and School Social Workers	2007	1494
+Child, Family, and School Social Workers	2019	7883
+Child, Family, and School Social Workers	2010	3847
+Child, Family, and School Social Workers	2018	15817
+Mathematical Science Occupations, All Other	2007	4
+Mathematical Science Occupations, All Other	2019	15
+Mathematical Science Occupations, All Other	2010	8
+Mathematical Science Occupations, All Other	2018	30
+Carpenters	2007	2001
+Carpenters	2019	6623
+Carpenters	2010	2324
+Carpenters	2018	19889
+Bailiffs	2007	19
+Bailiffs	2019	115
+Bailiffs	2010	53
+Bailiffs	2018	196
+Structural Iron and Steel Workers	2007	83
+Structural Iron and Steel Workers	2019	816
+Structural Iron and Steel Workers	2010	173
+Structural Iron and Steel Workers	2018	1942
+Explosives Workers, Ordnance Handling Experts, and Blasters	2007	51
+Explosives Workers, Ordnance Handling Experts, and Blasters	2019	445
+Explosives Workers, Ordnance Handling Experts, and Blasters	2010	225
+Explosives Workers, Ordnance Handling Experts, and Blasters	2018	852
+Tree Trimmers and Pruners	2007	99
+Tree Trimmers and Pruners	2019	3443
+Tree Trimmers and Pruners	2010	193
+Tree Trimmers and Pruners	2018	5902
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	2007	131
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	2019	948
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	2010	264
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	2018	1855
+Furniture Finishers	2007	139
+Furniture Finishers	2019	596
+Furniture Finishers	2010	192
+Furniture Finishers	2018	1396
+Mathematicians	2007	67
+Mathematicians	2019	235
+Mathematicians	2010	204
+Mathematicians	2018	336
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	2007	341
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	2019	3119
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	2010	571
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	2018	4124
+Opticians, Dispensing	2007	123
+Opticians, Dispensing	2019	2081
+Opticians, Dispensing	2010	496
+Opticians, Dispensing	2018	4060
+Engine and Other Machine Assemblers	2007	41
+Engine and Other Machine Assemblers	2019	277
+Engine and Other Machine Assemblers	2010	92
+Engine and Other Machine Assemblers	2018	611
+Millwrights	2007	198
+Millwrights	2019	978
+Millwrights	2010	342
+Millwrights	2018	2605
+Orthodontists	2007	13
+Orthodontists	2019	607
+Orthodontists	2010	105
+Orthodontists	2018	1383
+Tool and Die Makers	2007	161
+Tool and Die Makers	2019	1220
+Tool and Die Makers	2010	524
+Tool and Die Makers	2018	2903
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	2007	15
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	2019	112
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	2010	25
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	2018	229
+Astronomers	2007	103
+Astronomers	2019	716
+Astronomers	2010	272
+Astronomers	2018	1601
+Sawing Machine Setters, Operators, and Tenders, Wood	2007	123
+Sawing Machine Setters, Operators, and Tenders, Wood	2019	296
+Sawing Machine Setters, Operators, and Tenders, Wood	2010	151
+Sawing Machine Setters, Operators, and Tenders, Wood	2018	565
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	2007	59
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	2019	640
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	2010	183
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	2018	1201
+Insulation Workers, Floor, Ceiling, and Wall	2007	86
+Insulation Workers, Floor, Ceiling, and Wall	2019	637
+Insulation Workers, Floor, Ceiling, and Wall	2010	111
+Insulation Workers, Floor, Ceiling, and Wall	2018	1477
+Tax Preparers	2007	1615
+Tax Preparers	2019	10872
+Tax Preparers	2010	993
+Tax Preparers	2018	23050
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	2007	1081
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	2019	3642
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	2010	1290
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	2018	7781
+Photographic Process Workers and Processing Machine Operators	2007	627
+Photographic Process Workers and Processing Machine Operators	2019	2344
+Photographic Process Workers and Processing Machine Operators	2010	968
+Photographic Process Workers and Processing Machine Operators	2018	5097
+Reporters and Correspondents	2007	1610
+Reporters and Correspondents	2019	5998
+Reporters and Correspondents	2010	2899
+Reporters and Correspondents	2018	12133
+Radio and Television Announcers	2007	190
+Radio and Television Announcers	2019	823
+Radio and Television Announcers	2010	696
+Radio and Television Announcers	2018	2286
+Genetic Counselors	2007	429
+Genetic Counselors	2019	917
+Genetic Counselors	2010	340
+Genetic Counselors	2018	1733
+Hazardous Materials Removal Workers	2007	178
+Hazardous Materials Removal Workers	2019	1160
+Hazardous Materials Removal Workers	2010	324
+Hazardous Materials Removal Workers	2018	3148
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	2007	681
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	2019	1140
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	2010	840
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	2018	2728
+Mental Health and Substance Abuse Social Workers	2007	483
+Mental Health and Substance Abuse Social Workers	2019	2414
+Mental Health and Substance Abuse Social Workers	2010	976
+Mental Health and Substance Abuse Social Workers	2018	5139
+Sewing Machine Operators	2007	201
+Sewing Machine Operators	2019	1233
+Sewing Machine Operators	2010	279
+Sewing Machine Operators	2018	2414
+Cutting and Slicing Machine Setters, Operators, and Tenders	2007	111
+Cutting and Slicing Machine Setters, Operators, and Tenders	2019	1451
+Cutting and Slicing Machine Setters, Operators, and Tenders	2010	213
+Cutting and Slicing Machine Setters, Operators, and Tenders	2018	2966
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2007	357
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2019	1495
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2010	401
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2018	3038
+Environmental Engineering Technicians	2007	102
+Environmental Engineering Technicians	2019	124
+Environmental Engineering Technicians	2010	203
+Environmental Engineering Technicians	2018	267
+Atmospheric and Space Scientists	2007	339
+Atmospheric and Space Scientists	2019	652
+Atmospheric and Space Scientists	2010	322
+Atmospheric and Space Scientists	2018	1643
+Industrial-Organizational Psychologists	2007	711
+Industrial-Organizational Psychologists	2019	1030
+Industrial-Organizational Psychologists	2010	718
+Industrial-Organizational Psychologists	2018	2075
+Radar and Sonar Technicians	2007	36
+Radar and Sonar Technicians	2019	777
+Radar and Sonar Technicians	2010	145
+Radar and Sonar Technicians	2018	842
+Archivists	2007	155
+Archivists	2019	441
+Archivists	2010	340
+Archivists	2018	946
+Gas Compressor and Gas Pumping Station Operators	2007	30
+Gas Compressor and Gas Pumping Station Operators	2019	233
+Gas Compressor and Gas Pumping Station Operators	2010	125
+Gas Compressor and Gas Pumping Station Operators	2018	593
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	2007	86
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	2019	498
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	2010	178
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	2018	1083
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2007	26
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2019	149
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2010	44
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2018	239
+Roofers	2007	254
+Roofers	2019	2894
+Roofers	2010	703
+Roofers	2018	5627
+Fashion Designers	2007	629
+Fashion Designers	2019	2446
+Fashion Designers	2010	1736
+Fashion Designers	2018	6217
+Cooks, Short Order	2007	255
+Cooks, Short Order	2019	6582
+Cooks, Short Order	2010	2044
+Cooks, Short Order	2018	15179
+Fence Erectors	2007	13
+Fence Erectors	2019	296
+Fence Erectors	2010	28
+Fence Erectors	2018	381
+Food Scientists and Technologists	2007	369
+Food Scientists and Technologists	2019	613
+Food Scientists and Technologists	2010	719
+Food Scientists and Technologists	2018	1164
+Insurance Appraisers, Auto Damage	2007	380
+Insurance Appraisers, Auto Damage	2019	2067
+Insurance Appraisers, Auto Damage	2010	776
+Insurance Appraisers, Auto Damage	2018	3921
+Prepress Technicians and Workers	2007	420
+Prepress Technicians and Workers	2019	1028
+Prepress Technicians and Workers	2010	682
+Prepress Technicians and Workers	2018	2223
+Construction and Related Workers, All Other	2007	100
+Construction and Related Workers, All Other	2019	745
+Construction and Related Workers, All Other	2010	296
+Construction and Related Workers, All Other	2018	1481
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	2007	61
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	2019	665
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	2010	178
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	2018	1393
+Special Education Teachers, Preschool	2007	190
+Special Education Teachers, Preschool	2019	2121
+Special Education Teachers, Preschool	2010	382
+Special Education Teachers, Preschool	2018	4534
+Paving, Surfacing, and Tamping Equipment Operators	2007	54
+Paving, Surfacing, and Tamping Equipment Operators	2019	946
+Paving, Surfacing, and Tamping Equipment Operators	2010	292
+Paving, Surfacing, and Tamping Equipment Operators	2018	1434
+Brokerage Clerks	2007	280
+Brokerage Clerks	2019	781
+Brokerage Clerks	2010	453
+Brokerage Clerks	2018	1692
+Meter Readers, Utilities	2007	221
+Meter Readers, Utilities	2019	647
+Meter Readers, Utilities	2010	330
+Meter Readers, Utilities	2018	1461
+Helpers--Carpenters	2007	91
+Helpers--Carpenters	2019	499
+Helpers--Carpenters	2010	82
+Helpers--Carpenters	2018	1069
+Grinding and Polishing Workers, Hand	2007	29
+Grinding and Polishing Workers, Hand	2019	174
+Grinding and Polishing Workers, Hand	2010	27
+Grinding and Polishing Workers, Hand	2018	352
+Metal-Refining Furnace Operators and Tenders	2007	32
+Metal-Refining Furnace Operators and Tenders	2019	303
+Metal-Refining Furnace Operators and Tenders	2010	100
+Metal-Refining Furnace Operators and Tenders	2018	584
+Textile Cutting Machine Setters, Operators, and Tenders	2007	47
+Textile Cutting Machine Setters, Operators, and Tenders	2019	405
+Textile Cutting Machine Setters, Operators, and Tenders	2010	94
+Textile Cutting Machine Setters, Operators, and Tenders	2018	836
+Mixing and Blending Machine Setters, Operators, and Tenders	2007	90
+Mixing and Blending Machine Setters, Operators, and Tenders	2019	1546
+Mixing and Blending Machine Setters, Operators, and Tenders	2010	281
+Mixing and Blending Machine Setters, Operators, and Tenders	2018	2931
+Audio-Visual and Multimedia Collections Specialists	2007	76
+Audio-Visual and Multimedia Collections Specialists	2019	134
+Audio-Visual and Multimedia Collections Specialists	2010	119
+Audio-Visual and Multimedia Collections Specialists	2018	317
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	2007	31
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	2019	365
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	2010	58
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	2018	669
+Farmers, Ranchers, and Other Agricultural Managers	2007	211
+Farmers, Ranchers, and Other Agricultural Managers	2019	1399
+Farmers, Ranchers, and Other Agricultural Managers	2010	579
+Farmers, Ranchers, and Other Agricultural Managers	2018	2498
+Layout Workers, Metal and Plastic	2007	36
+Layout Workers, Metal and Plastic	2019	206
+Layout Workers, Metal and Plastic	2010	89
+Layout Workers, Metal and Plastic	2018	429
+Statistical Assistants	2007	113
+Statistical Assistants	2019	347
+Statistical Assistants	2010	369
+Statistical Assistants	2018	849
+Boilermakers	2007	49
+Boilermakers	2019	320
+Boilermakers	2010	165
+Boilermakers	2018	948
+Correspondence Clerks	2007	122
+Correspondence Clerks	2019	529
+Correspondence Clerks	2010	197
+Correspondence Clerks	2018	1051
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	2007	92
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	2019	485
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	2010	136
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	2018	984
+Material Moving Workers, All Other	2007	153
+Material Moving Workers, All Other	2019	1172
+Material Moving Workers, All Other	2010	169
+Material Moving Workers, All Other	2018	2487
+Probation Officers and Correctional Treatment Specialists	2007	118
+Probation Officers and Correctional Treatment Specialists	2019	1163
+Probation Officers and Correctional Treatment Specialists	2010	481
+Probation Officers and Correctional Treatment Specialists	2018	2408
+Real Estate Brokers	2007	270
+Real Estate Brokers	2019	1435
+Real Estate Brokers	2010	432
+Real Estate Brokers	2018	3485
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2007	29
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2019	229
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2010	95
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	2018	494
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	2007	545
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	2019	2579
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	2010	736
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	2018	5390
+Maintenance Workers, Machinery	2007	209
+Maintenance Workers, Machinery	2019	866
+Maintenance Workers, Machinery	2010	419
+Maintenance Workers, Machinery	2018	1860
+Physics Teachers, Postsecondary	2007	246
+Physics Teachers, Postsecondary	2019	354
+Physics Teachers, Postsecondary	2010	403
+Physics Teachers, Postsecondary	2018	867
+Electromechanical Equipment Assemblers	2007	27
+Electromechanical Equipment Assemblers	2019	98
+Electromechanical Equipment Assemblers	2010	81
+Electromechanical Equipment Assemblers	2018	234
+Textile Bleaching and Dyeing Machine Operators and Tenders	2007	34
+Textile Bleaching and Dyeing Machine Operators and Tenders	2019	199
+Textile Bleaching and Dyeing Machine Operators and Tenders	2010	45
+Textile Bleaching and Dyeing Machine Operators and Tenders	2018	480
+Cartographers and Photogrammetrists	2007	59
+Cartographers and Photogrammetrists	2019	126
+Cartographers and Photogrammetrists	2010	101
+Cartographers and Photogrammetrists	2018	358
+Political Science Teachers, Postsecondary	2007	124
+Political Science Teachers, Postsecondary	2019	178
+Political Science Teachers, Postsecondary	2010	131
+Political Science Teachers, Postsecondary	2018	427
+Metal Workers and Plastic Workers, All Other	2007	52
+Metal Workers and Plastic Workers, All Other	2019	480
+Metal Workers and Plastic Workers, All Other	2010	128
+Metal Workers and Plastic Workers, All Other	2018	911
+Farm Equipment Mechanics and Service Technicians	2007	214
+Farm Equipment Mechanics and Service Technicians	2019	1035
+Farm Equipment Mechanics and Service Technicians	2010	218
+Farm Equipment Mechanics and Service Technicians	2018	1241
+Hearing Aid Specialists	2007	176
+Hearing Aid Specialists	2019	669
+Hearing Aid Specialists	2010	250
+Hearing Aid Specialists	2018	1202
+Cabinetmakers and Bench Carpenters	2007	248
+Cabinetmakers and Bench Carpenters	2019	997
+Cabinetmakers and Bench Carpenters	2010	287
+Cabinetmakers and Bench Carpenters	2018	1876
+Assemblers and Fabricators, All Other	2007	127
+Assemblers and Fabricators, All Other	2019	1447
+Assemblers and Fabricators, All Other	2010	721
+Assemblers and Fabricators, All Other	2018	2453
+Loading Machine Operators, Underground Mining	2007	46
+Loading Machine Operators, Underground Mining	2019	1086
+Loading Machine Operators, Underground Mining	2010	117
+Loading Machine Operators, Underground Mining	2018	1912
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	2007	15
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	2019	215
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	2010	45
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	2018	435
+History Teachers, Postsecondary	2007	237
+History Teachers, Postsecondary	2019	554
+History Teachers, Postsecondary	2010	317
+History Teachers, Postsecondary	2018	813
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	2007	104
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	2019	1882
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	2010	1061
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	2018	2593
+Psychiatric Aides	2007	518
+Psychiatric Aides	2019	647
+Psychiatric Aides	2010	406
+Psychiatric Aides	2018	1350
+First-Line Supervisors of Correctional Officers	2007	10
+First-Line Supervisors of Correctional Officers	2019	167
+First-Line Supervisors of Correctional Officers	2010	62
+First-Line Supervisors of Correctional Officers	2018	392
+Gas Plant Operators	2007	83
+Gas Plant Operators	2019	160
+Gas Plant Operators	2010	90
+Gas Plant Operators	2018	297
+Power Distributors and Dispatchers	2007	108
+Power Distributors and Dispatchers	2019	499
+Power Distributors and Dispatchers	2010	202
+Power Distributors and Dispatchers	2018	986
+Architecture Teachers, Postsecondary	2007	195
+Architecture Teachers, Postsecondary	2019	225
+Architecture Teachers, Postsecondary	2010	289
+Architecture Teachers, Postsecondary	2018	558
+Infantry Officers	2007	66
+Infantry Officers	2019	266
+Infantry Officers	2010	229
+Infantry Officers	2018	562
+Forestry and Conservation Science Teachers, Postsecondary	2007	11
+Forestry and Conservation Science Teachers, Postsecondary	2019	50
+Forestry and Conservation Science Teachers, Postsecondary	2010	23
+Forestry and Conservation Science Teachers, Postsecondary	2018	103
+Philosophy and Religion Teachers, Postsecondary	2007	170
+Philosophy and Religion Teachers, Postsecondary	2019	226
+Philosophy and Religion Teachers, Postsecondary	2010	318
+Philosophy and Religion Teachers, Postsecondary	2018	519
+Segmental Pavers	2007	42
+Segmental Pavers	2019	386
+Segmental Pavers	2010	59
+Segmental Pavers	2018	516
+Film and Video Editors	2007	179
+Film and Video Editors	2019	876
+Film and Video Editors	2010	303
+Film and Video Editors	2018	1913
+Bus Drivers, School or Special Client 	2007	161
+Bus Drivers, School or Special Client 	2019	1603
+Bus Drivers, School or Special Client 	2010	678
+Bus Drivers, School or Special Client 	2018	4019
+Logging Workers, All Other	2007	42
+Logging Workers, All Other	2019	691
+Logging Workers, All Other	2010	87
+Logging Workers, All Other	2018	1167
+Helpers--Electricians	2007	78
+Helpers--Electricians	2019	608
+Helpers--Electricians	2010	128
+Helpers--Electricians	2018	1447
+Meat, Poultry, and Fish Cutters and Trimmers	2007	20
+Meat, Poultry, and Fish Cutters and Trimmers	2019	770
+Meat, Poultry, and Fish Cutters and Trimmers	2010	291
+Meat, Poultry, and Fish Cutters and Trimmers	2018	1458
+Highway Maintenance Workers	2007	66
+Highway Maintenance Workers	2019	1493
+Highway Maintenance Workers	2010	142
+Highway Maintenance Workers	2018	2525
+Aircraft Cargo Handling Supervisors	2007	11
+Aircraft Cargo Handling Supervisors	2019	132
+Aircraft Cargo Handling Supervisors	2010	19
+Aircraft Cargo Handling Supervisors	2018	236
+Recreational Vehicle Service Technicians	2007	45
+Recreational Vehicle Service Technicians	2019	502
+Recreational Vehicle Service Technicians	2010	70
+Recreational Vehicle Service Technicians	2018	973
+Geographers	2007	43
+Geographers	2019	241
+Geographers	2010	242
+Geographers	2018	541
+Cement Masons and Concrete Finishers	2007	216
+Cement Masons and Concrete Finishers	2019	2051
+Cement Masons and Concrete Finishers	2010	233
+Cement Masons and Concrete Finishers	2018	3147
+Elevator Installers and Repairers	2007	91
+Elevator Installers and Repairers	2019	192
+Elevator Installers and Repairers	2010	116
+Elevator Installers and Repairers	2018	323
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	2007	62
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	2019	343
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	2010	108
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	2018	956
+Recreation and Fitness Studies Teachers, Postsecondary	2007	75
+Recreation and Fitness Studies Teachers, Postsecondary	2019	263
+Recreation and Fitness Studies Teachers, Postsecondary	2010	111
+Recreation and Fitness Studies Teachers, Postsecondary	2018	496
+Forest Fire Inspectors and Prevention Specialists	2007	24
+Forest Fire Inspectors and Prevention Specialists	2019	393
+Forest Fire Inspectors and Prevention Specialists	2010	128
+Forest Fire Inspectors and Prevention Specialists	2018	682
+Floor Layers, Except Carpet, Wood, and Hard Tiles	2007	13
+Floor Layers, Except Carpet, Wood, and Hard Tiles	2019	502
+Floor Layers, Except Carpet, Wood, and Hard Tiles	2010	75
+Floor Layers, Except Carpet, Wood, and Hard Tiles	2018	878
+Motorcycle Mechanics	2007	26
+Motorcycle Mechanics	2019	110
+Motorcycle Mechanics	2010	33
+Motorcycle Mechanics	2018	238
+Fiberglass Laminators and Fabricators	2007	23
+Fiberglass Laminators and Fabricators	2019	119
+Fiberglass Laminators and Fabricators	2010	38
+Fiberglass Laminators and Fabricators	2018	262
+Farmworkers and Laborers, Crop, Nursery, and Greenhouse	2007	235
+Farmworkers and Laborers, Crop, Nursery, and Greenhouse	2019	1617
+Farmworkers and Laborers, Crop, Nursery, and Greenhouse	2010	407
+Farmworkers and Laborers, Crop, Nursery, and Greenhouse	2018	2806
+Structural Metal Fabricators and Fitters	2007	32
+Structural Metal Fabricators and Fitters	2019	176
+Structural Metal Fabricators and Fitters	2010	65
+Structural Metal Fabricators and Fitters	2018	335
+Glaziers	2007	108
+Glaziers	2019	1331
+Glaziers	2010	204
+Glaziers	2018	2602
+Parking Enforcement Workers	2007	43
+Parking Enforcement Workers	2019	580
+Parking Enforcement Workers	2010	173
+Parking Enforcement Workers	2018	1151
+Motion Picture Projectionists	2007	26
+Motion Picture Projectionists	2019	85
+Motion Picture Projectionists	2010	137
+Motion Picture Projectionists	2018	335
+Helpers--Extraction Workers	2007	13
+Helpers--Extraction Workers	2019	174
+Helpers--Extraction Workers	2010	22
+Helpers--Extraction Workers	2018	302
+Chemical Equipment Operators and Tenders	2007	256
+Chemical Equipment Operators and Tenders	2019	1055
+Chemical Equipment Operators and Tenders	2010	416
+Chemical Equipment Operators and Tenders	2018	2219
+Shoe Machine Operators and Tenders	2007	37
+Shoe Machine Operators and Tenders	2019	326
+Shoe Machine Operators and Tenders	2010	126
+Shoe Machine Operators and Tenders	2018	681
+Tailors, Dressmakers, and Custom Sewers	2007	105
+Tailors, Dressmakers, and Custom Sewers	2019	2346
+Tailors, Dressmakers, and Custom Sewers	2010	2519
+Tailors, Dressmakers, and Custom Sewers	2018	4358
+Motorboat Mechanics and Service Technicians	2007	56
+Motorboat Mechanics and Service Technicians	2019	180
+Motorboat Mechanics and Service Technicians	2010	110
+Motorboat Mechanics and Service Technicians	2018	428
+Chemical Plant and System Operators	2007	27
+Chemical Plant and System Operators	2019	86
+Chemical Plant and System Operators	2010	36
+Chemical Plant and System Operators	2018	140
+First-Line Supervisors of Protective Service Workers, All Other	2007	72
+First-Line Supervisors of Protective Service Workers, All Other	2019	1631
+First-Line Supervisors of Protective Service Workers, All Other	2010	767
+First-Line Supervisors of Protective Service Workers, All Other	2018	3279
+Therapists, All Other	2007	22
+Therapists, All Other	2019	55
+Therapists, All Other	2010	55
+Therapists, All Other	2018	139
+Postal Service Clerks	2007	61
+Postal Service Clerks	2019	1209
+Postal Service Clerks	2010	107
+Postal Service Clerks	2018	4146
+Rehabilitation Counselors	2007	340
+Rehabilitation Counselors	2019	894
+Rehabilitation Counselors	2010	642
+Rehabilitation Counselors	2018	1826
+Sociologists	2007	111
+Sociologists	2019	209
+Sociologists	2010	144
+Sociologists	2018	388
+Environmental Science Teachers, Postsecondary	2007	291
+Environmental Science Teachers, Postsecondary	2019	79
+Environmental Science Teachers, Postsecondary	2010	46
+Environmental Science Teachers, Postsecondary	2018	81
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	2007	36
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	2019	1019
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	2010	114
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	2018	827
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	2007	62
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	2019	427
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	2010	52
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	2018	892
+Electronic Equipment Installers and Repairers, Motor Vehicles	2007	87
+Electronic Equipment Installers and Repairers, Motor Vehicles	2019	341
+Electronic Equipment Installers and Repairers, Motor Vehicles	2010	1269
+Electronic Equipment Installers and Repairers, Motor Vehicles	2018	798
+Tool Grinders, Filers, and Sharpeners	2007	31
+Tool Grinders, Filers, and Sharpeners	2019	58
+Tool Grinders, Filers, and Sharpeners	2010	25
+Tool Grinders, Filers, and Sharpeners	2018	100
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	2007	33
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	2019	137
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	2010	55
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	2018	228
+Floral Designers	2007	150
+Floral Designers	2019	1026
+Floral Designers	2010	574
+Floral Designers	2018	1858
+Sociology Teachers, Postsecondary	2007	272
+Sociology Teachers, Postsecondary	2019	438
+Sociology Teachers, Postsecondary	2010	389
+Sociology Teachers, Postsecondary	2018	913
+Tile and Marble Setters	2007	14
+Tile and Marble Setters	2019	395
+Tile and Marble Setters	2010	41
+Tile and Marble Setters	2018	816
+Travel Guides	2007	53
+Travel Guides	2019	869
+Travel Guides	2010	152
+Travel Guides	2018	1329
+Nuclear Power Reactor Operators	2007	47
+Nuclear Power Reactor Operators	2019	208
+Nuclear Power Reactor Operators	2010	93
+Nuclear Power Reactor Operators	2018	565
+Foresters	2007	59
+Foresters	2019	944
+Foresters	2010	188
+Foresters	2018	1633
+Airfield Operations Specialists	2007	101
+Airfield Operations Specialists	2019	484
+Airfield Operations Specialists	2010	161
+Airfield Operations Specialists	2018	982
+Food Cooking Machine Operators and Tenders	2007	21
+Food Cooking Machine Operators and Tenders	2019	307
+Food Cooking Machine Operators and Tenders	2010	53
+Food Cooking Machine Operators and Tenders	2018	620
+Craft Artists	2007	45
+Craft Artists	2019	165
+Craft Artists	2010	38
+Craft Artists	2018	384
+Animal Breeders	2007	108
+Animal Breeders	2019	98
+Animal Breeders	2010	62
+Animal Breeders	2018	178
+Musicians and Singers	2007	124
+Musicians and Singers	2019	1106
+Musicians and Singers	2010	549
+Musicians and Singers	2018	2477
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	2007	25
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	2019	274
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	2010	61
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	2018	630
+Airline Pilots, Copilots, and Flight Engineers	2007	32
+Airline Pilots, Copilots, and Flight Engineers	2019	676
+Airline Pilots, Copilots, and Flight Engineers	2010	145
+Airline Pilots, Copilots, and Flight Engineers	2018	5855
+Textile, Apparel, and Furnishings Workers, All Other	2007	126
+Textile, Apparel, and Furnishings Workers, All Other	2019	1423
+Textile, Apparel, and Furnishings Workers, All Other	2010	212
+Textile, Apparel, and Furnishings Workers, All Other	2018	2461
+Umpires, Referees, and Other Sports Officials	2007	140
+Umpires, Referees, and Other Sports Officials	2019	1076
+Umpires, Referees, and Other Sports Officials	2010	265
+Umpires, Referees, and Other Sports Officials	2018	1854
+Ship Engineers	2007	26
+Ship Engineers	2019	43
+Ship Engineers	2010	16
+Ship Engineers	2018	92
+Agricultural Inspectors	2007	28
+Agricultural Inspectors	2019	177
+Agricultural Inspectors	2010	73
+Agricultural Inspectors	2018	450
+Podiatrists	2007	86
+Podiatrists	2019	374
+Podiatrists	2010	129
+Podiatrists	2018	1352
+Graduate Teaching Assistants	2007	102
+Graduate Teaching Assistants	2019	593
+Graduate Teaching Assistants	2010	99
+Graduate Teaching Assistants	2018	1285
+Sailors and Marine Oilers	2007	101
+Sailors and Marine Oilers	2019	1233
+Sailors and Marine Oilers	2010	387
+Sailors and Marine Oilers	2018	2117
+Hoist and Winch Operators	2007	38
+Hoist and Winch Operators	2019	78
+Hoist and Winch Operators	2010	36
+Hoist and Winch Operators	2018	206
+Food Batchmakers	2007	432
+Food Batchmakers	2019	2098
+Food Batchmakers	2010	522
+Food Batchmakers	2018	6551
+First-Line Supervisors of Farming, Fishing, and Forestry Workers	2007	40
+First-Line Supervisors of Farming, Fishing, and Forestry Workers	2019	455
+First-Line Supervisors of Farming, Fishing, and Forestry Workers	2010	155
+First-Line Supervisors of Farming, Fishing, and Forestry Workers	2018	786
+Historians	2007	25
+Historians	2019	129
+Historians	2010	124
+Historians	2018	377
+Set and Exhibit Designers	2007	32
+Set and Exhibit Designers	2019	285
+Set and Exhibit Designers	2010	148
+Set and Exhibit Designers	2018	586
+Fallers	2007	40
+Fallers	2019	1999
+Fallers	2010	200
+Fallers	2018	2473
+Door-to-Door Sales Workers, News and Street Vendors, and Related Workers	2007	62
+Door-to-Door Sales Workers, News and Street Vendors, and Related Workers	2019	1147
+Door-to-Door Sales Workers, News and Street Vendors, and Related Workers	2010	526
+Door-to-Door Sales Workers, News and Street Vendors, and Related Workers	2018	1879
+Forensic Science Technicians	2007	40
+Forensic Science Technicians	2019	340
+Forensic Science Technicians	2010	151
+Forensic Science Technicians	2018	681
+Public Address System and Other Announcers	2007	26
+Public Address System and Other Announcers	2019	341
+Public Address System and Other Announcers	2010	78
+Public Address System and Other Announcers	2018	581
+Pump Operators, Except Wellhead Pumpers	2007	39
+Pump Operators, Except Wellhead Pumpers	2019	566
+Pump Operators, Except Wellhead Pumpers	2010	126
+Pump Operators, Except Wellhead Pumpers	2018	1173
+Plant and System Operators, All Other	2007	84
+Plant and System Operators, All Other	2019	359
+Plant and System Operators, All Other	2010	78
+Plant and System Operators, All Other	2018	733
+Tank Car, Truck, and Ship Loaders	2007	24
+Tank Car, Truck, and Ship Loaders	2019	374
+Tank Car, Truck, and Ship Loaders	2010	182
+Tank Car, Truck, and Ship Loaders	2018	1076
+Ushers, Lobby Attendants, and Ticket Takers	2007	75
+Ushers, Lobby Attendants, and Ticket Takers	2019	2067
+Ushers, Lobby Attendants, and Ticket Takers	2010	177
+Ushers, Lobby Attendants, and Ticket Takers	2018	4647
+Radio Operators	2007	33
+Radio Operators	2019	175
+Radio Operators	2010	61
+Radio Operators	2018	297
+Information and Record Clerks, All Other	2007	50
+Information and Record Clerks, All Other	2019	227
+Information and Record Clerks, All Other	2010	127
+Information and Record Clerks, All Other	2018	451
+Cutters and Trimmers, Hand	2007	23
+Cutters and Trimmers, Hand	2019	186
+Cutters and Trimmers, Hand	2010	30
+Cutters and Trimmers, Hand	2018	351
+Electric Motor, Power Tool, and Related Repairers	2007	93
+Electric Motor, Power Tool, and Related Repairers	2019	460
+Electric Motor, Power Tool, and Related Repairers	2010	181
+Electric Motor, Power Tool, and Related Repairers	2018	685
+Riggers	2007	35
+Riggers	2019	744
+Riggers	2010	348
+Riggers	2018	1498
+Bridge and Lock Tenders	2007	37
+Bridge and Lock Tenders	2019	229
+Bridge and Lock Tenders	2010	292
+Bridge and Lock Tenders	2018	336
+Infantry	2007	18
+Infantry	2019	1104
+Infantry	2010	497
+Infantry	2018	1979
+Extraction Workers, All Other	2007	12
+Extraction Workers, All Other	2019	477
+Extraction Workers, All Other	2010	88
+Extraction Workers, All Other	2018	971
+Pressers, Textile, Garment, and Related Materials	2007	15
+Pressers, Textile, Garment, and Related Materials	2019	314
+Pressers, Textile, Garment, and Related Materials	2010	52
+Pressers, Textile, Garment, and Related Materials	2018	385
+Coil Winders, Tapers, and Finishers	2007	297
+Coil Winders, Tapers, and Finishers	2019	32
+Coil Winders, Tapers, and Finishers	2010	6
+Coil Winders, Tapers, and Finishers	2018	89
+Museum Technicians and Conservators	2007	49
+Museum Technicians and Conservators	2019	390
+Museum Technicians and Conservators	2010	117
+Museum Technicians and Conservators	2018	831
+Patternmakers, Metal and Plastic	2007	19
+Patternmakers, Metal and Plastic	2019	73
+Patternmakers, Metal and Plastic	2010	31
+Patternmakers, Metal and Plastic	2018	146
+Fabric and Apparel Patternmakers	2007	15
+Fabric and Apparel Patternmakers	2019	87
+Fabric and Apparel Patternmakers	2010	53
+Fabric and Apparel Patternmakers	2018	204
+Agents and Business Managers of Artists, Performers, and Athletes	2007	18
+Agents and Business Managers of Artists, Performers, and Athletes	2019	187
+Agents and Business Managers of Artists, Performers, and Athletes	2010	106
+Agents and Business Managers of Artists, Performers, and Athletes	2018	429
+Makeup Artists, Theatrical and Performance	2007	21
+Makeup Artists, Theatrical and Performance	2019	736
+Makeup Artists, Theatrical and Performance	2010	272
+Makeup Artists, Theatrical and Performance	2018	1465
+Anthropology and Archeology Teachers, Postsecondary	2007	47
+Anthropology and Archeology Teachers, Postsecondary	2019	95
+Anthropology and Archeology Teachers, Postsecondary	2010	93
+Anthropology and Archeology Teachers, Postsecondary	2018	183
+Court Reporters	2007	11
+Court Reporters	2019	124
+Court Reporters	2010	53
+Court Reporters	2018	277
+Communications Equipment Operators, All Other	2007	41
+Communications Equipment Operators, All Other	2019	82
+Communications Equipment Operators, All Other	2010	57
+Communications Equipment Operators, All Other	2018	204
+Funeral Service Managers	2007	27
+Funeral Service Managers	2019	491
+Funeral Service Managers	2010	231
+Funeral Service Managers	2018	1078
+Law Teachers, Postsecondary	2007	42
+Law Teachers, Postsecondary	2019	118
+Law Teachers, Postsecondary	2010	78
+Law Teachers, Postsecondary	2018	258
+Pourers and Casters, Metal	2007	10
+Pourers and Casters, Metal	2019	72
+Pourers and Casters, Metal	2010	10
+Pourers and Casters, Metal	2018	162
+Orthotists and Prosthetists	2007	84
+Orthotists and Prosthetists	2019	474
+Orthotists and Prosthetists	2010	341
+Orthotists and Prosthetists	2018	836
+Locksmiths and Safe Repairers	2007	67
+Locksmiths and Safe Repairers	2019	643
+Locksmiths and Safe Repairers	2010	203
+Locksmiths and Safe Repairers	2018	1215
+Railroad Conductors and Yardmasters	2007	56
+Railroad Conductors and Yardmasters	2019	449
+Railroad Conductors and Yardmasters	2010	507
+Railroad Conductors and Yardmasters	2018	1408
+Administrative Law Judges, Adjudicators, and Hearing Officers	2007	23
+Administrative Law Judges, Adjudicators, and Hearing Officers	2019	193
+Administrative Law Judges, Adjudicators, and Hearing Officers	2010	56
+Administrative Law Judges, Adjudicators, and Hearing Officers	2018	468
+Molders, Shapers, and Casters, Except Metal and Plastic	2007	104
+Molders, Shapers, and Casters, Except Metal and Plastic	2019	1099
+Molders, Shapers, and Casters, Except Metal and Plastic	2010	357
+Molders, Shapers, and Casters, Except Metal and Plastic	2018	2373
+Rail-Track Laying and Maintenance Equipment Operators	2007	143
+Rail-Track Laying and Maintenance Equipment Operators	2019	528
+Rail-Track Laying and Maintenance Equipment Operators	2010	157
+Rail-Track Laying and Maintenance Equipment Operators	2018	1140
+Education, Training, and Library Workers, All Other	2007	19
+Education, Training, and Library Workers, All Other	2019	119
+Education, Training, and Library Workers, All Other	2010	86
+Education, Training, and Library Workers, All Other	2018	281
+Crossing Guards	2007	32
+Crossing Guards	2019	562
+Crossing Guards	2010	152
+Crossing Guards	2018	1236
+Command and Control Center Specialists	2007	3
+Command and Control Center Specialists	2019	98
+Command and Control Center Specialists	2010	8
+Command and Control Center Specialists	2018	177
+Rotary Drill Operators, Oil and Gas	2007	9
+Rotary Drill Operators, Oil and Gas	2019	237
+Rotary Drill Operators, Oil and Gas	2010	131
+Rotary Drill Operators, Oil and Gas	2018	429
+Cooks, Fast Food	2007	57
+Cooks, Fast Food	2019	876
+Cooks, Fast Food	2010	296
+Cooks, Fast Food	2018	1807
+Refuse and Recyclable Material Collectors	2007	38
+Refuse and Recyclable Material Collectors	2019	918
+Refuse and Recyclable Material Collectors	2010	112
+Refuse and Recyclable Material Collectors	2018	1921
+Artists and Related Workers, All Other	2007	1
+Artists and Related Workers, All Other	2019	8
+Artists and Related Workers, All Other	2018	27
+Floor Sanders and Finishers	2007	19
+Floor Sanders and Finishers	2019	50
+Floor Sanders and Finishers	2010	31
+Floor Sanders and Finishers	2018	135
+Precision Instrument and Equipment Repairers, All Other	2007	20
+Precision Instrument and Equipment Repairers, All Other	2019	80
+Precision Instrument and Equipment Repairers, All Other	2010	30
+Precision Instrument and Equipment Repairers, All Other	2018	159
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	2007	11
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	2019	106
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	2010	28
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	2018	315
+Forest and Conservation Workers	2007	17
+Forest and Conservation Workers	2019	162
+Forest and Conservation Workers	2010	75
+Forest and Conservation Workers	2018	461
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	2007	3
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	2019	170
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	2010	32
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	2018	299
+Solar Photovoltaic Installers	2007	23
+Solar Photovoltaic Installers	2019	724
+Solar Photovoltaic Installers	2010	126
+Solar Photovoltaic Installers	2018	1611
+Logging Equipment Operators	2007	12
+Logging Equipment Operators	2019	60
+Logging Equipment Operators	2010	7
+Logging Equipment Operators	2018	229
+Athletes and Sports Competitors	2007	3
+Athletes and Sports Competitors	2019	297
+Athletes and Sports Competitors	2010	154
+Athletes and Sports Competitors	2018	581
+Subway and Streetcar Operators	2007	17
+Subway and Streetcar Operators	2019	132
+Subway and Streetcar Operators	2010	16
+Subway and Streetcar Operators	2018	239
+Slaughterers and Meat Packers	2007	7
+Slaughterers and Meat Packers	2019	267
+Slaughterers and Meat Packers	2010	119
+Slaughterers and Meat Packers	2018	626
+Costume Attendants	2007	21
+Costume Attendants	2019	130
+Costume Attendants	2010	99
+Costume Attendants	2018	233
+Signal and Track Switch Repairers	2007	80
+Signal and Track Switch Repairers	2019	112
+Signal and Track Switch Repairers	2010	52
+Signal and Track Switch Repairers	2018	334
+Excavating and Loading Machine and Dragline Operators	2007	15
+Excavating and Loading Machine and Dragline Operators	2019	626
+Excavating and Loading Machine and Dragline Operators	2010	33
+Excavating and Loading Machine and Dragline Operators	2018	1262
+Mechanical Door Repairers	2007	31
+Mechanical Door Repairers	2019	681
+Mechanical Door Repairers	2010	93
+Mechanical Door Repairers	2018	1157
+Personal Care and Service Workers, All Other	2007	36
+Personal Care and Service Workers, All Other	2019	440
+Personal Care and Service Workers, All Other	2010	175
+Personal Care and Service Workers, All Other	2018	743
+Conveyor Operators and Tenders	2007	20
+Conveyor Operators and Tenders	2019	266
+Conveyor Operators and Tenders	2010	29
+Conveyor Operators and Tenders	2018	636
+Hunters and Trappers	2007	4
+Hunters and Trappers	2019	159
+Hunters and Trappers	2010	24
+Hunters and Trappers	2018	221
+Cooks, Institution and Cafeteria	2007	34
+Cooks, Institution and Cafeteria	2019	552
+Cooks, Institution and Cafeteria	2010	231
+Cooks, Institution and Cafeteria	2018	1460
+Fish and Game Wardens	2007	8
+Fish and Game Wardens	2019	102
+Fish and Game Wardens	2010	48
+Fish and Game Wardens	2018	223
+Automotive Glass Installers and Repairers	2007	6
+Automotive Glass Installers and Repairers	2019	859
+Automotive Glass Installers and Repairers	2010	59
+Automotive Glass Installers and Repairers	2018	1091
+Nuclear Technicians	2007	45
+Nuclear Technicians	2019	187
+Nuclear Technicians	2010	104
+Nuclear Technicians	2018	490
+New Accounts Clerks	2007	59
+New Accounts Clerks	2019	191
+New Accounts Clerks	2010	247
+New Accounts Clerks	2018	366
+Musical Instrument Repairers and Tuners	2007	17
+Musical Instrument Repairers and Tuners	2019	148
+Musical Instrument Repairers and Tuners	2010	31
+Musical Instrument Repairers and Tuners	2018	260
+Log Graders and Scalers	2007	16
+Log Graders and Scalers	2019	43
+Log Graders and Scalers	2010	29
+Log Graders and Scalers	2018	126
+Terrazzo Workers and Finishers	2007	19
+Terrazzo Workers and Finishers	2019	49
+Terrazzo Workers and Finishers	2010	29
+Terrazzo Workers and Finishers	2018	92
+Jewelers and Precious Stone and Metal Workers	2007	45
+Jewelers and Precious Stone and Metal Workers	2019	763
+Jewelers and Precious Stone and Metal Workers	2010	222
+Jewelers and Precious Stone and Metal Workers	2018	1134
+Buyers and Purchasing Agents, Farm Products	2007	36
+Buyers and Purchasing Agents, Farm Products	2019	195
+Buyers and Purchasing Agents, Farm Products	2010	93
+Buyers and Purchasing Agents, Farm Products	2018	553
+Artillery and Missile Crew Members	2007	16
+Artillery and Missile Crew Members	2019	415
+Artillery and Missile Crew Members	2010	603
+Artillery and Missile Crew Members	2018	524
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	2007	7
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	2019	40
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	2010	12
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	2018	120
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	2007	3
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	2019	88
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	2010	21
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	2018	130
+Watch Repairers	2007	9
+Watch Repairers	2019	119
+Watch Repairers	2010	30
+Watch Repairers	2018	193
+Camera and Photographic Equipment Repairers	2007	15
+Camera and Photographic Equipment Repairers	2019	63
+Camera and Photographic Equipment Repairers	2010	35
+Camera and Photographic Equipment Repairers	2018	90
+Fishers and Related Fishing Workers	2007	11
+Fishers and Related Fishing Workers	2019	172
+Fishers and Related Fishing Workers	2010	40
+Fishers and Related Fishing Workers	2018	320
+Rail Yard Engineers, Dinkey Operators, and Hostlers	2007	7
+Rail Yard Engineers, Dinkey Operators, and Hostlers	2019	131
+Rail Yard Engineers, Dinkey Operators, and Hostlers	2010	17
+Rail Yard Engineers, Dinkey Operators, and Hostlers	2018	185
+Morticians, Undertakers, and Funeral Directors	2007	6
+Morticians, Undertakers, and Funeral Directors	2019	216
+Morticians, Undertakers, and Funeral Directors	2010	36
+Morticians, Undertakers, and Funeral Directors	2018	605
+Manufactured Building and Mobile Home Installers	2007	8
+Manufactured Building and Mobile Home Installers	2019	392
+Manufactured Building and Mobile Home Installers	2010	18
+Manufactured Building and Mobile Home Installers	2018	563
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	2007	13
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	2019	114
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	2010	19
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	2018	359
+Model Makers, Metal and Plastic	2007	20
+Model Makers, Metal and Plastic	2019	141
+Model Makers, Metal and Plastic	2010	39
+Model Makers, Metal and Plastic	2018	347
+Bicycle Repairers	2007	28
+Bicycle Repairers	2019	1186
+Bicycle Repairers	2010	492
+Bicycle Repairers	2018	1371
+Woodworkers, All Other	2007	9
+Woodworkers, All Other	2019	129
+Woodworkers, All Other	2010	39
+Woodworkers, All Other	2018	286
+Brickmasons and Blockmasons	2007	17
+Brickmasons and Blockmasons	2019	359
+Brickmasons and Blockmasons	2010	47
+Brickmasons and Blockmasons	2018	673
+Rail Transportation Workers, All Other	2007	12
+Rail Transportation Workers, All Other	2019	181
+Rail Transportation Workers, All Other	2010	25
+Rail Transportation Workers, All Other	2018	864
+Agricultural Sciences Teachers, Postsecondary	2007	12
+Agricultural Sciences Teachers, Postsecondary	2019	71
+Agricultural Sciences Teachers, Postsecondary	2010	25
+Agricultural Sciences Teachers, Postsecondary	2018	191
+Gaming and Sports Book Writers and Runners	2007	7
+Gaming and Sports Book Writers and Runners	2019	161
+Gaming and Sports Book Writers and Runners	2010	57
+Gaming and Sports Book Writers and Runners	2018	385
+Transit and Railroad Police	2007	6
+Transit and Railroad Police	2019	179
+Transit and Railroad Police	2010	81
+Transit and Railroad Police	2018	288
+Paper Goods Machine Setters, Operators, and Tenders	2007	7
+Paper Goods Machine Setters, Operators, and Tenders	2019	69
+Paper Goods Machine Setters, Operators, and Tenders	2010	17
+Paper Goods Machine Setters, Operators, and Tenders	2018	147
+Special Forces	2007	1
+Special Forces	2019	78
+Special Forces	2010	106
+Special Forces	2018	87
+Command and Control Center Officers	2007	10
+Command and Control Center Officers	2019	371
+Command and Control Center Officers	2010	68
+Command and Control Center Officers	2018	497
+Mine Cutting and Channeling Machine Operators	2007	3
+Mine Cutting and Channeling Machine Operators	2019	114
+Mine Cutting and Channeling Machine Operators	2010	59
+Mine Cutting and Channeling Machine Operators	2018	200
+Choreographers	2007	6
+Choreographers	2019	79
+Choreographers	2010	36
+Choreographers	2018	149
+Mine Shuttle Car Operators	2007	3
+Mine Shuttle Car Operators	2019	62
+Mine Shuttle Car Operators	2010	15
+Mine Shuttle Car Operators	2018	90
+Broadcast News Analysts	2007	7
+Broadcast News Analysts	2019	16
+Broadcast News Analysts	2010	8
+Broadcast News Analysts	2018	28
+Plasterers and Stucco Masons	2007	5
+Plasterers and Stucco Masons	2019	93
+Plasterers and Stucco Masons	2010	19
+Plasterers and Stucco Masons	2018	184
+Commercial Divers	2007	10
+Commercial Divers	2019	248
+Commercial Divers	2010	8
+Commercial Divers	2018	345
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	2007	2
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	2019	47
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	2010	11
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	2018	83
+Prosthodontists	2007	11
+Prosthodontists	2019	197
+Prosthodontists	2010	59
+Prosthodontists	2018	722
+Pipelayers	2007	8
+Pipelayers	2019	376
+Pipelayers	2010	38
+Pipelayers	2018	677
+Service Unit Operators, Oil, Gas, and Mining	2007	57
+Service Unit Operators, Oil, Gas, and Mining	2019	276
+Service Unit Operators, Oil, Gas, and Mining	2010	233
+Service Unit Operators, Oil, Gas, and Mining	2018	597
+Refractory Materials Repairers, Except Brickmasons	2007	1
+Refractory Materials Repairers, Except Brickmasons	2019	8
+Refractory Materials Repairers, Except Brickmasons	2018	47
+Shampooers	2007	1
+Shampooers	2019	116
+Shampooers	2010	3
+Shampooers	2018	186
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	2007	4
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	2019	152
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	2010	28
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	2018	253
+Stonemasons	2007	6
+Stonemasons	2019	197
+Stonemasons	2010	58
+Stonemasons	2018	374
+Patternmakers, Wood	2007	1
+Patternmakers, Wood	2019	5
+Patternmakers, Wood	2010	2
+Patternmakers, Wood	2018	24
+Animal Trainers	2007	38
+Animal Trainers	2019	794
+Animal Trainers	2010	2306
+Animal Trainers	2018	2788
+Mining Machine Operators, All Other	2007	6
+Mining Machine Operators, All Other	2019	196
+Mining Machine Operators, All Other	2010	30
+Mining Machine Operators, All Other	2018	272
+Animal Scientists	2007	7
+Animal Scientists	2019	91
+Animal Scientists	2010	43
+Animal Scientists	2018	168
+Grounds Maintenance Workers, All Other	2007	4
+Grounds Maintenance Workers, All Other	2019	31
+Grounds Maintenance Workers, All Other	2010	22
+Grounds Maintenance Workers, All Other	2018	75
+Dancers	2007	6
+Dancers	2019	148
+Dancers	2010	92
+Dancers	2018	293
+Wellhead Pumpers	2007	1
+Wellhead Pumpers	2019	24
+Wellhead Pumpers	2010	9
+Wellhead Pumpers	2018	82
+Septic Tank Servicers and Sewer Pipe Cleaners	2007	1
+Septic Tank Servicers and Sewer Pipe Cleaners	2019	213
+Septic Tank Servicers and Sewer Pipe Cleaners	2010	28
+Septic Tank Servicers and Sewer Pipe Cleaners	2018	407
+Shoe and Leather Workers and Repairers	2007	9
+Shoe and Leather Workers and Repairers	2019	39
+Shoe and Leather Workers and Repairers	2010	44
+Shoe and Leather Workers and Repairers	2018	383
+Funeral Attendants	2007	1
+Funeral Attendants	2019	241
+Funeral Attendants	2010	13
+Funeral Attendants	2018	410
+Cooling and Freezing Equipment Operators and Tenders	2007	10
+Cooling and Freezing Equipment Operators and Tenders	2019	110
+Cooling and Freezing Equipment Operators and Tenders	2010	8
+Cooling and Freezing Equipment Operators and Tenders	2018	253
+Electrical and Electronics Installers and Repairers, Transportation Equipment	2007	7
+Electrical and Electronics Installers and Repairers, Transportation Equipment	2019	27
+Electrical and Electronics Installers and Repairers, Transportation Equipment	2010	14
+Electrical and Electronics Installers and Repairers, Transportation Equipment	2018	106
+Derrick Operators, Oil and Gas	2007	1
+Derrick Operators, Oil and Gas	2019	8
+Derrick Operators, Oil and Gas	2010	5
+Derrick Operators, Oil and Gas	2018	8
+Rock Splitters, Quarry	2007	2
+Rock Splitters, Quarry	2019	26
+Rock Splitters, Quarry	2010	8
+Rock Splitters, Quarry	2018	82
+Dentists, All Other Specialists	2007	1
+Dentists, All Other Specialists	2019	647
+Dentists, All Other Specialists	2010	167
+Dentists, All Other Specialists	2018	1148
+Paperhangers	2007	1
+Paperhangers	2019	41
+Paperhangers	2010	2
+Paperhangers	2018	67
+Farm Labor Contractors	2007	1
+Farm Labor Contractors	2019	59
+Farm Labor Contractors	2010	2
+Farm Labor Contractors	2018	60
+Postal Service Mail Carriers	2007	1
+Postal Service Mail Carriers	2019	341
+Postal Service Mail Carriers	2010	8
+Postal Service Mail Carriers	2018	406
+Insulation Workers, Mechanical	2007	1
+Insulation Workers, Mechanical	2019	179
+Insulation Workers, Mechanical	2010	27
+Insulation Workers, Mechanical	2018	448
+Railroad Brake, Signal, and Switch Operators	2007	3
+Railroad Brake, Signal, and Switch Operators	2019	123
+Railroad Brake, Signal, and Switch Operators	2010	25
+Railroad Brake, Signal, and Switch Operators	2018	436
+Social Sciences Teachers, Postsecondary, All Other	2007	1
+Social Sciences Teachers, Postsecondary, All Other	2019	5
+Social Sciences Teachers, Postsecondary, All Other	2010	1
+Social Sciences Teachers, Postsecondary, All Other	2018	6
+Sewers, Hand	2007	1
+Sewers, Hand	2019	75
+Sewers, Hand	2010	13
+Sewers, Hand	2018	106
+Food Preparation and Serving Related Workers, All Other	2007	1
+Food Preparation and Serving Related Workers, All Other	2019	83
+Food Preparation and Serving Related Workers, All Other	2010	440
+Food Preparation and Serving Related Workers, All Other	2018	212
+First-Line Supervisors of Weapons Specialists/Crew Members	2007	1
+First-Line Supervisors of Weapons Specialists/Crew Members	2019	35
+First-Line Supervisors of Weapons Specialists/Crew Members	2010	1
+First-Line Supervisors of Weapons Specialists/Crew Members	2018	7
+Locomotive Firers	2007	1
+Locomotive Firers	2019	12
+Locomotive Firers	2018	33
+Entertainers and Performers, Sports and Related Workers, All Other	2007	1
+Entertainers and Performers, Sports and Related Workers, All Other	2019	129
+Entertainers and Performers, Sports and Related Workers, All Other	2010	16
+Entertainers and Performers, Sports and Related Workers, All Other	2018	214
+Barbers	2019	646
+Barbers	2010	46
+Barbers	2018	1117
+Foundry Mold and Coremakers	2019	107
+Foundry Mold and Coremakers	2010	17
+Foundry Mold and Coremakers	2018	181
+Motorboat Operators	2019	37
+Motorboat Operators	2010	3
+Motorboat Operators	2018	51
+Model Makers, Wood	2019	14
+Model Makers, Wood	2010	1
+Model Makers, Wood	2018	25
+Gaming Managers	2019	77
+Gaming Managers	2010	9
+Gaming Managers	2018	172
+Air Crew Officers	2019	35
+Air Crew Officers	2010	29
+Air Crew Officers	2018	32
+Agricultural Workers, All Other	2019	39
+Agricultural Workers, All Other	2010	23
+Agricultural Workers, All Other	2018	84
+Postmasters and Mail Superintendents	2019	117
+Postmasters and Mail Superintendents	2010	7
+Postmasters and Mail Superintendents	2018	174
+Air Crew Members	2019	966
+Air Crew Members	2010	191
+Air Crew Members	2018	1652
+Armored Assault Vehicle Crew Members	2019	497
+Armored Assault Vehicle Crew Members	2010	156
+Armored Assault Vehicle Crew Members	2018	932
+Reinforcing Iron and Rebar Workers	2019	30
+Reinforcing Iron and Rebar Workers	2018	50
+Timing Device Assemblers and Adjusters	2019	6
+Timing Device Assemblers and Adjusters	2010	2
+Timing Device Assemblers and Adjusters	2018	12
+Mathematical Technicians	2019	1
+Mathematical Technicians	2010	1
+Mathematical Technicians	2018	11
+Gaming Change Persons and Booth Cashiers	2019	45
+Gaming Change Persons and Booth Cashiers	2010	4
+Gaming Change Persons and Booth Cashiers	2018	99
+Embalmers	2019	104
+Embalmers	2010	35
+Embalmers	2018	161
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	2019	11
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	2018	35
+Media and Communication Workers, All Other	2019	3
+Media and Communication Workers, All Other	2018	6
+Dredge Operators	2019	5
+Dredge Operators	2018	11
+Building Cleaning Workers, All Other	2019	32
+Building Cleaning Workers, All Other	2010	9
+Building Cleaning Workers, All Other	2018	76
+Cooks, Private Household	2019	7
+Cooks, Private Household	2018	20
+Fabric Menders, Except Garment	2019	11
+Fabric Menders, Except Garment	2010	20
+Fabric Menders, Except Garment	2018	15
+Geography Teachers, Postsecondary	2019	10
+Geography Teachers, Postsecondary	2010	3
+Geography Teachers, Postsecondary	2018	15
+Media and Communication Equipment Workers, All Other	2019	14
+Media and Communication Equipment Workers, All Other	2010	3
+Media and Communication Equipment Workers, All Other	2018	29
+Entertainment Attendants and Related Workers, All Other	2019	3
+Entertainment Attendants and Related Workers, All Other	2018	3
+Pile-Driver Operators	2019	6
+Pile-Driver Operators	2018	23
+First-Line Supervisors of All Other Tactical Operations Specialists	2019	5
+First-Line Supervisors of All Other Tactical Operations Specialists	2010	2
+First-Line Supervisors of All Other Tactical Operations Specialists	2018	1
+Tapers	2019	9
+Tapers	2010	1
+Tapers	2018	9
+Roof Bolters, Mining	2019	1
+Roof Bolters, Mining	2010	2
+Roof Bolters, Mining	2018	20
+Helpers--Roofers	2018	2
+Food Processing Workers, All Other	2018	1

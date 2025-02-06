@@ -1,0 +1,1056 @@
+First-Line Supervisors of Retail Sales Workers	0.6881536061969907
+Registered Nurses	0.6578012868213963
+Stock Clerks- Stockroom, Warehouse, or Storage Yard	0.6081192908091549
+Human Resources Specialists	0.6404436338347375
+Insurance Sales Agents	0.6558539108535537
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	0.6895786665079486
+Customer Service Representatives	0.6788543839951011
+Financial Examiners	0.6077509997719568
+Nursing Assistants	0.6636678861479088
+Managers, All Other	0.6329221618176375
+Medical and Health Services Managers	0.603326706621077
+Mechanical Engineers	0.6973345355279507
+Patient Representatives	0.7043412516478885
+Marketing Managers	0.6728440705616014
+Health Educators	0.6357565105729933
+Industrial Machinery Mechanics	0.7442973063762327
+Human Resources Managers	0.6945605945544504
+Computer-Controlled Machine Tool Operators, Metal and Plastic	0.8314990059774098
+Light Truck or Delivery Services Drivers	0.4720329215862341
+Bus and Truck Mechanics and Diesel Engine Specialists	0.7193189309391717
+Heavy and Tractor-Trailer Truck Drivers	0.47839834354260236
+Software Developers, Applications	0.6981405446200474
+Information Security Analysts	0.6805384601000609
+Medical Assistants	0.747704244533621
+Claims Examiners, Property and Casualty Insurance	0.7485225690994053
+Network and Computer Systems Administrators	0.7034883571060484
+Computer Network Architects	0.6663825137859269
+First-Line Supervisors of Mechanics, Installers, and Repairers	0.655040821222756
+Computer Systems Engineers/Architects	0.6583034139625268
+Operations Research Analysts	0.5895725118207756
+Database Administrators	0.681976898447632
+Financial Analysts	0.7482966778448386
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	0.7236813889760209
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	0.5595657759012397
+Geospatial Information Scientists and Technologists	0.6062125929217786
+Retail Salespersons	0.6911191636138444
+Quality Control Systems Managers	0.6848993875715044
+Physicians and Surgeons, All Other	0.6414946537249334
+Supply Chain Managers	0.7969880880339555
+Medical Secretaries	0.6952655266081594
+Maintenance and Repair Workers, General	0.6745903404645548
+Licensed Practical and Licensed Vocational Nurses	0.6758803545803805
+Semiconductor Processors	0.6118515385256438
+Lawyers	0.587028395240503
+Physician Assistants	0.658994583564538
+Fire-Prevention and Protection Engineers	0.758333421766753
+Business Continuity Planners	0.6781313388398588
+Food Service Managers	0.6414218995595953
+Cost Estimators	0.6860330683762643
+Sales Managers	0.709045842703004
+Accountants	0.800728731732318
+Management Analysts	0.6449844996489782
+Quality Control Analysts	0.6439283716062998
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	0.6456258749541713
+Data Warehousing Specialists	0.6378790925261579
+Laborers and Freight, Stock, and Material Movers, Hand	0.566908279451544
+Public Relations and Fundraising Managers	0.6897445791109639
+Interior Designers	0.6797705227205834
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	0.6449194052223355
+Engineering Technicians, Except Drafters, All Other	0.5674955279800982
+Computer Systems Analysts	0.6301548591951045
+Stock Clerks, Sales Floor	0.6333594972701823
+Social Scientists and Related Workers, All Other	0.7114767143957264
+Chemical Engineers	0.7442839018327032
+Administrative Services Managers	0.6474278721492899
+Telecommunications Engineering Specialists	0.6636979625982091
+Billing, Cost, and Rate Clerks	0.7792900240069182
+Intelligence Analysts	0.594493401472511
+Chief Executives	0.6086257106632958
+Computer User Support Specialists	0.6696667806919248
+First-Line Supervisors of Office and Administrative Support Workers	0.6362127943410916
+Merchandise Displayers and Window Trimmers	0.7047830628265142
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	0.7334366710624632
+Market Research Analysts and Marketing Specialists	0.7116372550900536
+Computer Programmers	0.5610157237515965
+Mechanical Engineering Technologists	0.6252005536967515
+Hotel, Motel, and Resort Desk Clerks	0.655341611222531
+Cashiers	0.6104629863097882
+Production Workers, All Other	0.5694314559594467
+Web Developers	0.7350736280586333
+Parking Lot Attendants	0.5682195726985717
+Automotive Specialty Technicians	0.6250460367495906
+Food Servers, Nonrestaurant	0.5425462459186817
+Tellers	0.713789239493771
+Dietitians and Nutritionists	0.6349494260949149
+Installation, Maintenance, and Repair Workers, All Other	0.6378149207982372
+Sales Agents, Financial Services	0.7097286943062885
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	0.6232489142578695
+Electro-Mechanical Technicians	0.6679351591330274
+Music Directors	0.6785280444604668
+Education Administrators, Postsecondary	0.6350261766730373
+Postsecondary Teachers, All Other	0.5786174967185486
+Health Specialties Teachers, Postsecondary	0.6168850504884279
+Office Clerks, General	0.6873331891548539
+Heating and Air Conditioning Mechanics and Installers	0.7521164674661686
+Health Diagnosing and Treating Practitioners, All Other	0.6591870884353862
+Private Detectives and Investigators	0.6164590161829512
+Graphic Designers	0.792126253868272
+Coaches and Scouts	0.5392629385408617
+Rough Carpenters	0.7764016357209319
+Architectural and Engineering Managers	0.6160192611252919
+Construction Managers	0.7158189771033189
+Mechatronics Engineers	0.7728489778751647
+Occupational Therapists	0.8133362244015688
+Radiologic Technologists	0.7859255391850366
+Credit Authorizers	0.6824335774628525
+Library Technicians	0.6181004094307072
+Bartenders	0.7213643140254868
+Security and Fire Alarm Systems Installers	0.6362511716702176
+Sales Representatives, Services, All Other	0.6446446015829906
+Industrial Engineering Technicians	0.6746161507792147
+Driver/Sales Workers	0.48199869883105295
+Validation Engineers	0.6245076021684288
+Editors	0.7440724982784818
+Photographers	0.7178597013417968
+Bookkeeping, Accounting, and Auditing Clerks	0.7688057788691119
+Educational, Guidance, School, and Vocational Counselors	0.5826344668435709
+Computer Occupations, All Other	0.6504077012902415
+Meeting, Convention, and Event Planners	0.6548053151329649
+Treasurers and Controllers	0.7575780577755706
+Health Technologists and Technicians, All Other	0.5504675601856731
+Electrical Engineers	0.688308937813116
+Combined Food Preparation and Serving Workers, Including Fast Food	0.5702962284339796
+Sales and Related Workers, All Other	0.6332419213949516
+Industrial Truck and Tractor Operators	0.7336327039751699
+Pharmacy Technicians	0.6418844127550276
+Data Entry Keyers	0.7235766382091525
+Maids and Housekeeping Cleaners	0.7467166566428454
+Human Resources Assistants, Except Payroll and Timekeeping	0.6952123573131044
+Regulatory Affairs Specialists	0.6449465496509665
+Packers and Packagers, Hand	0.5339653494533227
+General and Operations Managers	0.6359940198970412
+Shipping, Receiving, and Traffic Clerks	0.6891355891146214
+Child, Family, and School Social Workers	0.6623707768237536
+Motor Vehicle Operators, All Other	0.5815343009983979
+Personal Financial Advisors	0.6393473342793067
+Medical Records and Health Information Technicians	0.6362703586975771
+Architects, Except Landscape and Naval	0.5644514453148737
+Special Education Teachers, Middle School	0.7134667785014847
+Demonstrators and Product Promoters	0.701469347833878
+Civil Drafters	0.755602302274757
+Property, Real Estate, and Community Association Managers	0.697353534604284
+Security Guards	0.6106928406567762
+Emergency Medical Technicians and Paramedics	0.6860538894472556
+Aerospace Engineers	0.605287000916823
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	0.6681443819623565
+Social Science Research Assistants	0.7493298761178054
+Teacher Assistants	0.6484355713701256
+Middle School Teachers, Except Special and Career/Technical Education	0.7244021719203276
+Occupational Therapy Assistants	0.7250281493529028
+Teachers and Instructors, All Other	0.6416012751496013
+Career/Technical Education Teachers, Secondary School	0.6106196073978096
+Secondary School Teachers, Except Special and Career/Technical Education	0.6980775757200857
+Library Assistants, Clerical	0.6309691834871592
+Preschool Teachers, Except Special Education	0.7647352909969567
+Special Education Teachers, All Other	0.8202851852560952
+Landscaping and Groundskeeping Workers	0.5804461581241969
+Childcare Workers	0.6990179945617796
+Bus Drivers, Transit and Intercity	0.6783916893735078
+Art, Drama, and Music Teachers, Postsecondary	0.609914959626365
+Elementary School Teachers, Except Special Education	0.7018841212106661
+Nannies	0.7788571455495908
+Education Administrators, Elementary and Secondary School	0.5921161293824004
+Speech-Language Pathologists	0.8176934563535833
+Transportation Managers	0.609701799880031
+Computer and Information Systems Managers	0.6572158010077797
+Home Health Aides	0.6539624507211786
+Substance Abuse and Behavioral Disorder Counselors	0.7006305766438347
+Social and Human Service Assistants	0.6524924343418526
+Adult Basic and Secondary Education and Literacy Teachers and Instructors	0.6649547306958155
+Office and Administrative Support Workers, All Other	0.5860149355496657
+Chemists	0.755137810641718
+Financial Managers, Branch or Department	0.6722758022024811
+Locker Room, Coatroom, and Dressing Room Attendants	0.668988010994953
+School Psychologists	0.8334897999883158
+Dietetic Technicians	0.5916118438833229
+Special Education Teachers, Preschool	0.640855906900479
+Dining Room and Cafeteria Attendants and Bartender Helpers	0.5764403018260508
+Engineering Teachers, Postsecondary	0.5759005869321917
+First-Line Supervisors of Food Preparation and Serving Workers	0.5655405526133042
+Transportation Planners	0.5704458916635231
+Nursing Instructors and Teachers, Postsecondary	0.6736118815083665
+Non-Destructive Testing Specialists	0.688006461356559
+Bus Drivers, School or Special Client	0.6882523264378522
+Transportation Attendants, Except Flight Attendants	0.5777483605778262
+Soil and Water Conservationists	0.5599816811217864
+Software Developers, Systems Software	0.7070523042628803
+Speech-Language Pathology Assistants	0.7367899385980378
+Interpreters and Translators	0.5963281148243711
+Cooks, Restaurant	0.6645956102134785
+Instructional Coordinators	0.6615185493828943
+Compensation, Benefits, and Job Analysis Specialists	0.6083327603127211
+Computer Network Support Specialists	0.6519297080177597
+Mental Health Counselors	0.7041431687839654
+Kindergarten Teachers, Except Special Education	0.7597060380487404
+Foreign Language and Literature Teachers, Postsecondary	0.734096903258515
+Vocational Education Teachers, Postsecondary	0.5416050454122099
+Database Architects	0.7059263915295896
+Librarians	0.6269307878568361
+Microbiologists	0.7736759410488637
+Education Administrators, Preschool and Childcare Center/Program	0.6810592451508156
+Software Quality Assurance Engineers and Testers	0.6802010964370584
+Compliance Managers	0.6454944938337602
+Hairdressers, Hairstylists, and Cosmetologists	0.6679807673760171
+Auditors	0.6810600769539168
+Recreation Workers	0.5743530967158984
+Ophthalmic Laboratory Technicians	0.4963834541469801
+First-Line Supervisors of Production and Operating Workers	0.6482317004247163
+Sewing Machine Operators	0.6619356515668815
+Counter and Rental Clerks	0.7543456188426096
+Critical Care Nurses	0.7376588916341826
+Engineers, All Other	0.523080314361541
+Baristas	0.6524885142723651
+Waiters and Waitresses	0.5375507085304435
+Biological Technicians	0.7069630040450889
+Production, Planning, and Expediting Clerks	0.6273711994481709
+Business Intelligence Analysts	0.668368549793372
+Urologists	0.785242073761398
+Electronics Engineering Technicians	0.6980583052734044
+Physicists	0.6095308663707422
+Couriers and Messengers	0.5608537528821437
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	0.6531719126773075
+Physical Therapists	0.7854607785389017
+Obstetricians and Gynecologists	0.8411368699352804
+Bakers	0.6202526332734111
+Hearing Aid Specialists	0.6567960103454618
+Helpers--Production Workers	0.5671959337735231
+Real Estate Sales Agents	0.6367606390446643
+Family and General Practitioners	0.731634630588883
+Drafters, All Other	0.650601665073139
+Tutors	0.6150956975608015
+Inspectors, Testers, Sorters, Samplers, and Weighers	0.5675873029052688
+Occupational Health and Safety Specialists	0.6470703888750527
+Security Management Specialists	0.5502349502925087
+Dishwashers	0.6009727420478285
+Materials Engineers	0.7111727781757962
+Electrical Drafters	0.6988562492322393
+Receptionists and Information Clerks	0.7637869481123518
+Electricians	0.7787231662348179
+Civil Engineers	0.688376421915678
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	0.6461628772993904
+Team Assemblers	0.5789311241293137
+Insurance Claims Clerks	0.7361788500127866
+Environmental Science and Protection Technicians, Including Health	0.5674687582374454
+Environmental Compliance Inspectors	0.6120697855708662
+Chefs and Head Cooks	0.7204480991672693
+Pest Control Workers	0.6288936045662351
+Dental Assistants	0.7180810511384775
+Automotive Body and Related Repairers	0.6286795828315322
+Environmental Engineers	0.6807481442077615
+Industrial Safety and Health Engineers	0.6428380601104631
+Compensation and Benefits Managers	0.6669059475917026
+Manufacturing Engineers	0.7970854165497632
+Electronics Engineers, Except Computer	0.6416821486656978
+Manufacturing Production Technicians	0.6095193658986792
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.69810121518986
+Procurement Clerks	0.733810122029792
+Commercial Divers	0.7255863537721186
+Welders, Cutters, and Welder Fitters	0.7930285409734132
+Clinical Psychologists	0.7682131185644151
+Dispatchers, Except Police, Fire, and Ambulance	0.6607888811437898
+Medical and Clinical Laboratory Technicians	0.5800618523977215
+Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation	0.5742601461589305
+Labor Relations Specialists	0.4979454387475891
+Hydrologists	0.7380094193530077
+Training and Development Specialists	0.6059765640901875
+Cardiovascular Technologists and Technicians	0.6495613692168162
+Nurse Practitioners	0.6627739531875546
+Biochemists and Biophysicists	0.7102109894783232
+Business Teachers, Postsecondary	0.6149230240390402
+Machinists	0.855092313362062
+Loan Officers	0.7205546627870337
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	0.5814452662047183
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	0.5550946717584935
+Nonfarm Animal Caretakers	0.47715833301849875
+Insurance Appraisers, Auto Damage	0.6623487317876808
+Wind Turbine Service Technicians	0.6780407718446101
+Industrial Engineers	0.6625180904761753
+Mixing and Blending Machine Setters, Operators, and Tenders	0.6101163523441598
+Cleaners of Vehicles and Equipment	0.5703429957050244
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	0.6477740444365097
+Computer Hardware Engineers	0.6797142712397184
+Diagnostic Medical Sonographers	0.772320325408597
+Anesthesiologist Assistants	0.7840882811876554
+Helpers--Installation, Maintenance, and Repair Workers	0.6462026383857011
+Operating Engineers and Other Construction Equipment Operators	0.7423719479925012
+Eligibility Interviewers, Government Programs	0.6401193571781691
+Instructional Designers and Technologists	0.7584225982133219
+Mechanical Drafters	0.7209318133326461
+Social and Community Service Managers	0.6325694645986464
+Tax Preparers	0.8630611906251476
+Cargo and Freight Agents	0.6228277545400385
+Food Preparation Workers	0.5834186248993642
+Self-Enrichment Education Teachers	0.6656256687502033
+Paralegals and Legal Assistants	0.6973214152077355
+Farmworkers, Farm, Ranch, and Aquacultural Animals	0.5298504685894754
+Painters, Construction and Maintenance	0.7700935702522144
+Aircraft Mechanics and Service Technicians	0.7027954123893931
+Respiratory Therapists	0.8023520666616862
+Construction Laborers	0.5845419956232835
+Phlebotomists	0.7973682997870085
+Civil Engineering Technicians	0.6740895273367801
+Fine Artists, Including Painters, Sculptors, and Illustrators	0.5326937224660881
+Personal Care Aides	0.7187952798956132
+Soil and Plant Scientists	0.5901616082630525
+Mechanical Engineering Technicians	0.6252199587396421
+Nurse Anesthetists	0.7716640311051253
+Social Workers, All Other	0.8080675905054727
+Material Moving Workers, All Other	0.5422794274426327
+Payroll and Timekeeping Clerks	0.7892727045342366
+Manufactured Building and Mobile Home Installers	0.4692504929043058
+Information Technology Project Managers	0.6717784228054167
+Telecommunications Line Installers and Repairers	0.5787075183006536
+Lodging Managers	0.6764901693329054
+Healthcare Social Workers	0.7174943846653684
+Extraction Workers, All Other	0.5515494693728106
+Community and Social Service Specialists, All Other	0.6049375611652459
+Painting, Coating, and Decorating Workers	0.4884159836622051
+Wholesale and Retail Buyers, Except Farm Products	0.6963705213358838
+Glaziers	0.47811033317246693
+Water/Wastewater Engineers	0.7450832381907898
+Medical Equipment Preparers	0.6789618393774056
+Funeral Attendants	0.6108156442988202
+Umpires, Referees, and Other Sports Officials	0.48176332334349864
+Neurologists	0.8120045128078691
+Veterinarians	0.5745934335913442
+Computer and Information Research Scientists	0.7681420926844174
+Solderers and Brazers	0.6896025305347563
+Butchers and Meat Cutters	0.6938763152207629
+Physical Therapist Assistants	0.7449411170587126
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	0.6568497985851636
+Control and Valve Installers and Repairers, Except Mechanical Door	0.7059983581731413
+Computer Science Teachers, Postsecondary	0.6011310081785971
+Executive Secretaries and Executive Administrative Assistants	0.795354252415726
+Counselors, All Other	0.6870338317998603
+Community Health Workers	0.6275401807694593
+Insurance Adjusters, Examiners, and Investigators	0.6491798245067413
+Medical Scientists, Except Epidemiologists	0.6085574594841667
+Mathematical Science Teachers, Postsecondary	0.6457115963465708
+Camera Operators, Television, Video, and Motion Picture	0.7159140780803723
+Producers	0.7381290302071337
+Surveying Technicians	0.5832859437439504
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	0.6566044312931512
+Painters, Transportation Equipment	0.6099824919482643
+Recreational Vehicle Service Technicians	0.6742721854645788
+Telecommunications Equipment Installers and Repairers, Except Line Installers	0.5948245235471706
+Biostatisticians	0.7674538663553869
+Police Patrol Officers	0.5767844080458036
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	0.6388204873424661
+Training and Development Managers	0.6413884180882152
+Photographic Process Workers and Processing Machine Operators	0.4850676417811645
+Desktop Publishers	0.7722396590862283
+Office Machine Operators, Except Computer	0.6568887656010907
+Emergency Management Directors	0.551028777400599
+Logisticians	0.7242467641783287
+Switchboard Operators, Including Answering Service	0.6148414851026109
+Environmental Science Teachers, Postsecondary	0.7637240250282902
+Nuclear Medicine Technologists	0.8183832444911702
+Proofreaders and Copy Markers	0.7279517350070849
+Document Management Specialists	0.6194954122836599
+Industrial Production Managers	0.6552129298998651
+Surgical Technologists	0.7509308837360966
+Correspondence Clerks	0.6416692875577081
+Reporters and Correspondents	0.7322840967157553
+Chemical Equipment Operators and Tenders	0.6083423450050118
+Chemistry Teachers, Postsecondary	0.7760355156458294
+Travel Agents	0.647688919896114
+Orderlies	0.6925450954997308
+Marriage and Family Therapists	0.734637942447421
+Electronic Home Entertainment Equipment Installers and Repairers	0.5678674637350921
+Risk Management Specialists	0.6915618417192468
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	0.7913160197626531
+Solar Energy Installation Managers	0.6196300177401638
+Metal Workers and Plastic Workers, All Other	0.5603931010424084
+Packaging and Filling Machine Operators and Tenders	0.6517875278222302
+Statisticians	0.6630866098780525
+Clinical Data Managers	0.6073198634840506
+First-Line Supervisors of Housekeeping and Janitorial Workers	0.7198952087739631
+Stationary Engineers and Boiler Operators	0.7418949703238219
+Chief Sustainability Officers	0.6859652311896867
+Dermatologists	0.7867636468856496
+Electrical Power-Line Installers and Repairers	0.6421114393212435
+Search Marketing Strategists	0.6567482100832314
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	0.5489167226951754
+Construction and Building Inspectors	0.6107132284618526
+File Clerks	0.65055595924908
+Purchasing Managers	0.7543869574179795
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	0.5991036747959787
+Massage Therapists	0.8413654438249193
+First-Line Supervisors of Construction Trades and Extraction Workers	0.6467853388741159
+Assessors	0.5878253822280868
+Insurance Underwriters	0.7034762859395305
+Education Teachers, Postsecondary	0.6371532548469777
+Special Education Teachers, Kindergarten and Elementary School	0.7135206411308138
+Fitness Trainers and Aerobics Instructors	0.6293054569562654
+Agricultural Technicians	0.4763123931357189
+Pharmacists	0.5875258391308223
+Municipal Fire Fighting and Prevention Supervisors	0.5505908958823721
+Locomotive Engineers	0.6148251196900327
+Tree Trimmers and Pruners	0.6857458111484174
+Cooks, Short Order	0.6842121161359626
+Printing Press Operators	0.53135792908632
+Crane and Tower Operators	0.5920334809685002
+Designers, All Other	0.6017629482091579
+Reservation and Transportation Ticket Agents and Travel Clerks	0.6360306387868732
+Mining and Geological Engineers, Including Mining Safety Engineers	0.5777561841249741
+Advertising Sales Agents	0.7513974455936594
+Veterinary Technologists and Technicians	0.6629346228293523
+Logistics Analysts	0.7102272319545394
+Farm Equipment Mechanics and Service Technicians	0.7254799237455296
+Forest Fire Fighting and Prevention Supervisors	0.5643416319560097
+Military Officer Special and Tactical Operations Leaders, All Other	0.49572619410488256
+Online Merchants	0.6748073752173811
+Cutting and Slicing Machine Setters, Operators, and Tenders	0.5857019530920167
+Concierges	0.63590263433847
+Logistics Managers	0.7332424390637857
+Gaming Service Workers, All Other	0.5991692987700025
+Molding and Casting Workers	0.6121341457089761
+Occupational Health and Safety Technicians	0.6748748412885741
+Sociology Teachers, Postsecondary	0.8522639451925467
+Taxi Drivers and Chauffeurs	0.5117535564851997
+Art Directors	0.7893023079919351
+Refrigeration Mechanics and Installers	0.7453282345367972
+Surveyors	0.6092080897496294
+Amusement and Recreation Attendants	0.5577897903548927
+Legal Secretaries	0.8118811802223973
+Avionics Technicians	0.6842051072804716
+Graduate Teaching Assistants	0.5894720196041299
+Airline Pilots, Copilots, and Flight Engineers	0.7387086146647163
+English Language and Literature Teachers, Postsecondary	0.6877957668359524
+Agricultural Inspectors	0.6299980148995366
+Maintenance Workers, Machinery	0.6363135399210815
+Oral and Maxillofacial Surgeons	0.7743541079919153
+Film and Video Editors	0.859114680094993
+Insulation Workers, Floor, Ceiling, and Wall	0.8354637732761582
+Museum Technicians and Conservators	0.5783511670032156
+Athletic Trainers	0.7094338152124081
+Endoscopy Technicians	0.7428920587955061
+Biological Science Teachers, Postsecondary	0.7246770141065255
+Sales Engineers	0.7369370129231838
+Geological Sample Test Technicians	0.57274061706303
+Budget Analysts	0.7872682629302021
+Political Science Teachers, Postsecondary	0.6643621569991917
+Surgeons	0.7496777929704118
+Textile, Apparel, and Furnishings Workers, All Other	0.49237345437273994
+Credit Analysts	0.7185107434285773
+Audiologists	0.7459332342122913
+Commercial and Industrial Designers	0.6405429937492688
+Electrical Engineering Technicians	0.7137248976018076
+Internists, General	0.7076216322926546
+Residential Advisors	0.5851840105680631
+Medical Equipment Repairers	0.663440561293817
+Energy Auditors	0.6835683522218963
+Interviewers, Except Eligibility and Loan	0.6124772257542852
+Meat, Poultry, and Fish Cutters and Trimmers	0.5400850057693312
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	0.5295018933762967
+First-Line Supervisors of Non-Retail Sales Workers	0.6630889948737885
+Earth Drillers, Except Oil and Gas	0.5688393336025078
+Tailors, Dressmakers, and Custom Sewers	0.6668563620624623
+Informatics Nurse Specialists	0.6380573588058374
+Epidemiologists	0.7275676556853343
+Tax Examiners and Collectors, and Revenue Agents	0.7077848654802014
+Ushers, Lobby Attendants, and Ticket Takers	0.691373721254001
+Audio and Video Equipment Technicians	0.6388540221456517
+Actuaries	0.6240611065595745
+Technical Writers	0.7020584194004916
+Video Game Designers	0.5111850532405215
+Assemblers and Fabricators, All Other	0.5599884615827734
+Commercial Pilots	0.4926144925248467
+Pourers and Casters, Metal	0.5683580580152838
+Retail Loss Prevention Specialists	0.6837374014962483
+Healthcare Support Workers, All Other	0.5515322303423599
+Legal Support Workers, All Other	0.6962991880276833
+Construction Carpenters	0.5666178111455089
+Copy Writers	0.7125854613779002
+Insurance Policy Processing Clerks	0.680586915353663
+Fundraisers	0.7431398401149986
+Loss Prevention Managers	0.7317119713060478
+Municipal Firefighters	0.5835340383145009
+Roustabouts, Oil and Gas	0.611335104382025
+Storage and Distribution Managers	0.6823524684195935
+Loan Interviewers and Clerks	0.7130374531694539
+Dental Hygienists	0.816281451253614
+Public Relations Specialists	0.6881052935945081
+First-Line Supervisors of Police and Detectives	0.6523619168720534
+Pump Operators, Except Wellhead Pumpers	0.5979351902586831
+Petroleum Engineers	0.5552606882411387
+Judicial Law Clerks	0.5636447147228832
+Biomedical Engineers	0.6782161079163862
+Tire Repairers and Changers	0.6167662790991325
+Floor Layers, Except Carpet, Wood, and Hard Tiles	0.4889331752077509
+Multimedia Artists and Animators	0.7226129039221547
+Dentists, General	0.7704163847787442
+Plumbers	0.8012038548032858
+Correctional Officers and Jailers	0.5447739826827184
+Loan Counselors	0.6520102835952953
+Psychiatric Technicians	0.7577520172773908
+Precision Instrument and Equipment Repairers, All Other	0.5612459089191771
+Broadcast Technicians	0.5942891699055125
+Police, Fire, and Ambulance Dispatchers	0.6475556699893893
+Power Plant Operators	0.6675887882636241
+Mobile Heavy Equipment Mechanics, Except Engines	0.7570644825754062
+Farm and Home Management Advisors	0.5684000411662992
+Mental Health and Substance Abuse Social Workers	0.772279883080877
+Prepress Technicians and Workers	0.5166842103584045
+Crossing Guards	0.47100386090035246
+Textile Cutting Machine Setters, Operators, and Tenders	0.6558928885135793
+Human Factors Engineers and Ergonomists	0.6362353153814624
+Sheriffs and Deputy Sheriffs	0.5834534637266167
+Textile Bleaching and Dyeing Machine Operators and Tenders	0.6065727597478897
+Home Appliance Repairers	0.6948690493445916
+Tile and Marble Setters	0.5485514032170185
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	0.5995027644512547
+Veterinary Assistants and Laboratory Animal Caretakers	0.6057083855849623
+Telemarketers	0.7039856676545881
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	0.6467721272663541
+Orthodontists	0.8665129931232491
+Psychiatrists	0.8494659019488771
+Laundry and Dry-Cleaning Workers	0.7595175310909589
+Word Processors and Typists	0.6809448245286891
+Power Distributors and Dispatchers	0.6271110242702373
+Electrical and Electronic Equipment Assemblers	0.6980060995149451
+Water and Wastewater Treatment Plant and System Operators	0.6670419670828787
+Rehabilitation Counselors	0.6520715038679402
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	0.5677841318152833
+Helpers, Construction Trades, All Other	0.6920846238101593
+Biologists	0.7215145686024561
+Web Administrators	0.6468687700876903
+Skincare Specialists	0.5880233790691409
+Food Science Technicians	0.5551882191638442
+Radio Mechanics	0.7223055507390025
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	0.6320675322398333
+Order Fillers, Wholesale and Retail Sales	0.5836419480455775
+Molecular and Cellular Biologists	0.6449663766023332
+Parts Salespersons	0.650705808227115
+Shoe Machine Operators and Tenders	0.4766256941334266
+Automotive and Watercraft Service Attendants	0.5508771064612397
+Clinical Research Coordinators	0.6762171396154478
+Regulatory Affairs Managers	0.6986150112529781
+Materials Scientists	0.6452570433746875
+Cement Masons and Concrete Finishers	0.7339870637482473
+Real Estate Brokers	0.6216697480406053
+Political Scientists	0.6731882373993066
+Communications Teachers, Postsecondary	0.6371328784147787
+Mail Clerks and Mail Machine Operators, Except Postal Service	0.6889852576756406
+Investment Underwriters	0.6565316412430184
+Probation Officers and Correctional Treatment Specialists	0.6801321387208721
+Ophthalmic Medical Technicians	0.7210994365550588
+Bill and Account Collectors	0.6361335769398457
+Geographic Information Systems Technicians	0.6314529589968007
+Environmental Scientists and Specialists, Including Health	0.7165207237147247
+Stonemasons	0.6172811772602372
+Security Managers	0.617239812775886
+Criminal Justice and Law Enforcement Teachers, Postsecondary	0.7645296829754684
+Spa Managers	0.6706032907670624
+Computer Operators	0.6031022641048615
+Models	0.4140801575114278
+Sheet Metal Workers	0.655500341362143
+License Clerks	0.6594074578155269
+Counseling Psychologists	0.732500355077788
+Investment Fund Managers	0.7844847923728527
+Geoscientists, Except Hydrologists and Geographers	0.7145034168882064
+Helpers--Electricians	0.7390051301796573
+Court Clerks	0.677620145479366
+Food Scientists and Technologists	0.7183357404172453
+Telephone Operators	0.600954198724803
+Computer, Automated Teller, and Office Machine Repairers	0.6096710506705286
+Title Examiners, Abstractors, and Searchers	0.6567311797811963
+Fallers	0.6193626259808774
+Chemical Technicians	0.6570273387908907
+Roofers	0.7026011701644139
+Automotive Master Mechanics	0.5268012530220092
+Special Education Teachers, Secondary School	0.5811606362087719
+Economists	0.6886233695181259
+Radiologists	0.7914828866238494
+Advertising and Promotions Managers	0.6865049435843011
+Fashion Designers	0.609672532421083
+Meter Readers, Utilities	0.5865511938834381
+Elevator Installers and Repairers	0.6068651072669107
+Clergy	0.5275386865682009
+Aquacultural Managers	0.5752934862545864
+Paperhangers	0.44084384752516187
+Millwrights	0.7642252705265099
+Survey Researchers	0.6646240844206652
+Buyers and Purchasing Agents, Farm Products	0.4903456876251539
+Drywall and Ceiling Tile Installers	0.7392688468841665
+Loading Machine Operators, Underground Mining	0.6453439966824774
+Atmospheric and Space Scientists	0.5946402277634466
+History Teachers, Postsecondary	0.6010039779733942
+Solar Sales Representatives and Assessors	0.7473864721078375
+Carpet Installers	0.4975234943486765
+Pediatricians, General	0.792439061812449
+Anthropologists	0.584141597410877
+Forest and Conservation Workers	0.4596881530333541
+Armored Assault Vehicle Crew Members	0.6426557178177458
+Credit Counselors	0.6101244834852511
+Natural Sciences Managers	0.6721727455582335
+Art Therapists	0.6163708368190082
+Judges, Magistrate Judges, and Magistrates	0.491924044642002
+Sales Agents, Securities and Commodities	0.6461364893107595
+Recreational Therapists	0.656520415765265
+Floral Designers	0.6338602534954323
+Mechanical Door Repairers	0.5888955027453028
+Gaming Dealers	0.5201586554938327
+Railroad Conductors and Yardmasters	0.4725457048411015
+Food Batchmakers	0.5730332607923248
+Airfield Operations Specialists	0.5674358501475607
+Radio and Television Announcers	0.5232959321146614
+Slaughterers and Meat Packers	0.5404516140693811
+Hospitalists	0.6187705732666482
+Radiation Therapists	0.7839177438909977
+Medical Appliance Technicians	0.5696545066531113
+Green Marketers	0.7434221229694153
+Equal Opportunity Representatives and Officers	0.5103924939509615
+Fraud Examiners, Investigators and Analysts	0.6827814837309925
+Sports Medicine Physicians	0.747796632081887
+Print Binding and Finishing Workers	0.5348506775158396
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	0.5747808056674161
+Pipe Fitters and Steamfitters	0.7428336339779332
+Furniture Finishers	0.6355885177048118
+Radio Frequency Identification Device Specialists	0.7056672973521128
+Flight Attendants	0.6723616793417575
+Highway Maintenance Workers	0.5968256949922056
+Medical and Clinical Laboratory Technologists	0.6874311538706273
+Farmworkers and Laborers, Crop	0.4826879735032067
+Cooks, Institution and Cafeteria	0.7000540836478668
+Histotechnologists and Histologic Technicians	0.783232086390907
+Exercise Physiologists	0.7589773834293551
+Arbitrators, Mediators, and Conciliators	0.5480709425805507
+Paper Goods Machine Setters, Operators, and Tenders	0.45478022937337836
+Tour Guides and Escorts	0.5513203263965206
+Layout Workers, Metal and Plastic	0.7149418912966524
+Robotics Engineers	0.682789074743403
+Urban and Regional Planners	0.6256649815527472
+Neuropsychologists and Clinical Neuropsychologists	0.6934577148002871
+Robotics Technicians	0.7598982705857725
+Financial Quantitative Analysts	0.7414638019116279
+Program Directors	0.642887299689548
+Order Clerks	0.6430981175520364
+Manicurists and Pedicurists	0.5303290633409212
+Tool and Die Makers	0.742855801493045
+Costume Attendants	0.591271159725482
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	0.6048178055819888
+Animal Trainers	0.5518429258093209
+Business Operations Specialists, All Other	0.6381010387459267
+Air Traffic Controllers	0.5250593619845528
+Actors	0.44863469345903206
+Entertainers and Performers, Sports and Related Workers, All Other	0.6071599382550757
+Boilermakers	0.7545187735620468
+Musical Instrument Repairers and Tuners	0.49378307976289776
+Machine Feeders and Offbearers	0.48017256600166036
+Water Resource Specialists	0.5300389888993846
+Optometrists	0.7518909307140264
+Slot Supervisors	0.621671464610453
+Chiropractors	0.5200486312766861
+Directors- Stage, Motion Pictures, Television, and Radio	0.5055075770480502
+Septic Tank Servicers and Sewer Pipe Cleaners	0.5901210704347597
+Nursery and Greenhouse Managers	0.5693730424639788
+Immigration and Customs Inspectors	0.609195401076821
+First-Line Supervisors of Aquacultural Workers	0.6780301904970409
+Magnetic Resonance Imaging Technologists	0.7761104270138945
+Musicians, Instrumental	0.7330064423682778
+Jewelers	0.6280342183875358
+Radar and Sonar Technicians	0.5366122420398353
+Animal Control Workers	0.5850214497172322
+Rotary Drill Operators, Oil and Gas	0.47711798431810254
+First-Line Supervisors of Correctional Officers	0.6082971144666423
+Postal Service Clerks	0.8020673222334121
+Infantry	0.510624605222503
+Transportation Engineers	0.7744004387402685
+Pressers, Textile, Garment, and Related Materials	0.5308448164089153
+Fire Inspectors	0.6600496247136829
+Photonics Engineers	0.7080019973969617
+Energy Engineers	0.7165550574056871
+Psychiatric Aides	0.7501688901804296
+Radiologic Technicians	0.6220629775124292
+Mathematicians	0.5104564553377398
+Archivists	0.6208226379564782
+Economics Teachers, Postsecondary	0.7188217772353853
+Plant and System Operators, All Other	0.6798591719003743
+Landscape Architects	0.7130106433969888
+Life Scientists, All Other	0.6353902466346067
+Radio, Cellular, and Tower Equipment Installers and Repairers	0.8040897611279207
+Excavating and Loading Machine and Dragline Operators	0.5452050732802682
+Surgical Assistants	0.6777274276488973
+Door-To-Door Sales Workers, News and Street Vendors, and Related Workers	0.5507929334785093
+Industrial-Organizational Psychologists	0.6896743130759281
+Motorboat Mechanics and Service Technicians	0.7051399900178303
+Baggage Porters and Bellhops	0.6159096397294904
+Hazardous Materials Removal Workers	0.5414574480400377
+Traffic Technicians	0.5399764439364846
+Psychology Teachers, Postsecondary	0.7416383582393096
+Fishers and Related Fishing Workers	0.4846007890062372
+Advanced Practice Psychiatric Nurses	0.6400727902827844
+Transportation Security Screeners	0.650720519969493
+Anesthesiologists	0.8056085523689275
+Helpers--Carpenters	0.8543418161403521
+Air Crew Members	0.6603417333292809
+Life, Physical, and Social Science Technicians, All Other	0.47993874402864045
+Gas Plant Operators	0.5016781498114447
+Gaming Supervisors	0.6125251256230339
+Explosives Workers, Ordnance Handling Experts, and Blasters	0.43115591261728176
+Range Managers	0.6892085517539287
+Model Makers, Metal and Plastic	0.6447212977635345
+Radio Operators	0.5992832562512521
+Aviation Inspectors	0.6118882171024701
+Prosthodontists	0.7764011751272578
+Rail-Track Laying and Maintenance Equipment Operators	0.6022471718191016
+Pharmacy Aides	0.6273828303788389
+Forest and Conservation Technicians	0.7066525801660886
+Aircraft Cargo Handling Supervisors	0.4863871480215183
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	0.4909370629200406
+Rock Splitters, Quarry	0.5202832215205115
+Geophysical Data Technicians	0.5077912289148451
+Helpers--Extraction Workers	0.5114925679062715
+Occupational Therapy Aides	0.7816110878976529
+Astronomers	0.5722461525182678
+Automotive Glass Installers and Repairers	0.8009559278999027
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	0.6528008931467586
+Funeral Service Managers	0.7128227740837894
+Opticians, Dispensing	0.647964506839435
+Orthotists and Prosthetists	0.8214965572175312
+Cytogenetic Technologists	0.586392908461577
+Subway and Streetcar Operators	0.4435319225033517
+Nuclear Engineers	0.5434286417528753
+Zoologists and Wildlife Biologists	0.7420043394529574
+Social Work Teachers, Postsecondary	0.7138868789363312
+Electronic Drafters	0.650336798931364
+Sound Engineering Technicians	0.5380810280465632
+Agents and Business Managers of Artists, Performers, and Athletes	0.5559965890439236
+Securities and Commodities Traders	0.6676658939364395
+Microsystems Engineers	0.5688105563360298
+Fitness and Wellness Coordinators	0.6528364131912299
+Archeologists	0.809139271029354
+Neurodiagnostic Technologists	0.7185896339730637
+Recycling and Reclamation Workers	0.6378581944353688
+First-Line Supervisors of Protective Service Workers, All Other	0.7822989848758016
+Physical Therapist Aides	0.7739690244483887
+Directors, Religious Activities and Education	0.6251197452332745
+Environmental Restoration Planners	0.7832331495152534
+Graders and Sorters, Agricultural Products	0.6474716095900866
+Administrative Law Judges, Adjudicators, and Hearing Officers	0.5714823845917456
+Customs Brokers	0.7164503632110722
+Brokerage Clerks	0.6851535469355874
+Grinding and Polishing Workers, Hand	0.6307371056824962
+First-Line Supervisors of Personal Service Workers	0.6016312316514751
+Animal Scientists	0.4730502651694733
+Cytotechnologists	0.7399023011695272
+Police Detectives	0.6326899266898726
+Logging Workers, All Other	0.5246823422348766
+Solar Photovoltaic Installers	0.6838806858876995
+Forest Firefighters	0.607931225947775
+Criminal Investigators and Special Agents	0.5550545469026034
+Ophthalmologists	0.7419951649928104
+Construction and Related Workers, All Other	0.5761379239236444
+Forest Fire Inspectors and Prevention Specialists	0.46526655056900346
+Tank Car, Truck, and Ship Loaders	0.5433141830433088
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.567374052278484
+Education Administrators, All Other	0.6266643068859319
+Recycling Coordinators	0.5763911341720167
+Nurse Midwives	0.7685034748828274
+Park Naturalists	0.6280648830252884
+Remote Sensing Scientists and Technologists	0.4623969022226165
+Refuse and Recyclable Material Collectors	0.5896914797625039
+Methane/Landfill Gas Generation System Technicians	0.6627077305990471
+Coin, Vending, and Amusement Machine Servicers and Repairers	0.685829201347683
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.6071803839083739
+Geographers	0.6530164410940241
+Physics Teachers, Postsecondary	0.7184564544475293
+Physical Scientists, All Other	0.6154810083610494
+Forensic Science Technicians	0.5059415135116756
+Mine Shuttle Car Operators	0.4265470113348858
+Makeup Artists, Theatrical and Performance	0.5239607676416659
+Parking Enforcement Workers	0.5876208548496782
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	0.6796531182922175
+Etchers and Engravers	0.5455448527799842
+Podiatrists	0.8424219074531042
+Allergists and Immunologists	0.7478229290643374
+Logistics Engineers	0.7392652417125437
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	0.5072446331666891
+Set and Exhibit Designers	0.5147555191750118
+Rail Car Repairers	0.5825491819504791
+City and Regional Planning Aides	0.5969631275818937
+Religious Workers, All Other	0.5901121071129966
+Riggers	0.6274103324297999
+Sociologists	0.563390067067517
+Therapists, All Other	0.4591095899233208
+Paving, Surfacing, and Tamping Equipment Operators	0.5718803056617632
+Railroad Brake, Signal, and Switch Operators	0.7438316556333442
+Architectural Drafters	0.7360117920537116
+Medical Transcriptionists	0.7045207617620757
+Photonics Technicians	0.524320101562598
+Gaming Managers	0.37809920161046723
+Foresters	0.6395310028725091
+Gaming Surveillance Officers and Gaming Investigators	0.638136130899807
+Clinical Nurse Specialists	0.6852456264658702
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	0.47313560802359433
+Signal and Track Switch Repairers	0.5251189407938962
+Energy Brokers	0.2884340348148073
+Financial Specialists, All Other	0.555338024360434
+Biofuels Processing Technicians	0.5699305110712517
+Structural Iron and Steel Workers	0.6897617893920744
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	0.554460799929824
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	0.5010188111608535
+Physical Medicine and Rehabilitation Physicians	0.7383065382063952
+Manufacturing Engineering Technologists	0.33864629625135834
+Rail Transportation Workers, All Other	0.35837430075360843
+Bioinformatics Technicians	0.5685745948484757
+Cabinetmakers and Bench Carpenters	0.632121654533319
+Structural Metal Fabricators and Fitters	0.6988159876212348
+Pipelayers	0.6825069965549185
+Statistical Assistants	0.6413077583647837
+Agricultural Equipment Operators	0.48089516449204733
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	0.5941440190235364
+Sustainability Specialists	0.6732212023246431
+Nuclear Monitoring Technicians	0.5600685160685632
+Architecture Teachers, Postsecondary	0.6046718070161472
+Nursery Workers	0.4949813625850681
+Career/Technical Education Teachers, Middle School	0.528177882365764
+Geneticists	0.6497136413215551
+Craft Artists	0.5060976797034143
+Weatherization Installers and Technicians	0.7609645214664459
+Cooks, Fast Food	0.6480558157919776
+Precious Metal Workers	1
+Environmental Engineering Technicians	0.714734182620491
+Logging Equipment Operators	0.5043003344818385
+Engine and Other Machine Assemblers	0.6566822784646762
+Cooks, Private Household	1
+Mapping Technicians	0.6318786572665502
+Electromechanical Equipment Assemblers	0.7464939363488273
+Postmasters and Mail Superintendents	0.578786927075621
+Insulation Workers, Mechanical	0.7498821587355329
+Dental Laboratory Technicians	0.5831556630340436
+Electronic Equipment Installers and Repairers, Motor Vehicles	0.5915527714870825
+Bailiffs	0.5364779000203866
+Fence Erectors	0.5713800319004921
+Public Address System and Other Announcers	0.46114251839319353
+Morticians, Undertakers, and Funeral Directors	0.607682371902396
+Bioinformatics Scientists	0.7942099752923815
+Ship and Boat Captains	0.5187947639608369
+Personal Care and Service Workers, All Other	0.44276260048513777
+Air Crew Officers	1
+Fish and Game Wardens	0.5016110947024365
+Statement Clerks	0.6565563893074682
+Farm and Ranch Managers	0.492331596146607
+Bicycle Repairers	0.6981018535183534
+Upholsterers	0.5376366586428891
+Continuous Mining Machine Operators	0.7398843827059577
+Gaming Cage Workers	0.6877131773073467
+Woodworkers, All Other	0.6082761719968293
+Locksmiths and Safe Repairers	0.6617316495825921
+Distance Learning Coordinators	0.6232742502239799
+Marine Engineers	0.555041868774725
+First-Line Supervisors of Agricultural Crop and Horticultural Workers	0.5017058260576704
+Outdoor Power Equipment and Other Small Engine Mechanics	0.6965636916407314
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	0.5563988355822229
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	0.6332438212813583
+Athletes and Sports Competitors	0.4620800082798828
+Nuclear Power Reactor Operators	0.46171129419044576
+Hoist and Winch Operators	0.6508093916794524
+Industrial Engineering Technologists	0.583338257801377
+Building Cleaning Workers, All Other	0.7563856717738608
+Artillery and Missile Crew Members	0.43147464879481007
+Gas Compressor and Gas Pumping Station Operators	0.7175784852841623
+Home Economics Teachers, Postsecondary	0.5744522186202198
+Court Reporters	0.4640867834123506
+Barbers	0.45379720873934704
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	0.6145709509936125
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	0.5310979423593372
+Brickmasons and Blockmasons	0.5884944802442111
+Ship Engineers	0.4953871758289754
+Appraisers, Real Estate	0.5140211490628861
+Tire Builders	0.5864788644865055
+Food Cooking Machine Operators and Tenders	0.5761110458986679
+Genetic Counselors	0.7959143712386736
+Fuel Cell Engineers	0.4356941335590921
+Sailors and Marine Oilers	0.5930801331903209
+Command and Control Center Officers	0.44528699904913005
+New Accounts Clerks	0.6825103215768971
+Preventive Medicine Physicians	0.7949794260576013
+Historians	0.6048716805688252
+Pathologists	0.7089805024027959
+Aircraft Launch and Recovery Specialists	0.5280944307102003
+Acupuncturists	0.7545934622442629
+Travel Guides	0.5490122664333213
+Terrazzo Workers and Finishers	0.3905409262911296
+Climate Change Analysts	0.5919906696911231
+Brownfield Redevelopment Specialists and Site Managers	0.5072802106868268
+Agricultural Sciences Teachers, Postsecondary	0.8250625218711218
+Healthcare Practitioners and Technical Workers, All Other	0.6872120586707856
+Electrical and Electronics Installers and Repairers, Transportation Equipment	0.5811158189560687
+Motion Picture Projectionists	0.4394791273127779
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	0.7221793657483331
+Transit and Railroad Police	0.49602428544147337
+Embalmers	0.5129853710438161
+Metal-Refining Furnace Operators and Tenders	0.595039478096262
+Police Identification and Records Officers	0.578777525481748
+Acute Care Nurses	0.6816422183767136
+Nanosystems Engineers	0.3582514317747764
+Hunters and Trappers	0.4193510776996479
+Food Preparation and Serving Related Workers, All Other	0.8544961760774488
+Tool Grinders, Filers, and Sharpeners	0.7204384317106576
+First-Line Supervisors of Animal Husbandry and Animal Care Workers	0.5387492052207663
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	0.5032354636992441
+Recreation and Fitness Studies Teachers, Postsecondary	0.5480807836993591
+Adhesive Bonding Machine Operators and Tenders	0.5443074711731108
+Pilots, Ship	0.5359707239532954
+Dentists, All Other Specialists	0.623280354656912
+Government Property Inspectors and Investigators	0.5544411774635358
+Watch Repairers	0.5771190223460576
+Education, Training, and Library Workers, All Other	0.5686988920028381
+Nuclear Equipment Operation Technicians	0.5373172656045213
+Agricultural Workers, All Other	0.6027107650873598
+Information and Record Clerks, All Other	0.5197317457531261
+Psychologists, All Other	0.6947153814667612
+Solar Energy Systems Engineers	0.6928709240757596
+Special Forces	0.6540227595118238
+Talent Directors	0.4988003277847935
+Cutters and Trimmers, Hand	0.6015923021668287
+Cartographers and Photogrammetrists	0.5945642202405659
+Conveyor Operators and Tenders	0.6489513722257068
+Stone Cutters and Carvers, Manufacturing	0.6752327719526532
+Refractory Materials Repairers, Except Brickmasons	0.6224336688688549
+Aerospace Engineering and Operations Technicians	0.5227577411794563
+Poets, Lyricists and Creative Writers	0.5321137740383141
+Automotive Engineers	0.5853363590858298
+Mine Cutting and Channeling Machine Operators	0.6499076935441132
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	0.5998279942050107
+Mates- Ship, Boat, and Barge	0.5221783103389015
+Singers	0.7714540780147484
+Licensing Examiners and Inspectors	0.5625320585503019
+Service Unit Operators, Oil, Gas, and Mining	0.6427295984536758
+Marine Architects	0.45087203946927407
+Foundry Mold and Coremakers	0.3888892095842459
+Municipal Clerks	0.6175174469894308
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	0.7413188380473936
+Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists	0.43707466616619056
+Coroners	0.4444213290074215
+Sawing Machine Setters, Operators, and Tenders, Wood	0.5890775766260936
+Reinforcing Iron and Rebar Workers	0.5473257282500931
+Animal Breeders	0.4239171961062553
+Curators	0.627782080559744
+Credit Checkers	0.7991249632270352
+Model Makers, Wood	1
+Plasterers and Stucco Masons	0.49151882575627776
+Gaming and Sports Book Writers and Runners	0.6463475754162484
+Fiberglass Laminators and Fabricators	0.5210903924093055
+Patternmakers, Metal and Plastic	0.5921431875498941
+Segmental Pavers	0.6851995571286351
+Agricultural Engineers	0.555312835635548
+Electromechanical Engineering Technologists	1
+Anthropology and Archeology Teachers, Postsecondary	0.6621502179491777
+Grounds Maintenance Workers, All Other	0.5924292523647847
+Bridge and Lock Tenders	0.6130176905574517
+Electronics Engineering Technologists	0.6889180627236896
+Protective Service Workers, All Other	0.5560891956183238
+Marking Clerks	0.6790135850830642
+Mining Machine Operators, All Other	0.5160511997462836
+Camera and Photographic Equipment Repairers	0.6886779143678494
+Motorcycle Mechanics	0.6038418862751394
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	0.6818014491579916
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	0.5634312616508248
+Nanotechnology Engineering Technicians	0.5374076662159323
+Philosophy and Religion Teachers, Postsecondary	0.7517968933111024
+Law Teachers, Postsecondary	0.6093037951065081
+Biofuels/Biodiesel Technology and Product Development Managers	0.6893199729256048
+Midwives	0.5097984131593598
+Ophthalmic Medical Technologists	0.7118408187812085
+Fuel Cell Technicians	0.6712717317925029
+Gem and Diamond Workers	0.3609817692521481
+Freight and Cargo Inspectors	0.6879652201336318
+Cooling and Freezing Equipment Operators and Tenders	0.48182697163355137
+Gaming Change Persons and Booth Cashiers	0.39058567607865896
+Shampooers	0.4780709561656526
+Precision Agriculture Technicians	0.514803627651377
+First-Line Supervisors of Logging Workers	0.42515352228695297
+Industrial Ecologists	0.3984002265489549
+Biomass Plant Technicians	1
+Respiratory Therapy Technicians	0.6939755045997614
+Fabric and Apparel Patternmakers	0.6104225454761749
+Sewers, Hand	0.5515194173373824
+Audio-Visual and Multimedia Collections Specialists	0.514279002681116
+Freight Forwarders	0.6986160011802963
+Wind Energy Project Managers	0.7636160110210968
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	0.3689201434340744
+Electric Motor, Power Tool, and Related Repairers	0.6102795056669459
+Shoe and Leather Workers and Repairers	0.710998430787842
+Dancers	0.5425609695583787
+Rail Yard Engineers, Dinkey Operators, and Hostlers	0.6252532210437618
+Floor Sanders and Finishers	0.46167754024421787
+Forestry and Conservation Science Teachers, Postsecondary	0.5742092398942071
+Communications Equipment Operators, All Other	0.6978711826286914
+Derrick Operators, Oil and Gas	1
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	0.5644568857888597
+Media and Communication Equipment Workers, All Other	1
+Infantry Officers	0.5523320064371486
+Chemical Plant and System Operators	0.5910122164288258
+Biological Scientists, All Other	0.5639464988011392
+Biochemical Engineers	0.6052520801204825
+Music Composers and Arrangers	0.43134303077245073
+Command and Control Center Specialists	0.4019050166353793
+Geothermal Technicians	0.6910063153834373
+Hydroelectric Production Managers	1
+Postal Service Mail Carriers	0.4202307079600586
+Adapted Physical Education Specialists	0.7054566912728782
+Music Therapists	0.6186214505614112
+Log Graders and Scalers	0.6608695149001678
+Electrical Engineering Technologists	0.5594486540965189
+Farm Labor Contractors	0.51877448347938
+Transportation Workers, All Other	0.39462469002222567
+Geodetic Surveyors	0.8687154064025886
+Mathematical Science Occupations, All Other	1
+Hydroelectric Plant Technicians	1
+Naturopathic Physicians	0.4604593686389794
+Glass Blowers, Molders, Benders, and Finishers	1
+Solar Thermal Installers and Technicians	0.5901953636242937
+Remote Sensing Technicians	0.34141650672747803
+Automotive Engineering Technicians	1
+Choreographers	0.5232190642081822
+Motorboat Operators	0.5350229552997551
+Coil Winders, Tapers, and Finishers	0.5787923588750034
+Wellhead Pumpers	0.709333944347026
+Product Safety Engineers	1
+First-Line Supervisors of Weapons Specialists/Crew Members	1
+Methane/Landfill Gas Collection System Operators	0.2933813678946955
+Geography Teachers, Postsecondary	1
+Artists and Related Workers, All Other	0.6413293169922647
+Nanotechnology Engineering Technologists	1
+Potters, Manufacturing	1
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	0.4859530559614452
+Orthoptists	0.7843796431090927
+Fabric Menders, Except Garment	1
+Wind Energy Engineers	1
+Helpers--Roofers	1
+Fire Investigators	1
+Nuclear Medicine Physicians	1
+Social Sciences Teachers, Postsecondary, All Other	1
+Timing Device Assemblers and Adjusters	1
+Roof Bolters, Mining	1
+Media and Communication Workers, All Other	1
+Dredge Operators	1
+Technical Directors/Managers	0.3291296207031369
+Broadcast News Analysts	1
+Library Science Teachers, Postsecondary	1
+Pile-Driver Operators	1
+Tapers	1
+Environmental Economists	1
+Mathematical Technicians	1
+Locomotive Firers	1
+Biomass Power Plant Managers	1
+Entertainment Attendants and Related Workers, All Other	1
+Biofuels Production Managers	1
+Patternmakers, Wood	1
+Geothermal Production Managers	1
+First-Line Supervisors of All Other Tactical Operations Specialists	1
+Food Processing Workers, All Other	1

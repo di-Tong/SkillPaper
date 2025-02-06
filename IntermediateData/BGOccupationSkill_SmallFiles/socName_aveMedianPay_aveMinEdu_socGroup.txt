@@ -1,0 +1,838 @@
+Chief Executives	94611.06553532976	16.13481419411987	Management Occupations
+General and Operations Managers	86939.4542973647	15.248986407759393	Management Occupations
+Legislators	nan	nan	Management Occupations
+Advertising and Promotions Managers	79955.68593053025	15.623073427267286	Management Occupations
+Marketing Managers	98614.15197918	15.989048824466124	Management Occupations
+Sales Managers	97409.60991655831	15.452997999819765	Management Occupations
+Public Relations and Fundraising Managers	74320.7894734356	15.880381551282321	Management Occupations
+Administrative Services Managers	69240.54938492022	15.205494057286383	Management Occupations
+Computer and Information Systems Managers	116265.73567202344	15.99348174791887	Management Occupations
+Financial Managers	95513.97191502212	15.699547193447346	Management Occupations
+Industrial Production Managers	82483.18085889424	15.592124743114605	Management Occupations
+Purchasing Managers	91226.09639790466	15.819472685427181	Management Occupations
+Transportation, Storage, and Distribution Managers	65473.667602707916	14.548778235490557	Management Occupations
+Compensation and Benefits Managers	92287.43692540553	15.84076205209457	Management Occupations
+Human Resources Managers	78846.17986429721	15.6893115382012	Management Occupations
+Training and Development Managers	72005.52910906625	15.510613294532066	Management Occupations
+Farmers, Ranchers, and Other Agricultural Managers	44959.480205488704	14.703792817126649	Management Occupations
+Construction Managers	83746.71658461787	15.20942192832149	Management Occupations
+Education Administrators, Preschool and Childcare Center/Program	43730.68843188169	14.781009498791137	Management Occupations
+Education Administrators, Elementary and Secondary School	75365.10604955394	17.101396434978692	Management Occupations
+Education Administrators, Postsecondary	58777.303440586285	16.818005679578008	Management Occupations
+Education Administrators, All Other	60697.74071081936	14.68381509986736	Management Occupations
+Architectural and Engineering Managers	107008.35016464196	16.139758758918994	Management Occupations
+Food Service Managers	48532.164876491915	13.219717355092417	Management Occupations
+Funeral Service Managers	55234.47224326626	13.748226890838685	Management Occupations
+Gaming Managers	78989.53452292347	14.006180065199764	Management Occupations
+Lodging Managers	56973.35210919732	14.209291295019929	Management Occupations
+Medical and Health Services Managers	84478.19973666237	16.198901716657286	Management Occupations
+Natural Sciences Managers	74590.6691999269	17.483250435613613	Management Occupations
+Postmasters and Mail Superintendents	50157.952298292534	13.76083384471888	Management Occupations
+Property, Real Estate, and Community Association Managers	50956.81094622958	14.257180408278089	Management Occupations
+Social and Community Service Managers	53430.033277003145	16.275793938760636	Management Occupations
+Emergency Management Directors	72437.67516939127	16.184465430353626	Management Occupations
+Managers, All Other	75614.91178433706	15.497146738889171	Management Occupations
+Agents and Business Managers of Artists, Performers, and Athletes	54627.28163271696	14.56125686487068	Business and Financial Operations Occupations
+Buyers and Purchasing Agents	nan	nan	Business and Financial Operations Occupations
+Claims Adjusters, Examiners, and Investigators	53860.72689622798	14.706848772412165	Business and Financial Operations Occupations
+Insurance Appraisers, Auto Damage	52284.27983544051	13.072392031889379	Business and Financial Operations Occupations
+Compliance Officers	67921.57928472738	15.909993130931023	Business and Financial Operations Occupations
+Cost Estimators	73451.87304455963	15.064029446964595	Business and Financial Operations Occupations
+Human Resources Specialists	55599.16843311694	15.073603695664966	Business and Financial Operations Occupations
+Farm Labor Contractors	28138.060285393614	13.898508898508899	Business and Financial Operations Occupations
+Labor Relations Specialists	51872.98233842918	15.041614912131555	Business and Financial Operations Occupations
+Logisticians	60526.26432241528	15.23216614752116	Business and Financial Operations Occupations
+Management Analysts	85002.93285028094	16.085892236408828	Business and Financial Operations Occupations
+Meeting, Convention, and Event Planners	45336.44008083575	14.808708409357783	Business and Financial Operations Occupations
+Fundraisers	47993.33728219844	15.279557371721928	Business and Financial Operations Occupations
+Compensation, Benefits, and Job Analysis Specialists	59147.66233030203	15.867875980629154	Business and Financial Operations Occupations
+Training and Development Specialists	59958.9123852942	15.104478411878615	Business and Financial Operations Occupations
+Market Research Analysts and Marketing Specialists	51913.6070720959	15.937223663120676	Business and Financial Operations Occupations
+Business Operations Specialists, All Other	70194.28586435458	15.482126706415222	Business and Financial Operations Occupations
+Accountants and Auditors	63534.21115216831	16.06264451549155	Business and Financial Operations Occupations
+Appraisers and Assessors of Real Estate	54381.322017081446	14.067075888093797	Business and Financial Operations Occupations
+Budget Analysts	64374.949430472836	16.354784541945406	Business and Financial Operations Occupations
+Credit Analysts	62608.10017829511	15.52090346943962	Business and Financial Operations Occupations
+Financial Analysts	70784.58172087265	16.127608767629162	Business and Financial Operations Occupations
+Personal Financial Advisors	75175.7096914175	15.237526101122645	Business and Financial Operations Occupations
+Insurance Underwriters	82263.45096306398	15.349176423378648	Business and Financial Operations Occupations
+Financial Examiners	66540.68266550626	16.14480416810771	Business and Financial Operations Occupations
+Credit Counselors	49578.854024374225	14.045619795186349	Business and Financial Operations Occupations
+Loan Officers	68976.71939773875	14.284114466576073	Business and Financial Operations Occupations
+Tax Examiners and Collectors, and Revenue Agents	55917.27501294556	15.324443722139627	Business and Financial Operations Occupations
+Tax Preparers	41149.16988872924	13.231837685151827	Business and Financial Operations Occupations
+Financial Specialists, All Other	92232.05648792323	16.23784636625967	Business and Financial Operations Occupations
+Computer and Information Research Scientists	115623.36637055846	17.338666493715312	Computer and Mathematical Occupations
+Computer Systems Analysts	87222.91334484902	15.598708594461003	Computer and Mathematical Occupations
+Information Security Analysts	95395.6328807776	15.706872560473967	Computer and Mathematical Occupations
+Computer Programmers	80050.43388465533	15.57421989735159	Computer and Mathematical Occupations
+Software Developers, Applications	102185.79306374703	15.883730805242443	Computer and Mathematical Occupations
+Software Developers, Systems Software	97659.55611354465	15.93018656648622	Computer and Mathematical Occupations
+Web Developers	91282.61716241042	15.848795993680897	Computer and Mathematical Occupations
+Database Administrators	89554.14423837692	15.56704309797838	Computer and Mathematical Occupations
+Network and Computer Systems Administrators	78468.94093584763	15.409903740491188	Computer and Mathematical Occupations
+Computer Network Architects	90316.38680122628	15.555243095699423	Computer and Mathematical Occupations
+Computer User Support Specialists	52664.32185970828	14.339151585871498	Computer and Mathematical Occupations
+Computer Network Support Specialists	65998.1912105978	14.801692968978436	Computer and Mathematical Occupations
+Computer Occupations, All Other	91583.08920703173	15.762492103453853	Computer and Mathematical Occupations
+Actuaries	107441.72831051527	16.076612453502452	Computer and Mathematical Occupations
+Mathematicians	86076.50103971845	17.204130276806772	Computer and Mathematical Occupations
+Operations Research Analysts	75937.5011629342	16.765546794555448	Computer and Mathematical Occupations
+Statisticians	90055.24203583437	16.998536437878055	Computer and Mathematical Occupations
+Miscellaneous Mathematical Science Occupations	nan	nan	Computer and Mathematical Occupations
+Architects, Except Landscape and Naval	88743.52279402316	16.168396190524067	Architecture and Engineering Occupations
+Landscape Architects	71016.71305564926	16.177157572174522	Architecture and Engineering Occupations
+Cartographers and Photogrammetrists	61934.25363426129	14.823497291535435	Architecture and Engineering Occupations
+Surveyors	53275.89161706842	14.114033080123335	Architecture and Engineering Occupations
+Aerospace Engineers	89061.00668555364	16.210286020803593	Architecture and Engineering Occupations
+Agricultural Engineers	66262.30043229918	15.637254963613795	Architecture and Engineering Occupations
+Biomedical Engineers	81258.37826687918	16.468525065061428	Architecture and Engineering Occupations
+Chemical Engineers	90745.58802526578	16.286197522022846	Architecture and Engineering Occupations
+Civil Engineers	81980.0957789936	16.117830960862875	Architecture and Engineering Occupations
+Computer Hardware Engineers	98618.70475729641	16.246418975374063	Architecture and Engineering Occupations
+Electrical Engineers	87250.35694963852	16.12995764509946	Architecture and Engineering Occupations
+Electronics Engineers, Except Computer	90741.45578969616	16.22549285212009	Architecture and Engineering Occupations
+Environmental Engineers	78476.59433314207	16.17898083614449	Architecture and Engineering Occupations
+Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	81113.21986044948	16.055213692854533	Architecture and Engineering Occupations
+Industrial Engineers	81082.55043884828	16.08563049529801	Architecture and Engineering Occupations
+Marine Engineers and Naval Architects	86455.31994724175	15.892941706195952	Architecture and Engineering Occupations
+Materials Engineers	86686.25940029608	16.42295621748524	Architecture and Engineering Occupations
+Mechanical Engineers	84277.07046325674	16.156528515698078	Architecture and Engineering Occupations
+Mining and Geological Engineers, Including Mining Safety Engineers	83999.95048842159	16.153411912912727	Architecture and Engineering Occupations
+Nuclear Engineers	88178.41589003353	16.346669285016887	Architecture and Engineering Occupations
+Petroleum Engineers	120142.97356449238	16.125316696046095	Architecture and Engineering Occupations
+Engineers, All Other	86734.2165158943	15.963268974053468	Architecture and Engineering Occupations
+Architectural and Civil Drafters	55124.05445448127	14.268337755416082	Architecture and Engineering Occupations
+Electrical and Electronics Drafters	73701.63950912228	15.07045643043515	Architecture and Engineering Occupations
+Mechanical Drafters	53896.43122068978	14.073204178625236	Architecture and Engineering Occupations
+Drafters, All Other	51557.066972940294	14.200176582290013	Architecture and Engineering Occupations
+Aerospace Engineering and Operations Technicians	60758.87120995038	14.259898033479326	Architecture and Engineering Occupations
+Civil Engineering Technicians	50475.34704261432	13.866017234156038	Architecture and Engineering Occupations
+Electrical and Electronics Engineering Technicians	47198.09312845598	13.365837470911222	Architecture and Engineering Occupations
+Electro-Mechanical Technicians	48592.78644877518	13.149842931433195	Architecture and Engineering Occupations
+Environmental Engineering Technicians	62817.84749208352	14.983480384488818	Architecture and Engineering Occupations
+Industrial Engineering Technicians	41625.799913212555	12.762900758375553	Architecture and Engineering Occupations
+Mechanical Engineering Technicians	48562.55228733309	13.466861924746798	Architecture and Engineering Occupations
+Engineering Technicians, Except Drafters, All Other	50247.5099426953	13.838649848088963	Architecture and Engineering Occupations
+Surveying and Mapping Technicians	52895.889505812534	13.846056986403367	Architecture and Engineering Occupations
+Animal Scientists	65981.8709667802	15.199030358333422	Life, Physical, and Social Science Occupations
+Food Scientists and Technologists	72664.19697520036	16.238527758427452	Life, Physical, and Social Science Occupations
+Soil and Plant Scientists	59935.1343982611	16.67258635758892	Life, Physical, and Social Science Occupations
+Biochemists and Biophysicists	82735.22072253824	17.375276696157663	Life, Physical, and Social Science Occupations
+Microbiologists	62067.078018146516	16.494090463906193	Life, Physical, and Social Science Occupations
+Zoologists and Wildlife Biologists	55781.212525149094	16.680546876585037	Life, Physical, and Social Science Occupations
+Biological Scientists, All Other	71564.81423506614	17.323697134208572	Life, Physical, and Social Science Occupations
+Conservation Scientists	44790.809330976306	14.544411851408313	Life, Physical, and Social Science Occupations
+Foresters	47408.983584870104	15.58234197695782	Life, Physical, and Social Science Occupations
+Epidemiologists	69287.20412668826	17.261034217621532	Life, Physical, and Social Science Occupations
+Medical Scientists, Except Epidemiologists	80485.52035124203	17.537012662289673	Life, Physical, and Social Science Occupations
+Life Scientists, All Other	67991.11767117697	18.359501862963054	Life, Physical, and Social Science Occupations
+Astronomers	60672.47313043628	19.370383721406046	Life, Physical, and Social Science Occupations
+Physicists	90661.42621671375	18.11367009211635	Life, Physical, and Social Science Occupations
+Atmospheric and Space Scientists	62183.721641153395	16.457957518419878	Life, Physical, and Social Science Occupations
+Chemists	69489.64440603959	16.853889537905587	Life, Physical, and Social Science Occupations
+Materials Scientists	74051.93526766576	17.625753629364734	Life, Physical, and Social Science Occupations
+Environmental Scientists and Specialists, Including Health	65673.44459408423	16.29697403453083	Life, Physical, and Social Science Occupations
+Geoscientists, Except Hydrologists and Geographers	92428.8783366953	16.45510006464138	Life, Physical, and Social Science Occupations
+Hydrologists	64128.24408069279	16.55002226059121	Life, Physical, and Social Science Occupations
+Physical Scientists, All Other	93189.70145911447	16.465245514520795	Life, Physical, and Social Science Occupations
+Economists	93414.83932624367	17.56831474121833	Life, Physical, and Social Science Occupations
+Survey Researchers	40994.422536208556	16.826130340849502	Life, Physical, and Social Science Occupations
+Clinical, Counseling, and School Psychologists	77218.20470139355	19.67828330790381	Life, Physical, and Social Science Occupations
+Industrial-Organizational Psychologists	86805.10634250214	16.616733669667404	Life, Physical, and Social Science Occupations
+Psychologists, All Other	82911.86169975373	19.3801225385808	Life, Physical, and Social Science Occupations
+Sociologists	62257.252633810225	16.315068861136055	Life, Physical, and Social Science Occupations
+Urban and Regional Planners	68449.89546818897	16.192467243991207	Life, Physical, and Social Science Occupations
+Anthropologists and Archeologists	61920.69527820754	16.636382659891606	Life, Physical, and Social Science Occupations
+Geographers	71569.81957172304	16.245895676872514	Life, Physical, and Social Science Occupations
+Historians	69622.84443470575	16.096808097470117	Life, Physical, and Social Science Occupations
+Political Scientists	85040.02689930814	16.769249551806666	Life, Physical, and Social Science Occupations
+Social Scientists and Related Workers, All Other	62441.8107235511	16.332314830270445	Life, Physical, and Social Science Occupations
+Agricultural and Food Science Technicians	44925.127314734586	13.925946273639944	Life, Physical, and Social Science Occupations
+Biological Technicians	40025.93359251626	15.4069416735751	Life, Physical, and Social Science Occupations
+Chemical Technicians	51051.65823601271	15.061074738455192	Life, Physical, and Social Science Occupations
+Geological and Petroleum Technicians	45636.463871899905	13.780819175096157	Life, Physical, and Social Science Occupations
+Nuclear Technicians	67810.0047671309	13.406533799438957	Life, Physical, and Social Science Occupations
+Social Science Research Assistants	53635.444289829815	16.657201244376	Life, Physical, and Social Science Occupations
+Environmental Science and Protection Technicians, Including Health	41285.038036953476	13.562091821433345	Life, Physical, and Social Science Occupations
+Forensic Science Technicians	54325.97468345777	14.281576291742843	Life, Physical, and Social Science Occupations
+Forest and Conservation Technicians	37558.0768705635	13.949424643011644	Life, Physical, and Social Science Occupations
+Life, Physical, and Social Science Technicians, All Other	52263.83642284831	14.688329406557788	Life, Physical, and Social Science Occupations
+Educational, Guidance, School, and Vocational Counselors	47786.55729459161	14.878022174361753	Community and Social Service Occupations
+Marriage and Family Therapists	51106.335722091346	18.10615420010422	Community and Social Service Occupations
+Rehabilitation Counselors	43477.40954662271	15.00757727311034	Community and Social Service Occupations
+Substance Abuse, Behavioral Disorder, and Mental Health Counselors	nan	nan	Community and Social Service Occupations
+Counselors, All Other	48650.34509245276	15.614184992463164	Community and Social Service Occupations
+Child, Family, and School Social Workers	45190.749023392695	16.495382351879332	Community and Social Service Occupations
+Healthcare Social Workers	56986.71514511288	17.408567639907957	Community and Social Service Occupations
+Mental Health and Substance Abuse Social Workers	49303.03636104594	15.928961951810855	Community and Social Service Occupations
+Social Workers, All Other	61563.88869939302	17.06725508848986	Community and Social Service Occupations
+Health Educators	nan	nan	Community and Social Service Occupations
+Probation Officers and Correctional Treatment Specialists	54521.38415887058	14.99182705576171	Community and Social Service Occupations
+Social and Human Service Assistants	41317.18689062432	14.505798740467457	Community and Social Service Occupations
+Community Health Workers	45532.313880531896	14.346363599580181	Community and Social Service Occupations
+Community and Social Service Specialists, All Other	48502.25668982812	14.591320834841294	Community and Social Service Occupations
+Clergy	61253.99496094756	16.654190445827698	Community and Social Service Occupations
+Directors, Religious Activities and Education	53572.12042640582	16.26303715778728	Community and Social Service Occupations
+Religious Workers, All Other	54090.54484908667	15.954788318420956	Community and Social Service Occupations
+Lawyers	100823.2979520493	20.99682300912665	Legal Occupations
+Judicial Law Clerks	52269.04373012432	21.0	Legal Occupations
+Administrative Law Judges, Adjudicators, and Hearing Officers	60856.67626234391	15.016091296632018	Legal Occupations
+Arbitrators, Mediators, and Conciliators	71836.95246172987	15.594473419524714	Legal Occupations
+Judges, Magistrate Judges, and Magistrates	104111.64601196791	21.0	Legal Occupations
+Paralegals and Legal Assistants	48964.508130475675	15.1648410310048	Legal Occupations
+Court Reporters	36687.6801147136	12.631967196424448	Legal Occupations
+Title Examiners, Abstractors, and Searchers	37813.83636904544	12.812498532412782	Legal Occupations
+Legal Support Workers, All Other	52616.76096745376	15.577659088773471	Legal Occupations
+Business Teachers, Postsecondary	73815.39902239763	18.873955073441365	Education, Training, and Library Occupations
+Computer Science Teachers, Postsecondary	83363.5489270993	18.74367939865626	Education, Training, and Library Occupations
+Mathematical Science Teachers, Postsecondary	61910.35024962088	18.92288184345531	Education, Training, and Library Occupations
+Architecture Teachers, Postsecondary	84811.00474492778	18.631752922761493	Education, Training, and Library Occupations
+Engineering Teachers, Postsecondary	76255.40851957264	18.99898034341324	Education, Training, and Library Occupations
+Agricultural Sciences Teachers, Postsecondary	50611.90513381481	19.347008760734298	Education, Training, and Library Occupations
+Biological Science Teachers, Postsecondary	71515.10934266285	19.2459303399535	Education, Training, and Library Occupations
+Forestry and Conservation Science Teachers, Postsecondary	54037.5798150261	19.32302402089636	Education, Training, and Library Occupations
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary	60091.5342327335	19.089690348411278	Education, Training, and Library Occupations
+Chemistry Teachers, Postsecondary	74623.22151217813	19.439857917263573	Education, Training, and Library Occupations
+Environmental Science Teachers, Postsecondary	47033.48409234584	19.040519223657096	Education, Training, and Library Occupations
+Physics Teachers, Postsecondary	80073.18828316237	18.528167929279533	Education, Training, and Library Occupations
+Anthropology and Archeology Teachers, Postsecondary	77600.37755759672	19.278614240208125	Education, Training, and Library Occupations
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary	90392.57552385732	19.58864202497317	Education, Training, and Library Occupations
+Economics Teachers, Postsecondary	86920.89934931816	19.19497176963242	Education, Training, and Library Occupations
+Geography Teachers, Postsecondary	70440.10666666666	18.41702279202279	Education, Training, and Library Occupations
+Political Science Teachers, Postsecondary	80276.56974426833	18.675076005237614	Education, Training, and Library Occupations
+Psychology Teachers, Postsecondary	67599.0096800984	19.22240290764085	Education, Training, and Library Occupations
+Sociology Teachers, Postsecondary	84973.29756791066	18.407545764084507	Education, Training, and Library Occupations
+Social Sciences Teachers, Postsecondary, All Other	49762.66666666667	16.802721088435373	Education, Training, and Library Occupations
+Health Specialties Teachers, Postsecondary	64927.30096041207	19.074009791333676	Education, Training, and Library Occupations
+Nursing Instructors and Teachers, Postsecondary	66952.83211990393	18.285812915865023	Education, Training, and Library Occupations
+Education Teachers, Postsecondary	59597.887075061924	19.44155981593689	Education, Training, and Library Occupations
+Library Science Teachers, Postsecondary	35299.54583333334	18.285714285714285	Education, Training, and Library Occupations
+Criminal Justice and Law Enforcement Teachers, Postsecondary	65407.93022807636	18.965533232856014	Education, Training, and Library Occupations
+Law Teachers, Postsecondary	82433.49250146972	19.533735939403535	Education, Training, and Library Occupations
+Social Work Teachers, Postsecondary	58321.71156088143	18.14610742554306	Education, Training, and Library Occupations
+Art, Drama, and Music Teachers, Postsecondary	62552.28225417527	18.662929360981533	Education, Training, and Library Occupations
+Communications Teachers, Postsecondary	72436.46022807092	19.13880087530155	Education, Training, and Library Occupations
+English Language and Literature Teachers, Postsecondary	65870.25493903049	17.34165739770961	Education, Training, and Library Occupations
+Foreign Language and Literature Teachers, Postsecondary	74111.54028844634	17.297845040691115	Education, Training, and Library Occupations
+History Teachers, Postsecondary	75881.9441214967	18.873577028368025	Education, Training, and Library Occupations
+Philosophy and Religion Teachers, Postsecondary	67152.62259666517	20.024817000430495	Education, Training, and Library Occupations
+Graduate Teaching Assistants	47071.016855161455	15.328266807708205	Education, Training, and Library Occupations
+Home Economics Teachers, Postsecondary	71265.26300160044	17.39914991783128	Education, Training, and Library Occupations
+Recreation and Fitness Studies Teachers, Postsecondary	49149.06047649566	16.814287022600876	Education, Training, and Library Occupations
+Vocational Education Teachers, Postsecondary	57643.84393252567	16.349354645650536	Education, Training, and Library Occupations
+Postsecondary Teachers, All Other	75832.6432532	18.229973392897957	Education, Training, and Library Occupations
+Preschool Teachers, Except Special Education	33775.08242468645	13.840707618547976	Education, Training, and Library Occupations
+Kindergarten Teachers, Except Special Education	49508.94807361592	15.226646822310247	Education, Training, and Library Occupations
+Elementary School Teachers, Except Special Education	54110.17465788561	16.274293008434892	Education, Training, and Library Occupations
+Middle School Teachers, Except Special and Career/Technical Education	60653.884380279575	16.230534196435837	Education, Training, and Library Occupations
+Career/Technical Education Teachers, Middle School	68721.30405717895	15.270579224076942	Education, Training, and Library Occupations
+Secondary School Teachers, Except Special and Career/Technical Education	63072.20633171118	16.216460183561992	Education, Training, and Library Occupations
+Career/Technical Education Teachers, Secondary School	48512.175677006046	16.08274827528048	Education, Training, and Library Occupations
+Special Education Teachers, Preschool	48176.892194320935	15.059661596935236	Education, Training, and Library Occupations
+Special Education Teachers, Kindergarten and Elementary School	52094.93265426878	14.717534738485329	Education, Training, and Library Occupations
+Special Education Teachers, Middle School	54109.12485409624	16.223244595368357	Education, Training, and Library Occupations
+Special Education Teachers, Secondary School	40727.31331247599	16.145085672274384	Education, Training, and Library Occupations
+Special Education Teachers, All Other	51768.78460627951	14.238237065840918	Education, Training, and Library Occupations
+Adult Basic and Secondary Education and Literacy Teachers and Instructors	nan	nan	Education, Training, and Library Occupations
+Self-Enrichment Education Teachers	52089.25194679374	14.33165509345923	Education, Training, and Library Occupations
+Teachers and Instructors, All Other, Except Substitute Teachers	nan	nan	Education, Training, and Library Occupations
+Substitute Teachers	nan	nan	Education, Training, and Library Occupations
+Archivists	52271.50360125505	16.934120214961457	Education, Training, and Library Occupations
+Curators	56555.997233754846	17.17525196167028	Education, Training, and Library Occupations
+Museum Technicians and Conservators	44264.03201433153	14.796162300608083	Education, Training, and Library Occupations
+Librarians	52905.35298749362	17.215180218310618	Education, Training, and Library Occupations
+Library Technicians	34440.82908592526	13.671647421770768	Education, Training, and Library Occupations
+Audio-Visual and Multimedia Collections Specialists	51240.533794359006	14.913213738597534	Education, Training, and Library Occupations
+Farm and Home Management Advisors	54665.26028906104	15.344972632295923	Education, Training, and Library Occupations
+Instructional Coordinators	62209.334067776814	16.255488081503128	Education, Training, and Library Occupations
+Teacher Assistants	32198.62305012446	12.419847330017795	Education, Training, and Library Occupations
+Education, Training, and Library Workers, All Other	31846.184158237702	12.776705819893913	Education, Training, and Library Occupations
+Art Directors	89932.89244384081	15.883492681107706	Arts, Design, Entertainment, Sports, and Media Occupations
+Craft Artists	48274.34062245961	13.934375193080012	Arts, Design, Entertainment, Sports, and Media Occupations
+Fine Artists, Including Painters, Sculptors, and Illustrators	56030.5724954358	14.815180199810833	Arts, Design, Entertainment, Sports, and Media Occupations
+Multimedia Artists and Animators	76195.3009760911	15.822788508904106	Arts, Design, Entertainment, Sports, and Media Occupations
+Artists and Related Workers, All Other	38842.478106060604	14.612916666666667	Arts, Design, Entertainment, Sports, and Media Occupations
+Commercial and Industrial Designers	85172.26578828166	15.958287905836443	Arts, Design, Entertainment, Sports, and Media Occupations
+Fashion Designers	71005.13175651309	15.531841766625348	Arts, Design, Entertainment, Sports, and Media Occupations
+Floral Designers	30571.405149100505	12.39621344182976	Arts, Design, Entertainment, Sports, and Media Occupations
+Graphic Designers	53375.524980923925	15.506114382111283	Arts, Design, Entertainment, Sports, and Media Occupations
+Interior Designers	57953.085350105	14.70361598047976	Arts, Design, Entertainment, Sports, and Media Occupations
+Merchandise Displayers and Window Trimmers	28713.90542305585	12.543539538375923	Arts, Design, Entertainment, Sports, and Media Occupations
+Set and Exhibit Designers	54959.07430719831	15.032277139708931	Arts, Design, Entertainment, Sports, and Media Occupations
+Designers, All Other	67256.23150849671	15.225143737496236	Arts, Design, Entertainment, Sports, and Media Occupations
+Actors	59643.020216626915	14.20804787424922	Arts, Design, Entertainment, Sports, and Media Occupations
+Producers and Directors	64921.662917288915	15.555703352674433	Arts, Design, Entertainment, Sports, and Media Occupations
+Athletes and Sports Competitors	50503.01481628834	14.356763734034578	Arts, Design, Entertainment, Sports, and Media Occupations
+Coaches and Scouts	49997.10922015802	13.608075568567973	Arts, Design, Entertainment, Sports, and Media Occupations
+Umpires, Referees, and Other Sports Officials	37666.20132447689	13.080590232814885	Arts, Design, Entertainment, Sports, and Media Occupations
+Dancers	71052.70140506454	14.280542868907983	Arts, Design, Entertainment, Sports, and Media Occupations
+Choreographers	65450.52429855933	14.20959670976144	Arts, Design, Entertainment, Sports, and Media Occupations
+Music Directors and Composers	62238.88424557125	15.10279807670765	Arts, Design, Entertainment, Sports, and Media Occupations
+Musicians and Singers	60716.88590316095	13.506662228746045	Arts, Design, Entertainment, Sports, and Media Occupations
+Entertainers and Performers, Sports and Related Workers, All Other	45804.89785153496	13.374942033252395	Arts, Design, Entertainment, Sports, and Media Occupations
+Radio and Television Announcers	52154.798557810245	14.335039669299233	Arts, Design, Entertainment, Sports, and Media Occupations
+Public Address System and Other Announcers	65113.4954095096	12.996109902662782	Arts, Design, Entertainment, Sports, and Media Occupations
+Broadcast News Analysts	46169.804473304466	16.05889188783926	Arts, Design, Entertainment, Sports, and Media Occupations
+Reporters and Correspondents	47017.92509619905	15.514241194827779	Arts, Design, Entertainment, Sports, and Media Occupations
+Public Relations Specialists	58594.20167361627	16.002665928830258	Arts, Design, Entertainment, Sports, and Media Occupations
+Editors	53723.97047618014	15.946346822566378	Arts, Design, Entertainment, Sports, and Media Occupations
+Technical Writers	69921.54438443707	15.692535703862562	Arts, Design, Entertainment, Sports, and Media Occupations
+Writers and Authors	61181.601468693545	15.595596005404381	Arts, Design, Entertainment, Sports, and Media Occupations
+Interpreters and Translators	60887.27727864057	13.851329367260933	Arts, Design, Entertainment, Sports, and Media Occupations
+Media and Communication Workers, All Other	55428.8888888889	12.666666666666666	Arts, Design, Entertainment, Sports, and Media Occupations
+Audio and Video Equipment Technicians	47683.42265827503	13.306626804308799	Arts, Design, Entertainment, Sports, and Media Occupations
+Broadcast Technicians	42746.66053891476	13.752050804886494	Arts, Design, Entertainment, Sports, and Media Occupations
+Radio Operators	50120.79489283918	12.28304045997261	Arts, Design, Entertainment, Sports, and Media Occupations
+Sound Engineering Technicians	57887.90327743729	14.975064643549318	Arts, Design, Entertainment, Sports, and Media Occupations
+Photographers	60674.643815155294	13.206261953953597	Arts, Design, Entertainment, Sports, and Media Occupations
+Camera Operators, Television, Video, and Motion Picture	68652.49103695193	14.613911193303315	Arts, Design, Entertainment, Sports, and Media Occupations
+Film and Video Editors	55572.67133275997	15.096613260351385	Arts, Design, Entertainment, Sports, and Media Occupations
+Media and Communication Equipment Workers, All Other	81658.45333333334	13.003703703703703	Arts, Design, Entertainment, Sports, and Media Occupations
+Chiropractors	73719.43821899267	20.560754196542174	Healthcare Practitioners and Technical Occupations
+Dentists, General	137455.96790826693	20.999675392260365	Healthcare Practitioners and Technical Occupations
+Oral and Maxillofacial Surgeons	136856.02696546898	20.999848149594342	Healthcare Practitioners and Technical Occupations
+Orthodontists	158835.31085064303	20.093443828787088	Healthcare Practitioners and Technical Occupations
+Prosthodontists	72171.11271779553	20.65955907713087	Healthcare Practitioners and Technical Occupations
+Dentists, All Other Specialists	191528.32219870956	20.598902217611297	Healthcare Practitioners and Technical Occupations
+Dietitians and Nutritionists	49000.41233331347	16.19362324309547	Healthcare Practitioners and Technical Occupations
+Optometrists	91532.77973290466	21.0	Healthcare Practitioners and Technical Occupations
+Pharmacists	102953.0898824389	20.500473415847544	Healthcare Practitioners and Technical Occupations
+Anesthesiologists	185086.34898259133	20.9996752493621	Healthcare Practitioners and Technical Occupations
+Family and General Practitioners	165603.1044665247	20.994496848123326	Healthcare Practitioners and Technical Occupations
+Internists, General	181524.79861329077	20.997914271549504	Healthcare Practitioners and Technical Occupations
+Obstetricians and Gynecologists	133776.23764430927	20.996295270505048	Healthcare Practitioners and Technical Occupations
+Pediatricians, General	142602.78475071368	21.0	Healthcare Practitioners and Technical Occupations
+Psychiatrists	167794.9413671913	20.997185559442748	Healthcare Practitioners and Technical Occupations
+Surgeons	172089.62486819236	20.998859467818725	Healthcare Practitioners and Technical Occupations
+Physicians and Surgeons, All Other	170624.07723981433	19.541253949845913	Healthcare Practitioners and Technical Occupations
+Physician Assistants	94208.88000163907	16.784842289147267	Healthcare Practitioners and Technical Occupations
+Podiatrists	113278.92992991964	20.966183574879228	Healthcare Practitioners and Technical Occupations
+Occupational Therapists	84902.38478894433	18.043414146206334	Healthcare Practitioners and Technical Occupations
+Physical Therapists	84269.08028332911	18.41703293474671	Healthcare Practitioners and Technical Occupations
+Radiation Therapists	81882.22154652691	15.393837829799175	Healthcare Practitioners and Technical Occupations
+Recreational Therapists	53733.84906755734	16.041685370717232	Healthcare Practitioners and Technical Occupations
+Respiratory Therapists	60987.898767824685	14.781404415820836	Healthcare Practitioners and Technical Occupations
+Speech-Language Pathologists	82065.99021895179	18.095013512508874	Healthcare Practitioners and Technical Occupations
+Exercise Physiologists	59013.06745038609	16.365855475579863	Healthcare Practitioners and Technical Occupations
+Therapists, All Other	46275.43951721091	17.38256199669789	Healthcare Practitioners and Technical Occupations
+Veterinarians	91567.01107401523	20.994843994843993	Healthcare Practitioners and Technical Occupations
+Registered Nurses	70626.07421070845	14.782622056676534	Healthcare Practitioners and Technical Occupations
+Nurse Anesthetists	120961.10149565336	18.1110652812972	Healthcare Practitioners and Technical Occupations
+Nurse Midwives	90237.28995847928	18.11611366928569	Healthcare Practitioners and Technical Occupations
+Nurse Practitioners	90371.9294118676	18.041733991060564	Healthcare Practitioners and Technical Occupations
+Audiologists	73971.03649124375	18.69301619406772	Healthcare Practitioners and Technical Occupations
+Health Diagnosing and Treating Practitioners, All Other	77538.54829962127	16.2735078849395	Healthcare Practitioners and Technical Occupations
+Clinical Laboratory Technologists and Technicians	nan	nan	Healthcare Practitioners and Technical Occupations
+Dental Hygienists	63029.79005889571	15.582129456002953	Healthcare Practitioners and Technical Occupations
+Cardiovascular Technologists and Technicians	65300.82404017469	12.966528175519535	Healthcare Practitioners and Technical Occupations
+Diagnostic Medical Sonographers	74562.26131691242	15.179552875249495	Healthcare Practitioners and Technical Occupations
+Nuclear Medicine Technologists	66110.47393385768	15.21782389219188	Healthcare Practitioners and Technical Occupations
+Radiologic Technologists	nan	nan	Healthcare Practitioners and Technical Occupations
+Magnetic Resonance Imaging Technologists	68765.33816918326	14.720866319845296	Healthcare Practitioners and Technical Occupations
+Emergency Medical Technicians and Paramedics	58013.38826921263	12.212098908544418	Healthcare Practitioners and Technical Occupations
+Dietetic Technicians	33509.13878606536	12.312946541187271	Healthcare Practitioners and Technical Occupations
+Pharmacy Technicians	35933.72224042403	12.042925756789282	Healthcare Practitioners and Technical Occupations
+Psychiatric Technicians	40982.45471056667	12.8663753510148	Healthcare Practitioners and Technical Occupations
+Respiratory Therapy Technicians	51975.938696516205	13.741054587255139	Healthcare Practitioners and Technical Occupations
+Surgical Technologists	51563.681526955945	12.226606152810778	Healthcare Practitioners and Technical Occupations
+Veterinary Technologists and Technicians	37965.43723295367	13.152841757581474	Healthcare Practitioners and Technical Occupations
+Ophthalmic Medical Technicians	37791.46445247486	12.175188643188296	Healthcare Practitioners and Technical Occupations
+Licensed Practical and Licensed Vocational Nurses	46971.32314561252	12.902627513866069	Healthcare Practitioners and Technical Occupations
+Medical Records and Health Information Technicians	46594.17749875449	13.724887266436458	Healthcare Practitioners and Technical Occupations
+Opticians, Dispensing	36175.478664579365	14.90954608722998	Healthcare Practitioners and Technical Occupations
+Orthotists and Prosthetists	77733.84827274685	16.59270802699378	Healthcare Practitioners and Technical Occupations
+Hearing Aid Specialists	43542.35681924908	12.51749849622515	Healthcare Practitioners and Technical Occupations
+Health Technologists and Technicians, All Other	42528.579746938514	12.9313145323017	Healthcare Practitioners and Technical Occupations
+Occupational Health and Safety Specialists	69233.16109270338	15.294711384286993	Healthcare Practitioners and Technical Occupations
+Occupational Health and Safety Technicians	53783.75207401972	14.759183995525595	Healthcare Practitioners and Technical Occupations
+Athletic Trainers	50443.46492502873	15.158796782869148	Healthcare Practitioners and Technical Occupations
+Genetic Counselors	64669.396695060386	17.529623292005112	Healthcare Practitioners and Technical Occupations
+Healthcare Practitioners and Technical Workers, All Other	63169.35354820705	15.502455902915646	Healthcare Practitioners and Technical Occupations
+Home Health Aides	30937.00576257079	12.002103890117784	Healthcare Support Occupations
+Psychiatric Aides	38886.48379320597	12.310578103129112	Healthcare Support Occupations
+Nursing Assistants	35112.357530831556	12.000913279068458	Healthcare Support Occupations
+Orderlies	29897.467479698782	12.000286603006865	Healthcare Support Occupations
+Occupational Therapy Assistants	58963.75864706239	13.999569055789152	Healthcare Support Occupations
+Occupational Therapy Aides	30434.396138471966	12.000647383276794	Healthcare Support Occupations
+Physical Therapist Assistants	53513.703840540475	14.000231720407589	Healthcare Support Occupations
+Physical Therapist Aides	28707.646458593852	12.00046685340803	Healthcare Support Occupations
+Massage Therapists	59402.500318044564	12.131166845981689	Healthcare Support Occupations
+Dental Assistants	36284.03831292628	12.141273529243293	Healthcare Support Occupations
+Medical Assistants	35880.803949743895	12.164844042456327	Healthcare Support Occupations
+Medical Equipment Preparers	44573.49137309965	12.135556732038104	Healthcare Support Occupations
+Medical Transcriptionists	37434.23820980063	12.115921573369613	Healthcare Support Occupations
+Pharmacy Aides	32765.85518671313	12.001913795039636	Healthcare Support Occupations
+Veterinary Assistants and Laboratory Animal Caretakers	37361.720102256746	12.274977788106478	Healthcare Support Occupations
+Phlebotomists	34873.95796437074	12.015253022233127	Healthcare Support Occupations
+Healthcare Support Workers, All Other	41369.02213918914	12.794616792940062	Healthcare Support Occupations
+First-Line Supervisors of Correctional Officers	59111.9010376813	14.420620955707184	Protective Service Occupations
+First-Line Supervisors of Police and Detectives	75699.3661755079	14.005963979608797	Protective Service Occupations
+First-Line Supervisors of Fire Fighting and Prevention Workers	79095.53162672365	14.771135478632065	Protective Service Occupations
+First-Line Supervisors of Protective Service Workers, All Other	36666.8061341123	12.603929410628682	Protective Service Occupations
+Firefighters	48365.23462644038	12.292789737891825	Protective Service Occupations
+Fire Inspectors and Investigators	52604.2862067015	12.774902759547764	Protective Service Occupations
+Forest Fire Inspectors and Prevention Specialists	39825.4488402005	13.220456752007216	Protective Service Occupations
+Bailiffs	45678.76367540032	12.562667917014036	Protective Service Occupations
+Correctional Officers and Jailers	47129.39326959	12.451752674504734	Protective Service Occupations
+Detectives and Criminal Investigators	70758.01591911333	15.667025675352575	Protective Service Occupations
+Fish and Game Wardens	56101.44666283577	14.539551656837652	Protective Service Occupations
+Parking Enforcement Workers	37328.622282233235	12.460866131262838	Protective Service Occupations
+Police and Sheriff's Patrol Officers	51343.72203145554	12.451572066721392	Protective Service Occupations
+Transit and Railroad Police	62292.76786819632	12.737107865574693	Protective Service Occupations
+Animal Control Workers	44006.477934576134	13.015418355902197	Protective Service Occupations
+Private Detectives and Investigators	56929.62197058188	15.328888205413437	Protective Service Occupations
+Gaming Surveillance Officers and Gaming Investigators	43220.077149066	13.041429167684235	Protective Service Occupations
+Security Guards	30932.045893349725	12.216714109759323	Protective Service Occupations
+Crossing Guards	26539.754307011663	12.148985415291811	Protective Service Occupations
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	26617.949232900573	12.634843542102423	Protective Service Occupations
+Transportation Security Screeners	41904.193250932876	12.398189470525319	Protective Service Occupations
+Protective Service Workers, All Other	38423.961912515086	12.46276718923372	Protective Service Occupations
+Chefs and Head Cooks	51987.04951467223	13.891406915777699	Food Preparation and Serving Related Occupations
+First-Line Supervisors of Food Preparation and Serving Workers	41559.02378942447	13.227563456014748	Food Preparation and Serving Related Occupations
+Cooks, Fast Food	25923.872251164114	12.304250071746626	Food Preparation and Serving Related Occupations
+Cooks, Institution and Cafeteria	31050.195029247894	12.016609396133143	Food Preparation and Serving Related Occupations
+Cooks, Private Household	39167.20160466101	12.111688311688312	Food Preparation and Serving Related Occupations
+Cooks, Restaurant	26886.728737453108	12.17532442085734	Food Preparation and Serving Related Occupations
+Cooks, Short Order	25215.563561091556	12.122822691789123	Food Preparation and Serving Related Occupations
+Cooks, All Other	30000.0	nan	Food Preparation and Serving Related Occupations
+Food Preparation Workers	27954.85401170846	12.014250778719612	Food Preparation and Serving Related Occupations
+Bartenders	26638.31169148795	12.0029983476471	Food Preparation and Serving Related Occupations
+Combined Food Preparation and Serving Workers, Including Fast Food	30403.209134539273	12.004913436612249	Food Preparation and Serving Related Occupations
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	24081.639260779895	12.085825502911923	Food Preparation and Serving Related Occupations
+Waiters and Waitresses	27453.15811304757	12.004139442179087	Food Preparation and Serving Related Occupations
+Food Servers, Nonrestaurant	27962.158191629416	12.001230058217772	Food Preparation and Serving Related Occupations
+Dining Room and Cafeteria Attendants and Bartender Helpers	23333.40000397665	12.004235494041678	Food Preparation and Serving Related Occupations
+Dishwashers	23122.790275766256	12.010231105278336	Food Preparation and Serving Related Occupations
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	30450.366475156276	12.001754645942542	Food Preparation and Serving Related Occupations
+Food Preparation and Serving Related Workers, All Other	29976.622856125352	12.722436024021912	Food Preparation and Serving Related Occupations
+First-Line Supervisors of Housekeeping and Janitorial Workers	41851.443202441646	13.11661076519138	Building and Grounds Cleaning and Maintenance Occupations
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers	38372.69941132502	13.616987133668824	Building and Grounds Cleaning and Maintenance Occupations
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners	28761.641950655798	12.000449062831613	Building and Grounds Cleaning and Maintenance Occupations
+Maids and Housekeeping Cleaners	31525.336606227196	12.000516988492912	Building and Grounds Cleaning and Maintenance Occupations
+Building Cleaning Workers, All Other	37935.1754482791	12.894569856973245	Building and Grounds Cleaning and Maintenance Occupations
+Pest Control Workers	39704.71834875823	12.034184881478629	Building and Grounds Cleaning and Maintenance Occupations
+Landscaping and Groundskeeping Workers	30734.2810929196	12.075187514503567	Building and Grounds Cleaning and Maintenance Occupations
+Pesticide Handlers, Sprayers, and Applicators, Vegetation	35191.347512583634	12.02621998598152	Building and Grounds Cleaning and Maintenance Occupations
+Tree Trimmers and Pruners	38432.25715672292	12.044611681340383	Building and Grounds Cleaning and Maintenance Occupations
+Grounds Maintenance Workers, All Other	71813.73174294084	14.927431992824044	Building and Grounds Cleaning and Maintenance Occupations
+First-Line Supervisors of Gaming Workers	nan	nan	Personal Care and Service Occupations
+First-Line Supervisors of Personal Service Workers	44809.67543191405	13.267934898184281	Personal Care and Service Occupations
+Animal Trainers	43567.79540883046	12.759019009579058	Personal Care and Service Occupations
+Nonfarm Animal Caretakers	34390.30775719933	12.03605926668819	Personal Care and Service Occupations
+Gaming Dealers	41543.35508502186	12.01004842223632	Personal Care and Service Occupations
+Gaming and Sports Book Writers and Runners	33444.910575291105	12.184069058009573	Personal Care and Service Occupations
+Gaming Service Workers, All Other	32187.010102185435	12.582839537921018	Personal Care and Service Occupations
+Motion Picture Projectionists	41662.070070845024	12.644675596046067	Personal Care and Service Occupations
+Ushers, Lobby Attendants, and Ticket Takers	29587.58437571357	12.69566716988356	Personal Care and Service Occupations
+Amusement and Recreation Attendants	27460.62891914386	12.06271461230524	Personal Care and Service Occupations
+Costume Attendants	35085.679526005384	12.436043455462105	Personal Care and Service Occupations
+Locker Room, Coatroom, and Dressing Room Attendants	27716.106227113018	12.399020923984285	Personal Care and Service Occupations
+Entertainment Attendants and Related Workers, All Other	24960.0	12.0	Personal Care and Service Occupations
+Embalmers	51749.63875661376	13.273303089454146	Personal Care and Service Occupations
+Funeral Attendants	32698.50083863781	12.361520198906948	Personal Care and Service Occupations
+Morticians, Undertakers, and Funeral Directors	64199.93536935364	14.431542249709512	Personal Care and Service Occupations
+Barbers	48081.20260986916	12.817120689530734	Personal Care and Service Occupations
+Hairdressers, Hairstylists, and Cosmetologists	50836.11965915267	12.21807838531512	Personal Care and Service Occupations
+Makeup Artists, Theatrical and Performance	61107.29797996143	13.067054644984108	Personal Care and Service Occupations
+Manicurists and Pedicurists	52985.391382277056	12.048622076601925	Personal Care and Service Occupations
+Shampooers	33733.58576560315	12.876262626262626	Personal Care and Service Occupations
+Skincare Specialists	54048.40592636399	12.09958423551166	Personal Care and Service Occupations
+Baggage Porters and Bellhops	31647.304674737556	12.000170743159602	Personal Care and Service Occupations
+Concierges	31868.89694458851	12.437137291850267	Personal Care and Service Occupations
+Tour and Travel Guides	nan	nan	Personal Care and Service Occupations
+Childcare Workers	33887.62511092045	13.063491800318692	Personal Care and Service Occupations
+Personal Care Aides	31146.06333479921	12.347895566337826	Personal Care and Service Occupations
+Fitness Trainers and Aerobics Instructors	46158.24704014018	13.885278192111663	Personal Care and Service Occupations
+Recreation Workers	31674.474687682974	13.14344786129299	Personal Care and Service Occupations
+Residential Advisors	36565.9379320922	13.58289296289435	Personal Care and Service Occupations
+Personal Care and Service Workers, All Other	41491.751958004475	13.10977925940426	Personal Care and Service Occupations
+First-Line Supervisors of Retail Sales Workers	51954.7015144458	13.240303680220268	Sales and Related Occupations
+First-Line Supervisors of Non-Retail Sales Workers	67776.8513900544	13.907541587096858	Sales and Related Occupations
+Cashiers	27716.13387072213	12.002572838754801	Sales and Related Occupations
+Gaming Change Persons and Booth Cashiers	51390.002525000986	12.932854856791026	Sales and Related Occupations
+Counter and Rental Clerks	36967.855111644574	12.528613555335216	Sales and Related Occupations
+Parts Salespersons	34150.59705136475	12.253469111181913	Sales and Related Occupations
+Retail Salespersons	44260.045449119585	12.644592357389852	Sales and Related Occupations
+Advertising Sales Agents	78224.21112248916	14.88964348538583	Sales and Related Occupations
+Insurance Sales Agents	86381.46190055188	14.322735869980553	Sales and Related Occupations
+Securities, Commodities, and Financial Services Sales Agents	65940.65576757668	13.377755017451799	Sales and Related Occupations
+Travel Agents	48783.43785600009	12.823636128177393	Sales and Related Occupations
+Sales Representatives, Services, All Other	58889.81508028123	14.025648898391	Sales and Related Occupations
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	95011.61628032317	15.327692043092043	Sales and Related Occupations
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	73719.8926074928	14.542436529837516	Sales and Related Occupations
+Demonstrators and Product Promoters	37829.7554217256	12.35874498083041	Sales and Related Occupations
+Models	70729.74018617952	14.087120821272698	Sales and Related Occupations
+Real Estate Brokers	78009.00550474513	15.275911283395804	Sales and Related Occupations
+Real Estate Sales Agents	63734.27110943783	13.977449989672827	Sales and Related Occupations
+Sales Engineers	102237.0509243709	15.938794341647824	Sales and Related Occupations
+Telemarketers	44968.316334533	12.968889873252062	Sales and Related Occupations
+Door-to-Door Sales Workers, News and Street Vendors, and Related Workers	55557.53372673583	12.670943803609724	Sales and Related Occupations
+Sales and Related Workers, All Other	40024.53155069638	13.933282313012278	Sales and Related Occupations
+First-Line Supervisors of Office and Administrative Support Workers	55741.009930559856	14.70230784010749	Office and Administrative Support Occupations
+Switchboard Operators, Including Answering Service	30817.801867912232	12.0165560559354	Office and Administrative Support Occupations
+Telephone Operators	34383.67963253017	12.138019195756993	Office and Administrative Support Occupations
+Communications Equipment Operators, All Other	34699.68724361323	12.488808069002072	Office and Administrative Support Occupations
+Bill and Account Collectors	36188.009048751366	12.908909164561056	Office and Administrative Support Occupations
+Billing and Posting Clerks	37401.679619625305	13.27379318430447	Office and Administrative Support Occupations
+Bookkeeping, Accounting, and Auditing Clerks	37811.999364931755	13.822767965535283	Office and Administrative Support Occupations
+Gaming Cage Workers	27023.292134487427	12.027918149247613	Office and Administrative Support Occupations
+Payroll and Timekeeping Clerks	42695.260713583535	13.857071355684775	Office and Administrative Support Occupations
+Procurement Clerks	42435.38693034999	14.023612376884515	Office and Administrative Support Occupations
+Tellers	28472.44337971021	12.188668671121711	Office and Administrative Support Occupations
+Financial Clerks, All Other	29120.533333333333	14.0	Office and Administrative Support Occupations
+Brokerage Clerks	66119.5079001343	14.891785430478969	Office and Administrative Support Occupations
+Correspondence Clerks	50334.873385092265	13.0357764071533	Office and Administrative Support Occupations
+Court, Municipal, and License Clerks	43833.611407053824	13.136703754590094	Office and Administrative Support Occupations
+Credit Authorizers, Checkers, and Clerks	49019.33145078919	14.564640590178932	Office and Administrative Support Occupations
+Customer Service Representatives	33905.58097609083	12.755071064585856	Office and Administrative Support Occupations
+Eligibility Interviewers, Government Programs	43089.49846355132	13.968899557995574	Office and Administrative Support Occupations
+File Clerks	30923.63359689765	12.120971396420279	Office and Administrative Support Occupations
+Hotel, Motel, and Resort Desk Clerks	26821.006804110573	12.250021347377205	Office and Administrative Support Occupations
+Interviewers, Except Eligibility and Loan	44188.842081330346	14.123620500447547	Office and Administrative Support Occupations
+Library Assistants, Clerical	33454.04166347427	13.168525726882859	Office and Administrative Support Occupations
+Loan Interviewers and Clerks	40791.97463249814	13.087713440404325	Office and Administrative Support Occupations
+New Accounts Clerks	48950.30195579109	13.200954263634458	Office and Administrative Support Occupations
+Order Clerks	30148.357397531494	12.571415321370473	Office and Administrative Support Occupations
+Human Resources Assistants, Except Payroll and Timekeeping	38710.87153207852	13.535968729650548	Office and Administrative Support Occupations
+Receptionists and Information Clerks	30201.0773524181	12.399756534752019	Office and Administrative Support Occupations
+Reservation and Transportation Ticket Agents and Travel Clerks	30993.948026388574	12.535890128611761	Office and Administrative Support Occupations
+Information and Record Clerks, All Other	35969.76062980954	13.152042736642422	Office and Administrative Support Occupations
+Cargo and Freight Agents	45841.09963928675	13.443040792571455	Office and Administrative Support Occupations
+Couriers and Messengers	41374.952897852214	12.000761741283481	Office and Administrative Support Occupations
+Police, Fire, and Ambulance Dispatchers	42025.623752640684	12.611926337695067	Office and Administrative Support Occupations
+Dispatchers, Except Police, Fire, and Ambulance	35225.96734057848	12.546253284665177	Office and Administrative Support Occupations
+Meter Readers, Utilities	34537.43597175365	12.109520584242437	Office and Administrative Support Occupations
+Postal Service Clerks	38482.486536501296	12.319542289527403	Office and Administrative Support Occupations
+Postal Service Mail Carriers	46711.76134487188	12.71660706347403	Office and Administrative Support Occupations
+Postal Service Mail Sorters, Processors, and Processing Machine Operators	33093.585272053475	12.433868549035868	Office and Administrative Support Occupations
+Production, Planning, and Expediting Clerks	44275.005065463105	13.75678370089396	Office and Administrative Support Occupations
+Shipping, Receiving, and Traffic Clerks	30035.687157129694	12.287431922720446	Office and Administrative Support Occupations
+Stock Clerks and Order Fillers	28322.0667099067	12.27331840094357	Office and Administrative Support Occupations
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping	40924.617357166884	13.167406203944187	Office and Administrative Support Occupations
+Executive Secretaries and Executive Administrative Assistants	51622.247242742465	14.452932226778273	Office and Administrative Support Occupations
+Legal Secretaries	44102.26268800159	13.440529156848648	Office and Administrative Support Occupations
+Medical Secretaries	33275.66312979979	12.469595336798172	Office and Administrative Support Occupations
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	36426.48379067354	13.15719448298308	Office and Administrative Support Occupations
+Computer Operators	41840.23918863138	13.03663448068427	Office and Administrative Support Occupations
+Data Entry Keyers	30951.922968984916	12.489194447128243	Office and Administrative Support Occupations
+Word Processors and Typists	37639.78831188672	12.68944428446827	Office and Administrative Support Occupations
+Desktop Publishers	48916.97563153281	14.572602879728445	Office and Administrative Support Occupations
+Insurance Claims and Policy Processing Clerks	39340.863114848165	13.59294433688847	Office and Administrative Support Occupations
+Mail Clerks and Mail Machine Operators, Except Postal Service	30286.072107803207	12.210204235548986	Office and Administrative Support Occupations
+Office Clerks, General	30697.963144464193	12.774593988266712	Office and Administrative Support Occupations
+Office Machine Operators, Except Computer	30172.886399364274	12.05687161468815	Office and Administrative Support Occupations
+Proofreaders and Copy Markers	42725.5331393305	14.985203181740234	Office and Administrative Support Occupations
+Statistical Assistants	37803.21746053376	13.55479354290543	Office and Administrative Support Occupations
+Office and Administrative Support Workers, All Other	43653.96533173353	13.577532118486538	Office and Administrative Support Occupations
+First-Line Supervisors of Farming, Fishing, and Forestry Workers	41759.587815096456	14.250250294841805	Farming, Fishing, and Forestry Occupations
+Agricultural Inspectors	45010.616813820925	14.894041808601852	Farming, Fishing, and Forestry Occupations
+Animal Breeders	57170.90595182856	14.264956741625655	Farming, Fishing, and Forestry Occupations
+Graders and Sorters, Agricultural Products	40224.842462849585	14.108760935276843	Farming, Fishing, and Forestry Occupations
+Agricultural Equipment Operators	32487.926177590703	12.478419736041012	Farming, Fishing, and Forestry Occupations
+Farmworkers and Laborers, Crop, Nursery, and Greenhouse	28661.93207508474	12.344744997842362	Farming, Fishing, and Forestry Occupations
+Farmworkers, Farm, Ranch, and Aquacultural Animals	42415.072112300055	12.096659177450439	Farming, Fishing, and Forestry Occupations
+Agricultural Workers, All Other	37302.66372943456	12.493791074680594	Farming, Fishing, and Forestry Occupations
+Forest and Conservation Workers	40562.76018867045	13.441185144233083	Farming, Fishing, and Forestry Occupations
+Fallers	45486.57001069726	15.133745603247048	Farming, Fishing, and Forestry Occupations
+Logging Equipment Operators	39185.44624004477	12.657950124333464	Farming, Fishing, and Forestry Occupations
+Log Graders and Scalers	36639.85514135326	13.844040384691755	Farming, Fishing, and Forestry Occupations
+Logging Workers, All Other	39186.929194369666	13.042485755469482	Farming, Fishing, and Forestry Occupations
+First-Line Supervisors of Construction Trades and Extraction Workers	61608.52992644151	13.84017600860529	Construction and Extraction Occupations
+Boilermakers	56477.56281006382	12.12502173931599	Construction and Extraction Occupations
+Brickmasons and Blockmasons	43079.036465049576	12.005919827501716	Construction and Extraction Occupations
+Stonemasons	47524.09053925751	12.427513882372462	Construction and Extraction Occupations
+Carpenters	40276.40400963091	12.001623416014674	Construction and Extraction Occupations
+Carpet Installers	38369.749629425285	12.0	Construction and Extraction Occupations
+Floor Layers, Except Carpet, Wood, and Hard Tiles	40746.64834119557	12.0	Construction and Extraction Occupations
+Floor Sanders and Finishers	32439.60719155844	12.044720156294975	Construction and Extraction Occupations
+Tile and Marble Setters	41176.72120266468	12.0	Construction and Extraction Occupations
+Cement Masons and Concrete Finishers	37267.32262146179	12.0	Construction and Extraction Occupations
+Terrazzo Workers and Finishers	41642.85160579055	13.492798938186922	Construction and Extraction Occupations
+Construction Laborers	36376.814936350245	12.001448070235845	Construction and Extraction Occupations
+Paving, Surfacing, and Tamping Equipment Operators	43737.68265117876	12.183194345327783	Construction and Extraction Occupations
+Pile-Driver Operators	60240.55555555556	13.05	Construction and Extraction Occupations
+Operating Engineers and Other Construction Equipment Operators	43621.274123362666	12.031555110027474	Construction and Extraction Occupations
+Drywall and Ceiling Tile Installers	38234.09904598993	12.0	Construction and Extraction Occupations
+Tapers	34849.78114478115	15.042460317460318	Construction and Extraction Occupations
+Electricians	53435.75470388895	12.212000584312255	Construction and Extraction Occupations
+Glaziers	43466.037742063694	12.0	Construction and Extraction Occupations
+Insulation Workers, Floor, Ceiling, and Wall	39339.66394970454	12.00326797385621	Construction and Extraction Occupations
+Insulation Workers, Mechanical	44166.917631020726	12.180351175541961	Construction and Extraction Occupations
+Painters, Construction and Maintenance	35268.66673634021	12.000806168797068	Construction and Extraction Occupations
+Paperhangers	37609.524990414844	12.87101343101343	Construction and Extraction Occupations
+Pipelayers	36998.906054346975	12.024356771383513	Construction and Extraction Occupations
+Plumbers, Pipefitters, and Steamfitters	52841.41685026955	12.033568738506979	Construction and Extraction Occupations
+Plasterers and Stucco Masons	47102.022486723756	12.0	Construction and Extraction Occupations
+Reinforcing Iron and Rebar Workers	51419.89940611782	12.667249392249392	Construction and Extraction Occupations
+Roofers	42309.99274797849	12.00074074074074	Construction and Extraction Occupations
+Sheet Metal Workers	43478.72456139063	12.054510736993697	Construction and Extraction Occupations
+Structural Iron and Steel Workers	47825.53918185775	12.009586833441029	Construction and Extraction Occupations
+Solar Photovoltaic Installers	40758.18264163396	12.481520057719926	Construction and Extraction Occupations
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	38541.12768354722	12.842847144803665	Construction and Extraction Occupations
+Helpers--Carpenters	29908.568706751063	12.379992105863694	Construction and Extraction Occupations
+Helpers--Electricians	32978.40320493619	12.046866396338201	Construction and Extraction Occupations
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons	35316.57869685043	12.214583333333334	Construction and Extraction Occupations
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	32837.22267334223	12.03704980887603	Construction and Extraction Occupations
+Helpers--Roofers	33311.80952380953	12.0	Construction and Extraction Occupations
+Helpers, Construction Trades, All Other	40640.82482370525	12.0	Construction and Extraction Occupations
+Construction and Building Inspectors	52700.228383107926	12.847974473335334	Construction and Extraction Occupations
+Elevator Installers and Repairers	61806.18019798336	12.675575432119622	Construction and Extraction Occupations
+Fence Erectors	33117.472982652005	12.315647996201891	Construction and Extraction Occupations
+Hazardous Materials Removal Workers	46902.007139411864	13.441222324066318	Construction and Extraction Occupations
+Highway Maintenance Workers	36274.92515985139	12.050161295138265	Construction and Extraction Occupations
+Rail-Track Laying and Maintenance Equipment Operators	45838.25041645007	12.057345117884552	Construction and Extraction Occupations
+Septic Tank Servicers and Sewer Pipe Cleaners	37989.1207883513	12.36755094406033	Construction and Extraction Occupations
+Miscellaneous Construction and Related Workers	nan	nan	Construction and Extraction Occupations
+Derrick Operators, Oil and Gas	44351.00018130018	12.5625	Construction and Extraction Occupations
+Rotary Drill Operators, Oil and Gas	68396.68798675988	12.099610386067205	Construction and Extraction Occupations
+Service Unit Operators, Oil, Gas, and Mining	52152.281414693294	12.26375053007767	Construction and Extraction Occupations
+Earth Drillers, Except Oil and Gas	49612.60372009949	12.649750156110205	Construction and Extraction Occupations
+Explosives Workers, Ordnance Handling Experts, and Blasters	48472.4455668487	12.750012318375884	Construction and Extraction Occupations
+Continuous Mining Machine Operators	46103.49555349123	13.40856330633971	Construction and Extraction Occupations
+Mine Cutting and Channeling Machine Operators	51378.59958832117	12.0	Construction and Extraction Occupations
+Mining Machine Operators, All Other	53282.01644549078	14.018028036253009	Construction and Extraction Occupations
+Rock Splitters, Quarry	55419.04874658088	12.0	Construction and Extraction Occupations
+Roof Bolters, Mining	62834.39056437389	13.438746438746438	Construction and Extraction Occupations
+Roustabouts, Oil and Gas	48914.956870579816	13.051763554495517	Construction and Extraction Occupations
+Helpers--Extraction Workers	40055.173337274915	12.944049413663533	Construction and Extraction Occupations
+Extraction Workers, All Other	48511.54395399847	12.696417772189049	Construction and Extraction Occupations
+First-Line Supervisors of Mechanics, Installers, and Repairers	61108.39928864952	13.746165564822592	Installation, Maintenance, and Repair Occupations
+Computer, Automated Teller, and Office Machine Repairers	46392.66376068793	13.143021539255093	Installation, Maintenance, and Repair Occupations
+Radio, Cellular, and Tower Equipment Installers and Repairers	nan	nan	Installation, Maintenance, and Repair Occupations
+Telecommunications Equipment Installers and Repairers, Except Line Installers	48068.97123190882	12.192351055649722	Installation, Maintenance, and Repair Occupations
+Avionics Technicians	51094.49121314265	12.882331086702699	Installation, Maintenance, and Repair Occupations
+Electric Motor, Power Tool, and Related Repairers	46584.66772732186	12.78401930839348	Installation, Maintenance, and Repair Occupations
+Electrical and Electronics Installers and Repairers, Transportation Equipment	41423.680408778106	13.565887300335866	Installation, Maintenance, and Repair Occupations
+Electrical and Electronics Repairers, Commercial and Industrial Equipment	64348.863218675986	13.523137219167815	Installation, Maintenance, and Repair Occupations
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	72019.15874577424	13.49263809709668	Installation, Maintenance, and Repair Occupations
+Electronic Equipment Installers and Repairers, Motor Vehicles	46488.81342876746	12.056105865948979	Installation, Maintenance, and Repair Occupations
+Electronic Home Entertainment Equipment Installers and Repairers	44382.19497999311	12.01790383148768	Installation, Maintenance, and Repair Occupations
+Security and Fire Alarm Systems Installers	48271.031127097456	12.16313142369569	Installation, Maintenance, and Repair Occupations
+Aircraft Mechanics and Service Technicians	57871.350210378245	12.050166714798838	Installation, Maintenance, and Repair Occupations
+Automotive Body and Related Repairers	39088.11930305645	12.003469235847767	Installation, Maintenance, and Repair Occupations
+Automotive Glass Installers and Repairers	44843.34469393817	12.001238006809038	Installation, Maintenance, and Repair Occupations
+Automotive Service Technicians and Mechanics	43141.02809136834	12.093217887271196	Installation, Maintenance, and Repair Occupations
+Bus and Truck Mechanics and Diesel Engine Specialists	47343.18068773314	12.065719699463093	Installation, Maintenance, and Repair Occupations
+Farm Equipment Mechanics and Service Technicians	42465.41719995496	12.420920990396642	Installation, Maintenance, and Repair Occupations
+Mobile Heavy Equipment Mechanics, Except Engines	49862.708566906564	12.077296881759448	Installation, Maintenance, and Repair Occupations
+Rail Car Repairers	56126.37366680482	12.35942605169178	Installation, Maintenance, and Repair Occupations
+Motorboat Mechanics and Service Technicians	50120.3343839135	12.517032068241114	Installation, Maintenance, and Repair Occupations
+Motorcycle Mechanics	41710.51098869276	13.107683683816724	Installation, Maintenance, and Repair Occupations
+Outdoor Power Equipment and Other Small Engine Mechanics	33889.774425387965	12.048486721043519	Installation, Maintenance, and Repair Occupations
+Bicycle Repairers	39052.48202631651	12.017629324488885	Installation, Maintenance, and Repair Occupations
+Recreational Vehicle Service Technicians	42316.40329403464	12.37978358176667	Installation, Maintenance, and Repair Occupations
+Tire Repairers and Changers	28112.32725102155	12.000977612065768	Installation, Maintenance, and Repair Occupations
+Mechanical Door Repairers	43167.24803085397	12.545087679858046	Installation, Maintenance, and Repair Occupations
+Control and Valve Installers and Repairers, Except Mechanical Door	53824.60722106705	12.652023462649673	Installation, Maintenance, and Repair Occupations
+Heating, Air Conditioning, and Refrigeration Mechanics and Installers	50343.93244538244	12.169535610073869	Installation, Maintenance, and Repair Occupations
+Home Appliance Repairers	48984.80032270463	12.045861895114458	Installation, Maintenance, and Repair Occupations
+Industrial Machinery Mechanics	45849.65294470234	12.137590682708346	Installation, Maintenance, and Repair Occupations
+Maintenance Workers, Machinery	49007.02299120896	12.910417805649102	Installation, Maintenance, and Repair Occupations
+Millwrights	49977.71378588829	12.097593509760706	Installation, Maintenance, and Repair Occupations
+Refractory Materials Repairers, Except Brickmasons	33981.80252525252	12.757723577235772	Installation, Maintenance, and Repair Occupations
+Electrical Power-Line Installers and Repairers	36018.18756357021	12.027869976489269	Installation, Maintenance, and Repair Occupations
+Telecommunications Line Installers and Repairers	46701.69915515646	12.148135014625161	Installation, Maintenance, and Repair Occupations
+Camera and Photographic Equipment Repairers	45943.88726465257	13.573449290056594	Installation, Maintenance, and Repair Occupations
+Medical Equipment Repairers	48997.311260715505	12.799787465020646	Installation, Maintenance, and Repair Occupations
+Musical Instrument Repairers and Tuners	50935.45383742476	13.841410514086883	Installation, Maintenance, and Repair Occupations
+Watch Repairers	29586.666930457126	13.054431347915685	Installation, Maintenance, and Repair Occupations
+Precision Instrument and Equipment Repairers, All Other	54824.0142559526	12.918957540752654	Installation, Maintenance, and Repair Occupations
+Maintenance and Repair Workers, General	41775.54243059632	12.23667062306143	Installation, Maintenance, and Repair Occupations
+Wind Turbine Service Technicians	50035.244030086236	12.597370592279029	Installation, Maintenance, and Repair Occupations
+Coin, Vending, and Amusement Machine Servicers and Repairers	42120.35599438471	12.380856453466883	Installation, Maintenance, and Repair Occupations
+Commercial Divers	50468.48810972314	13.455620283306658	Installation, Maintenance, and Repair Occupations
+Fabric Menders, Except Garment	23139.795555555556	12.362408424908425	Installation, Maintenance, and Repair Occupations
+Locksmiths and Safe Repairers	45335.00506378045	12.05279961048943	Installation, Maintenance, and Repair Occupations
+Manufactured Building and Mobile Home Installers	46812.999845532264	13.156789255676053	Installation, Maintenance, and Repair Occupations
+Riggers	50606.45512710512	12.0	Installation, Maintenance, and Repair Occupations
+Signal and Track Switch Repairers	49949.21171418955	12.600284449237067	Installation, Maintenance, and Repair Occupations
+Helpers--Installation, Maintenance, and Repair Workers	33338.75560148009	12.04325632641147	Installation, Maintenance, and Repair Occupations
+Installation, Maintenance, and Repair Workers, All Other	42961.33347761602	12.13051201844885	Installation, Maintenance, and Repair Occupations
+First-Line Supervisors of Production and Operating Workers	56316.49485433917	14.263321028231168	Production Occupations
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	29954.0100408443	12.129851453866317	Production Occupations
+Coil Winders, Tapers, and Finishers	41707.99693746226	12.271137054880898	Production Occupations
+Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers	nan	nan	Production Occupations
+Engine and Other Machine Assemblers	43431.503661871204	12.694990185594248	Production Occupations
+Structural Metal Fabricators and Fitters	40644.75549278527	12.307329509499402	Production Occupations
+Fiberglass Laminators and Fabricators	31063.424734121927	12.173369237922268	Production Occupations
+Timing Device Assemblers and Adjusters	59208.02877539127	15.322437336326225	Production Occupations
+Assemblers and Fabricators, All Other, Including Team Assemblers	nan	nan	Production Occupations
+Bakers	28595.779304614363	12.196492557386298	Production Occupations
+Butchers and Meat Cutters	29008.76060106048	12.00602934826141	Production Occupations
+Meat, Poultry, and Fish Cutters and Trimmers	33596.61761486974	13.38616867534325	Production Occupations
+Slaughterers and Meat Packers	27603.669120951978	12.0	Production Occupations
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	39922.42473962295	12.0	Production Occupations
+Food Batchmakers	27102.156941541914	12.039072416771926	Production Occupations
+Food Cooking Machine Operators and Tenders	28231.251913251133	12.014461786200917	Production Occupations
+Food Processing Workers, All Other	20886.185185185186	12.0	Production Occupations
+Computer-Controlled Machine Tool Operators, Metal and Plastic	35750.826716122436	12.300047469897045	Production Occupations
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic	51856.23742572042	13.106540078178956	Production Occupations
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	30122.116281280894	12.194613808328121	Production Occupations
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic	39274.43883547027	12.497435803849394	Production Occupations
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic	33411.50388522321	12.268450130864043	Production Occupations
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	31318.184330537133	12.001235888136163	Production Occupations
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic	42016.35001724536	12.461714911208041	Production Occupations
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	31003.96329431915	12.001753232522463	Production Occupations
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	35221.313036710926	12.576205591769225	Production Occupations
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic	35043.42146070978	12.211164558421745	Production Occupations
+Machinists	41726.41916697967	12.263717779755272	Production Occupations
+Metal-Refining Furnace Operators and Tenders	36805.22813830167	12.534568648951021	Production Occupations
+Pourers and Casters, Metal	29081.21233412447	12.176255126128037	Production Occupations
+Model Makers, Metal and Plastic	41947.827897001625	12.663191850787321	Production Occupations
+Patternmakers, Metal and Plastic	53479.46009250252	14.532423074371403	Production Occupations
+Foundry Mold and Coremakers	34279.35446384465	13.372471531979464	Production Occupations
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	33018.04602001144	12.26072901126091	Production Occupations
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	35586.136369680506	12.921999647187082	Production Occupations
+Tool and Die Makers	46612.73699917366	12.467259953007265	Production Occupations
+Welders, Cutters, Solderers, and Brazers	38077.8628449271	12.238234263482276	Production Occupations
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	32320.259688716596	12.36224685532879	Production Occupations
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic	33841.7430945755	12.279551333949863	Production Occupations
+Layout Workers, Metal and Plastic	51675.778369100066	12.443515499080219	Production Occupations
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	35289.9336462556	12.49199466276848	Production Occupations
+Tool Grinders, Filers, and Sharpeners	40720.352032866576	12.3601538065135	Production Occupations
+Metal Workers and Plastic Workers, All Other	36675.67045194922	12.623420464596954	Production Occupations
+Prepress Technicians and Workers	43583.2729238881	12.236424202061123	Production Occupations
+Printing Press Operators	33718.2704141769	12.504099011574574	Production Occupations
+Print Binding and Finishing Workers	31595.34904831419	12.261255496721104	Production Occupations
+Laundry and Dry-Cleaning Workers	25239.002176394955	12.107556232075886	Production Occupations
+Pressers, Textile, Garment, and Related Materials	25997.093050190804	12.421740212416706	Production Occupations
+Sewing Machine Operators	25799.196525293497	12.235510700745039	Production Occupations
+Shoe and Leather Workers and Repairers	41462.32722563699	12.31060815745973	Production Occupations
+Shoe Machine Operators and Tenders	34508.21336140841	13.106569529553374	Production Occupations
+Sewers, Hand	30674.29308504227	12.38141428288487	Production Occupations
+Tailors, Dressmakers, and Custom Sewers	33604.28374962779	12.245663872596246	Production Occupations
+Textile Bleaching and Dyeing Machine Operators and Tenders	37314.840844208935	13.07902579455302	Production Occupations
+Textile Cutting Machine Setters, Operators, and Tenders	32158.785860516247	12.124631336316531	Production Occupations
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders	28132.937483886595	12.43452304345241	Production Occupations
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders	32984.166096161556	12.731113211508092	Production Occupations
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers	31374.14232917699	12.142610930479561	Production Occupations
+Fabric and Apparel Patternmakers	44190.00731047654	13.744194994845156	Production Occupations
+Upholsterers	36591.82009864553	12.229352897992117	Production Occupations
+Textile, Apparel, and Furnishings Workers, All Other	36629.74794211771	12.716744324363326	Production Occupations
+Cabinetmakers and Bench Carpenters	36833.77453965259	12.50708184005935	Production Occupations
+Furniture Finishers	37214.529996081685	12.10909014390729	Production Occupations
+Model Makers, Wood	40476.70518518519	12.971428571428572	Production Occupations
+Patternmakers, Wood	49638.225	13.576923076923077	Production Occupations
+Sawing Machine Setters, Operators, and Tenders, Wood	34791.52941592206	12.369799675122808	Production Occupations
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing	36243.84850502512	12.417459556779585	Production Occupations
+Woodworkers, All Other	32456.686824167948	12.279445762599154	Production Occupations
+Nuclear Power Reactor Operators	64031.03445505718	13.358413503070572	Production Occupations
+Power Distributors and Dispatchers	50528.74269886237	12.418393421752846	Production Occupations
+Power Plant Operators	47612.46886109452	12.316250422217063	Production Occupations
+Stationary Engineers and Boiler Operators	54756.81277464208	12.367654268513276	Production Occupations
+Water and Wastewater Treatment Plant and System Operators	48208.59085612333	12.535002409852753	Production Occupations
+Chemical Plant and System Operators	51107.13540448343	13.941627479425424	Production Occupations
+Gas Plant Operators	51255.94312620675	13.664681329740196	Production Occupations
+Petroleum Pump System Operators, Refinery Operators, and Gaugers	48877.750360782775	12.629871415119078	Production Occupations
+Plant and System Operators, All Other	46600.796874061765	12.858170997170554	Production Occupations
+Chemical Equipment Operators and Tenders	38556.60889031406	12.526786211259227	Production Occupations
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	37353.75095132556	12.513289532023025	Production Occupations
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	33065.87047087266	12.338982365783275	Production Occupations
+Grinding and Polishing Workers, Hand	28131.955643579764	12.102762578915925	Production Occupations
+Mixing and Blending Machine Setters, Operators, and Tenders	34715.42641887963	12.561717645167581	Production Occupations
+Cutters and Trimmers, Hand	26840.96286561672	12.20132929307165	Production Occupations
+Cutting and Slicing Machine Setters, Operators, and Tenders	29614.6264261925	12.239028845950617	Production Occupations
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	33677.799986825106	12.310203606941114	Production Occupations
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	33242.701509622704	12.32237091771359	Production Occupations
+Inspectors, Testers, Sorters, Samplers, and Weighers	40503.32361204643	13.24816206885762	Production Occupations
+Jewelers and Precious Stone and Metal Workers	49164.93595593523	13.155986101637426	Production Occupations
+Dental Laboratory Technicians	47261.6763602675	12.64889285405851	Production Occupations
+Medical Appliance Technicians	29808.949769296683	12.025145069400704	Production Occupations
+Ophthalmic Laboratory Technicians	37725.425622024406	13.845433118121646	Production Occupations
+Packaging and Filling Machine Operators and Tenders	30889.91165560936	12.65026314247124	Production Occupations
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	31631.455294818592	12.204470178577907	Production Occupations
+Painters, Transportation Equipment	36859.38480319218	12.227724874335758	Production Occupations
+Painting, Coating, and Decorating Workers	33085.80973840853	12.537464795087015	Production Occupations
+Semiconductor Processors	42977.715010059415	13.31312733416172	Production Occupations
+Photographic Process Workers and Processing Machine Operators	46482.65391251469	13.53406084612622	Production Occupations
+Adhesive Bonding Machine Operators and Tenders	34580.117482189045	12.584713431523108	Production Occupations
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders	30789.830631295375	12.217861056669712	Production Occupations
+Cooling and Freezing Equipment Operators and Tenders	40018.81841934661	12.546760039405575	Production Occupations
+Etchers and Engravers	42072.97827413458	12.284818045704357	Production Occupations
+Molders, Shapers, and Casters, Except Metal and Plastic	37445.40320065785	12.463333917376133	Production Occupations
+Paper Goods Machine Setters, Operators, and Tenders	54768.649788594834	12.590318803004614	Production Occupations
+Tire Builders	42148.90050722246	13.004750057692254	Production Occupations
+Helpers--Production Workers	29533.1147203094	12.516285043372982	Production Occupations
+Production Workers, All Other	29905.39118656512	12.343303676692702	Production Occupations
+Aircraft Cargo Handling Supervisors	47813.21073036796	13.054874862253122	Transportation and Material Moving Occupations
+First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors	nan	nan	Transportation and Material Moving Occupations
+Airline Pilots, Copilots, and Flight Engineers	75246.63142304197	14.636998068855661	Transportation and Material Moving Occupations
+Commercial Pilots	74585.23400292062	14.21707486904148	Transportation and Material Moving Occupations
+Air Traffic Controllers	91403.12830306619	14.2104997738195	Transportation and Material Moving Occupations
+Airfield Operations Specialists	58719.09019983393	13.936673636079798	Transportation and Material Moving Occupations
+Flight Attendants	53797.67633779466	12.21294596745608	Transportation and Material Moving Occupations
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians	39498.729631917005	12.0	Transportation and Material Moving Occupations
+Bus Drivers, Transit and Intercity	nan	nan	Transportation and Material Moving Occupations
+Bus Drivers, School or Special Client	nan	nan	Transportation and Material Moving Occupations
+Driver/Sales Workers	37680.214624136126	12.001229323963505	Transportation and Material Moving Occupations
+Heavy and Tractor-Trailer Truck Drivers	67920.0755132294	12.000894085540374	Transportation and Material Moving Occupations
+Light Truck or Delivery Services Drivers	43072.133999907426	12.0004566210255	Transportation and Material Moving Occupations
+Taxi Drivers and Chauffeurs	33986.88583633884	12.000520025551575	Transportation and Material Moving Occupations
+Motor Vehicle Operators, All Other	37694.472974661825	12.167124811202902	Transportation and Material Moving Occupations
+Locomotive Engineers	51437.829620904544	12.395065575003025	Transportation and Material Moving Occupations
+Locomotive Firers	43422.09677018634	12.133838383838384	Transportation and Material Moving Occupations
+Rail Yard Engineers, Dinkey Operators, and Hostlers	31097.344313284117	12.198266743003586	Transportation and Material Moving Occupations
+Railroad Brake, Signal, and Switch Operators	49711.85192313557	12.719689724028857	Transportation and Material Moving Occupations
+Railroad Conductors and Yardmasters	76149.86482193258	12.214319788743985	Transportation and Material Moving Occupations
+Subway and Streetcar Operators	39708.77948052215	12.740557563850462	Transportation and Material Moving Occupations
+Rail Transportation Workers, All Other	50241.10608124153	13.86798007882365	Transportation and Material Moving Occupations
+Sailors and Marine Oilers	42139.0139949903	12.990921238501992	Transportation and Material Moving Occupations
+Captains, Mates, and Pilots of Water Vessels	62155.97852055309	13.858674213469447	Transportation and Material Moving Occupations
+Motorboat Operators	59779.34659685086	14.895653516343174	Transportation and Material Moving Occupations
+Ship Engineers	62106.986739766086	14.282652440299017	Transportation and Material Moving Occupations
+Bridge and Lock Tenders	46865.39712441126	12.53109696002939	Transportation and Material Moving Occupations
+Parking Lot Attendants	24766.7180504217	12.108943656374006	Transportation and Material Moving Occupations
+Automotive and Watercraft Service Attendants	32444.173555204838	12.164884550962803	Transportation and Material Moving Occupations
+Traffic Technicians	37319.110054224235	12.861715471253381	Transportation and Material Moving Occupations
+Transportation Inspectors	64988.53355629248	12.557266832745059	Transportation and Material Moving Occupations
+Transportation Attendants, Except Flight Attendants	nan	nan	Transportation and Material Moving Occupations
+Transportation Workers, All Other	46942.73024759191	13.613335393457106	Transportation and Material Moving Occupations
+Conveyor Operators and Tenders	33848.95636757975	12.194996228588735	Transportation and Material Moving Occupations
+Crane and Tower Operators	42048.48211495209	12.382618266831567	Transportation and Material Moving Occupations
+Dredge Operators	56596.280952380956	14.833333333333334	Transportation and Material Moving Occupations
+Excavating and Loading Machine and Dragline Operators	42447.65761362153	12.797220608169821	Transportation and Material Moving Occupations
+Loading Machine Operators, Underground Mining	35676.29282121587	12.696756309118697	Transportation and Material Moving Occupations
+Hoist and Winch Operators	36223.491990565206	12.326104527280997	Transportation and Material Moving Occupations
+Industrial Truck and Tractor Operators	27376.52780925772	12.074276675102848	Transportation and Material Moving Occupations
+Cleaners of Vehicles and Equipment	27919.523102675164	12.318137115402221	Transportation and Material Moving Occupations
+Laborers and Freight, Stock, and Material Movers, Hand	27294.737118402874	12.129057082911183	Transportation and Material Moving Occupations
+Machine Feeders and Offbearers	34259.625172669876	13.352365465268436	Transportation and Material Moving Occupations
+Packers and Packagers, Hand	24572.7856486897	12.101533937763811	Transportation and Material Moving Occupations
+Gas Compressor and Gas Pumping Station Operators	59000.96146741688	12.672163506189483	Transportation and Material Moving Occupations
+Pump Operators, Except Wellhead Pumpers	39300.02004066472	12.250573035965223	Transportation and Material Moving Occupations
+Wellhead Pumpers	43298.44776942938	12.588420835237558	Transportation and Material Moving Occupations
+Refuse and Recyclable Material Collectors	27821.257492532037	12.075964007074221	Transportation and Material Moving Occupations
+Mine Shuttle Car Operators	36091.360250595324	12.769848178867699	Transportation and Material Moving Occupations
+Tank Car, Truck, and Ship Loaders	35252.04800802255	12.188584313484604	Transportation and Material Moving Occupations
+Material Moving Workers, All Other	35017.26401958804	12.806924146752554	Transportation and Material Moving Occupations
+Adult Basic and Secondary Education and Literacy Teachers and Instructors 	54098.05938515416	16.180345739804054	Education, Training, and Library Occupations
+Assemblers and Fabricators, All Other	33858.602476372296	12.67031716868189	Production Occupations
+Bus Drivers, School or Special Client 	34659.32101556428	12.003119192372822	Transportation and Material Moving Occupations
+Bus Drivers, Transit and Intercity 	34441.96981406531	12.0	Transportation and Material Moving Occupations
+Buyers and Purchasing Agents, Farm Products	62639.763438275164	14.81276422400666	Business and Financial Operations Occupations
+Construction and Related Workers, All Other	38123.17108678893	12.382375903170061	Construction and Extraction Occupations
+Electrical and Electronic Equipment Assemblers	30075.23902714528	12.001178801304052	Production Occupations
+Electromechanical Equipment Assemblers	39689.80224892402	12.524138846744266	Production Occupations
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	38444.48245856039	13.042475967614628	Transportation and Material Moving Occupations
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	50295.71576948579	13.418658318126035	Transportation and Material Moving Occupations
+Fishers and Related Fishing Workers	51204.710234224425	13.706458673669163	Farming, Fishing, and Forestry Occupations
+Gaming Supervisors	42872.99677680299	13.274518048459505	Personal Care and Service Occupations
+Health Educators 	62874.79455146162	16.061626932131784	Community and Social Service Occupations
+Hunters and Trappers	59606.254460419965	14.607000919074165	Farming, Fishing, and Forestry Occupations
+Mathematical Science Occupations, All Other	84359.45351473925	16.67295316029493	Computer and Mathematical Occupations
+Medical and Clinical Laboratory Technicians	38818.59434971507	13.302678097816356	Healthcare Practitioners and Technical Occupations
+Medical and Clinical Laboratory Technologists	58749.613378706534	15.188765791031265	Healthcare Practitioners and Technical Occupations
+Mental Health Counselors	49525.653096238755	15.720117859979784	Community and Social Service Occupations
+Purchasing Agents, Except Wholesale, Retail, and Farm Products	63569.33738724395	15.304686244129142	Business and Financial Operations Occupations
+Radio, Cellular, and Tower Equipment Installers and Repairs	50115.4375056275	12.837692383644335	Installation, Maintenance, and Repair Occupations
+Radiologic Technologists 	60534.626917055924	14.357811158543036	Healthcare Practitioners and Technical Occupations
+Segmental Pavers	48373.71565658288	12.0	Construction and Extraction Occupations
+Slot Supervisors	43028.53568853978	12.500636827273173	Personal Care and Service Occupations
+Substance Abuse and Behavioral Disorder Counselors	49035.26411466723	15.931394105291767	Community and Social Service Occupations
+Teachers and Instructors, All Other	49502.58863056208	15.934708107356768	Education, Training, and Library Occupations
+Team Assemblers	27209.0429089224	12.000499479508084	Production Occupations
+Tour Guides and Escorts	38775.67514082047	13.239973385596338	Personal Care and Service Occupations
+Transportation Attendants, Except Flight Attendants 	26396.201669252747	12.17448266301242	Transportation and Material Moving Occupations
+Travel Guides	34501.78336729498	13.515474161998352	Personal Care and Service Occupations
+Wholesale and Retail Buyers, Except Farm Products	64490.85020453898	15.383629163505645	Business and Financial Operations Occupations
